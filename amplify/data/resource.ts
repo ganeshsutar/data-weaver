@@ -119,7 +119,7 @@ const schema = a.schema({
       error: a.ref("AnalysisError"),
     })
     .secondaryIndexes((index) => [
-      index("userId").sortKeys(["createdAt"]).name("byUser"),
+      index("userId").name("byUser"),
     ])
     .authorization((allow) => [allow.owner()]),
 
@@ -131,7 +131,7 @@ const schema = a.schema({
       content: a.string().required(),
     })
     .secondaryIndexes((index) => [
-      index("analysisId").sortKeys(["createdAt"]).name("byAnalysis"),
+      index("analysisId").name("byAnalysis"),
     ])
     .authorization((allow) => [allow.owner()]),
 });
