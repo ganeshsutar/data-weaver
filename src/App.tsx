@@ -12,18 +12,31 @@ import { OverviewPage } from "@/pages/OverviewPage"
 import { MusicPage } from "@/pages/MusicPage"
 import { NewsPage } from "@/pages/NewsPage"
 import { EventsPage } from "@/pages/EventsPage"
+import { fetchUserAttributes } from "aws-amplify/auth"
+import { useEffect, useState } from "react"
 
-interface AuthenticatedLayoutProps {
-  user?: {
-    username?: string
-    signInDetails?: { loginId?: string }
-  }
-  signOut?: () => void
-}
+function AuthenticatedLayout() {
+  // Get user data directly from the hook to ensure we have the latest data
+  const { user, signOut } = useAuthenticator((context) => [context.user])
+  const [email, setEmail] = useState<string | undefined>(
+    user?.signInDetails?.loginId || user?.username
+  )
 
-function AuthenticatedLayout({ user, signOut }: AuthenticatedLayoutProps) {
-  // For email-based auth, username is the email
-  const email = user?.signInDetails?.loginId || user?.username
+  // Fetch user attributes to get the email
+  useEffect(() => {
+    const getUserEmail = async () => {
+      try {
+        const attributes = await fetchUserAttributes()
+        setEmail(attributes.email || user?.username)
+      } catch (error) {
+        console.error("Error fetching user attributes:", error)
+        // Fallback to signInDetails or username
+        setEmail(user?.signInDetails?.loginId || user?.username)
+      }
+    }
+
+    getUserEmail()
+  }, [user])
 
   return (
     <SidebarProvider>
@@ -40,7 +53,7 @@ function AuthenticatedLayout({ user, signOut }: AuthenticatedLayoutProps) {
 }
 
 function AppContent() {
-  const { authStatus, user, signOut } = useAuthenticator()
+  const { authStatus } = useAuthenticator()
 
   if (authStatus !== "authenticated") {
     return <AuthPages />
@@ -49,7 +62,7 @@ function AppContent() {
   const router = createBrowserRouter([
     {
       path: "/",
-      element: <AuthenticatedLayout user={user} signOut={signOut} />,
+      element: <AuthenticatedLayout />,
       children: [
         { index: true, element: <OverviewPage /> },
         { path: "music", element: <MusicPage /> },
