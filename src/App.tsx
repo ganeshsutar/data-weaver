@@ -1,5 +1,4 @@
-import { Authenticator } from "@aws-amplify/ui-react"
-import "@aws-amplify/ui-react/styles.css"
+import { Authenticator, useAuthenticator } from "@aws-amplify/ui-react"
 import {
   RouterProvider,
   createBrowserRouter,
@@ -8,8 +7,11 @@ import {
 import { SidebarProvider } from "@/components/ui/sidebar"
 import { AppSidebar } from "@/components/layout/AppSidebar"
 import { ThemeProvider } from "@/components/ThemeProvider"
-import { HomePage } from "@/pages/HomePage"
-import { AnalysisPage } from "@/pages/AnalysisPage"
+import { AuthPages } from "@/components/auth/AuthPages"
+import { OverviewPage } from "@/pages/OverviewPage"
+import { MusicPage } from "@/pages/MusicPage"
+import { NewsPage } from "@/pages/NewsPage"
+import { EventsPage } from "@/pages/EventsPage"
 
 interface AuthenticatedLayoutProps {
   user?: {
@@ -20,12 +22,15 @@ interface AuthenticatedLayoutProps {
 }
 
 function AuthenticatedLayout({ user, signOut }: AuthenticatedLayoutProps) {
+  // For email-based auth, username is the email
+  const email = user?.signInDetails?.loginId || user?.username
+
   return (
     <SidebarProvider>
       <AppSidebar
         user={{
           username: user?.username,
-          email: user?.signInDetails?.loginId,
+          email,
         }}
         onSignOut={signOut}
       />
@@ -34,33 +39,35 @@ function AuthenticatedLayout({ user, signOut }: AuthenticatedLayoutProps) {
   )
 }
 
+function AppContent() {
+  const { authStatus, user, signOut } = useAuthenticator()
+
+  if (authStatus !== "authenticated") {
+    return <AuthPages />
+  }
+
+  const router = createBrowserRouter([
+    {
+      path: "/",
+      element: <AuthenticatedLayout user={user} signOut={signOut} />,
+      children: [
+        { index: true, element: <OverviewPage /> },
+        { path: "music", element: <MusicPage /> },
+        { path: "news", element: <NewsPage /> },
+        { path: "events", element: <EventsPage /> },
+      ],
+    },
+  ])
+
+  return <RouterProvider router={router} />
+}
+
 function App() {
   return (
-    <ThemeProvider defaultTheme="dark">
-      <Authenticator>
-        {({ user, signOut }) => {
-          const router = createBrowserRouter([
-            {
-              path: "/",
-              element: (
-                <AuthenticatedLayout user={user} signOut={signOut} />
-              ),
-              children: [
-                {
-                  index: true,
-                  element: <HomePage />,
-                },
-                {
-                  path: ":analysisId",
-                  element: <AnalysisPage />,
-                },
-              ],
-            },
-          ])
-
-          return <RouterProvider router={router} />
-        }}
-      </Authenticator>
+    <ThemeProvider>
+      <Authenticator.Provider>
+        <AppContent />
+      </Authenticator.Provider>
     </ThemeProvider>
   )
 }

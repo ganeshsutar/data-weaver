@@ -146,9 +146,6 @@ export function RecentAnalyses() {
                 Archived
               </TabsTrigger>
             </TabsList>
-            <Button variant="outline" size="sm">
-              + Add Analysis
-            </Button>
           </div>
           <CardContent className="pt-4 px-0">
             <TabsContent value="all" className="mt-0">

@@ -1,0 +1,3743 @@
+[
+  {
+    "year_month": "2012-01",
+    "year": 2012,
+    "month": 1,
+    "total_articles": 331.0,
+    "sentiment_mean": 0.4725075528700906,
+    "sentiment_std": 0.1675113630801299,
+    "categories": {
+      "politics": 0.0,
+      "entertainment": 5.0,
+      "comedy": 11.0,
+      "crime": 0.0,
+      "world_news": 0.0,
+      "wellness": 51.0
+    },
+    "percentages": {
+      "politics": 0.0,
+      "entertainment": 1.5105740181268883,
+      "comedy": 3.3232628398791544,
+      "crime": 0.0,
+      "world_news": 0.0,
+      "wellness": 15.407854984894259
+    },
+    "top_categories": {
+      "STYLE & BEAUTY": 67,
+      "WELLNESS": 51,
+      "TRAVEL": 37
+    }
+  },
+  {
+    "year_month": "2012-02",
+    "year": 2012,
+    "month": 2,
+    "total_articles": 2693.0,
+    "sentiment_mean": 0.4701076865948756,
+    "sentiment_std": 0.1635005132095762,
+    "categories": {
+      "politics": 0.0,
+      "entertainment": 50.0,
+      "comedy": 53.0,
+      "crime": 15.0,
+      "world_news": 0.0,
+      "wellness": 562.0
+    },
+    "percentages": {
+      "politics": 0.0,
+      "entertainment": 1.856665428889714,
+      "comedy": 1.9680653546230968,
+      "crime": 0.5569996286669142,
+      "world_news": 0.0,
+      "wellness": 20.868919420720385
+    },
+    "top_categories": {
+      "STYLE & BEAUTY": 643,
+      "WELLNESS": 562,
+      "TRAVEL": 239
+    }
+  },
+  {
+    "year_month": "2012-03",
+    "year": 2012,
+    "month": 3,
+    "total_articles": 2880.0,
+    "sentiment_mean": 0.4591319444444444,
+    "sentiment_std": 0.1630507924250114,
+    "categories": {
+      "politics": 0.0,
+      "entertainment": 36.0,
+      "comedy": 44.0,
+      "crime": 14.0,
+      "world_news": 0.0,
+      "wellness": 592.0
+    },
+    "percentages": {
+      "politics": 0.0,
+      "entertainment": 1.25,
+      "comedy": 1.5277777777777777,
+      "crime": 0.4861111111111111,
+      "world_news": 0.0,
+      "wellness": 20.555555555555554
+    },
+    "top_categories": {
+      "STYLE & BEAUTY": 604,
+      "WELLNESS": 592,
+      "TRAVEL": 280
+    }
+  },
+  {
+    "year_month": "2012-04",
+    "year": 2012,
+    "month": 4,
+    "total_articles": 2769.0,
+    "sentiment_mean": 0.4562296858071505,
+    "sentiment_std": 0.1656078289384826,
+    "categories": {
+      "politics": 0.0,
+      "entertainment": 49.0,
+      "comedy": 44.0,
+      "crime": 8.0,
+      "world_news": 0.0,
+      "wellness": 601.0
+    },
+    "percentages": {
+      "politics": 0.0,
+      "entertainment": 1.7695919104369808,
+      "comedy": 1.5890213073311665,
+      "crime": 0.288912964969303,
+      "world_news": 0.0,
+      "wellness": 21.704586493318885
+    },
+    "top_categories": {
+      "WELLNESS": 601,
+      "STYLE & BEAUTY": 557,
+      "PARENTING": 265
+    }
+  },
+  {
+    "year_month": "2012-05",
+    "year": 2012,
+    "month": 5,
+    "total_articles": 2899.0,
+    "sentiment_mean": 0.455639875819248,
+    "sentiment_std": 0.167508523963817,
+    "categories": {
+      "politics": 0.0,
+      "entertainment": 43.0,
+      "comedy": 51.0,
+      "crime": 15.0,
+      "world_news": 0.0,
+      "wellness": 641.0
+    },
+    "percentages": {
+      "politics": 0.0,
+      "entertainment": 1.483270093135564,
+      "comedy": 1.7592273197654364,
+      "crime": 0.5174197999310107,
+      "world_news": 0.0,
+      "wellness": 22.111072783718523
+    },
+    "top_categories": {
+      "WELLNESS": 641,
+      "STYLE & BEAUTY": 566,
+      "PARENTING": 302
+    }
+  },
+  {
+    "year_month": "2012-06",
+    "year": 2012,
+    "month": 6,
+    "total_articles": 2792.0,
+    "sentiment_mean": 0.4500716332378223,
+    "sentiment_std": 0.1674304570934014,
+    "categories": {
+      "politics": 0.0,
+      "entertainment": 49.0,
+      "comedy": 46.0,
+      "crime": 25.0,
+      "world_news": 0.0,
+      "wellness": 714.0
+    },
+    "percentages": {
+      "politics": 0.0,
+      "entertainment": 1.7550143266475644,
+      "comedy": 1.64756446991404,
+      "crime": 0.8954154727793696,
+      "world_news": 0.0,
+      "wellness": 25.573065902578797
+    },
+    "top_categories": {
+      "WELLNESS": 714,
+      "STYLE & BEAUTY": 433,
+      "PARENTING": 304
+    }
+  },
+  {
+    "year_month": "2012-07",
+    "year": 2012,
+    "month": 7,
+    "total_articles": 2868.0,
+    "sentiment_mean": 0.4669107391910739,
+    "sentiment_std": 0.165944075061047,
+    "categories": {
+      "politics": 0.0,
+      "entertainment": 69.0,
+      "comedy": 47.0,
+      "crime": 18.0,
+      "world_news": 0.0,
+      "wellness": 693.0
+    },
+    "percentages": {
+      "politics": 0.0,
+      "entertainment": 2.405857740585774,
+      "comedy": 1.6387726638772664,
+      "crime": 0.6276150627615062,
+      "world_news": 0.0,
+      "wellness": 24.163179916317993
+    },
+    "top_categories": {
+      "WELLNESS": 693,
+      "STYLE & BEAUTY": 433,
+      "TRAVEL": 358
+    }
+  },
+  {
+    "year_month": "2012-08",
+    "year": 2012,
+    "month": 8,
+    "total_articles": 2861.0,
+    "sentiment_mean": 0.4658511010136316,
+    "sentiment_std": 0.1681591534774805,
+    "categories": {
+      "politics": 0.0,
+      "entertainment": 42.0,
+      "comedy": 43.0,
+      "crime": 21.0,
+      "world_news": 0.0,
+      "wellness": 675.0
+    },
+    "percentages": {
+      "politics": 0.0,
+      "entertainment": 1.468018175463125,
+      "comedy": 1.502970989164628,
+      "crime": 0.7340090877315625,
+      "world_news": 0.0,
+      "wellness": 23.593149248514507
+    },
+    "top_categories": {
+      "WELLNESS": 675,
+      "STYLE & BEAUTY": 492,
+      "TRAVEL": 334
+    }
+  },
+  {
+    "year_month": "2012-09",
+    "year": 2012,
+    "month": 9,
+    "total_articles": 2776.0,
+    "sentiment_mean": 0.4686599423631123,
+    "sentiment_std": 0.163380300273105,
+    "categories": {
+      "politics": 0.0,
+      "entertainment": 49.0,
+      "comedy": 69.0,
+      "crime": 21.0,
+      "world_news": 0.0,
+      "wellness": 648.0
+    },
+    "percentages": {
+      "politics": 0.0,
+      "entertainment": 1.7651296829971181,
+      "comedy": 2.4855907780979827,
+      "crime": 0.7564841498559077,
+      "world_news": 0.0,
+      "wellness": 23.34293948126801
+    },
+    "top_categories": {
+      "WELLNESS": 648,
+      "STYLE & BEAUTY": 400,
+      "TRAVEL": 293
+    }
+  },
+  {
+    "year_month": "2012-10",
+    "year": 2012,
+    "month": 10,
+    "total_articles": 2904.0,
+    "sentiment_mean": 0.4683539944903581,
+    "sentiment_std": 0.167617632478693,
+    "categories": {
+      "politics": 0.0,
+      "entertainment": 55.0,
+      "comedy": 70.0,
+      "crime": 24.0,
+      "world_news": 0.0,
+      "wellness": 692.0
+    },
+    "percentages": {
+      "politics": 0.0,
+      "entertainment": 1.893939393939394,
+      "comedy": 2.4104683195592287,
+      "crime": 0.8264462809917356,
+      "world_news": 0.0,
+      "wellness": 23.829201101928373
+    },
+    "top_categories": {
+      "WELLNESS": 692,
+      "STYLE & BEAUTY": 360,
+      "TRAVEL": 295
+    }
+  },
+  {
+    "year_month": "2012-11",
+    "year": 2012,
+    "month": 11,
+    "total_articles": 2775.0,
+    "sentiment_mean": 0.4653333333333333,
+    "sentiment_std": 0.1688259072959036,
+    "categories": {
+      "politics": 0.0,
+      "entertainment": 64.0,
+      "comedy": 66.0,
+      "crime": 11.0,
+      "world_news": 0.0,
+      "wellness": 618.0
+    },
+    "percentages": {
+      "politics": 0.0,
+      "entertainment": 2.3063063063063063,
+      "comedy": 2.3783783783783785,
+      "crime": 0.3963963963963964,
+      "world_news": 0.0,
+      "wellness": 22.27027027027027
+    },
+    "top_categories": {
+      "WELLNESS": 618,
+      "STYLE & BEAUTY": 323,
+      "TRAVEL": 311
+    }
+  },
+  {
+    "year_month": "2012-12",
+    "year": 2012,
+    "month": 12,
+    "total_articles": 2807.0,
+    "sentiment_mean": 0.4584253651585322,
+    "sentiment_std": 0.1683196905176753,
+    "categories": {
+      "politics": 0.0,
+      "entertainment": 51.0,
+      "comedy": 60.0,
+      "crime": 27.0,
+      "world_news": 0.0,
+      "wellness": 651.0
+    },
+    "percentages": {
+      "politics": 0.0,
+      "entertainment": 1.816886355539722,
+      "comedy": 2.1375133594584965,
+      "crime": 0.9618810117563236,
+      "world_news": 0.0,
+      "wellness": 23.19201995012469
+    },
+    "top_categories": {
+      "WELLNESS": 651,
+      "PARENTING": 328,
+      "STYLE & BEAUTY": 315
+    }
+  },
+  {
+    "year_month": "2013-01",
+    "year": 2013,
+    "month": 1,
+    "total_articles": 2948.0,
+    "sentiment_mean": 0.4567503392130257,
+    "sentiment_std": 0.1676355745862679,
+    "categories": {
+      "politics": 0.0,
+      "entertainment": 51.0,
+      "comedy": 54.0,
+      "crime": 22.0,
+      "world_news": 0.0,
+      "wellness": 712.0
+    },
+    "percentages": {
+      "politics": 0.0,
+      "entertainment": 1.7299864314789688,
+      "comedy": 1.8317503392130257,
+      "crime": 0.7462686567164178,
+      "world_news": 0.0,
+      "wellness": 24.151967435549526
+    },
+    "top_categories": {
+      "WELLNESS": 712,
+      "PARENTING": 444,
+      "TRAVEL": 288
+    }
+  },
+  {
+    "year_month": "2013-02",
+    "year": 2013,
+    "month": 2,
+    "total_articles": 2685.0,
+    "sentiment_mean": 0.4663687150837989,
+    "sentiment_std": 0.1621082863007232,
+    "categories": {
+      "politics": 0.0,
+      "entertainment": 60.0,
+      "comedy": 49.0,
+      "crime": 15.0,
+      "world_news": 0.0,
+      "wellness": 610.0
+    },
+    "percentages": {
+      "politics": 0.0,
+      "entertainment": 2.2346368715083798,
+      "comedy": 1.824953445065177,
+      "crime": 0.5586592178770949,
+      "world_news": 0.0,
+      "wellness": 22.71880819366853
+    },
+    "top_categories": {
+      "WELLNESS": 610,
+      "PARENTING": 351,
+      "STYLE & BEAUTY": 315
+    }
+  },
+  {
+    "year_month": "2013-03",
+    "year": 2013,
+    "month": 3,
+    "total_articles": 2922.0,
+    "sentiment_mean": 0.4700547570157426,
+    "sentiment_std": 0.167354295427927,
+    "categories": {
+      "politics": 0.0,
+      "entertainment": 94.0,
+      "comedy": 50.0,
+      "crime": 11.0,
+      "world_news": 0.0,
+      "wellness": 679.0
+    },
+    "percentages": {
+      "politics": 0.0,
+      "entertainment": 3.2169746748802193,
+      "comedy": 1.7111567419575633,
+      "crime": 0.37645448323066394,
+      "world_news": 0.0,
+      "wellness": 23.23750855578371
+    },
+    "top_categories": {
+      "WELLNESS": 679,
+      "PARENTING": 407,
+      "FOOD & DRINK": 322
+    }
+  },
+  {
+    "year_month": "2013-04",
+    "year": 2013,
+    "month": 4,
+    "total_articles": 2895.0,
+    "sentiment_mean": 0.4606217616580311,
+    "sentiment_std": 0.1744483662606827,
+    "categories": {
+      "politics": 0.0,
+      "entertainment": 61.0,
+      "comedy": 28.0,
+      "crime": 23.0,
+      "world_news": 0.0,
+      "wellness": 703.0
+    },
+    "percentages": {
+      "politics": 0.0,
+      "entertainment": 2.1070811744386875,
+      "comedy": 0.9671848013816925,
+      "crime": 0.7944732297063902,
+      "world_news": 0.0,
+      "wellness": 24.283246977547496
+    },
+    "top_categories": {
+      "WELLNESS": 703,
+      "PARENTING": 389,
+      "STYLE & BEAUTY": 317
+    }
+  },
+  {
+    "year_month": "2013-05",
+    "year": 2013,
+    "month": 5,
+    "total_articles": 2949.0,
+    "sentiment_mean": 0.4652085452695829,
+    "sentiment_std": 0.1826519522656078,
+    "categories": {
+      "politics": 0.0,
+      "entertainment": 97.0,
+      "comedy": 41.0,
+      "crime": 19.0,
+      "world_news": 0.0,
+      "wellness": 633.0
+    },
+    "percentages": {
+      "politics": 0.0,
+      "entertainment": 3.2892505934214986,
+      "comedy": 1.3903017972193965,
+      "crime": 0.6442861987114276,
+      "world_news": 0.0,
+      "wellness": 21.46490335707019
+    },
+    "top_categories": {
+      "WELLNESS": 633,
+      "PARENTING": 359,
+      "FOOD & DRINK": 284
+    }
+  },
+  {
+    "year_month": "2013-06",
+    "year": 2013,
+    "month": 6,
+    "total_articles": 2796.0,
+    "sentiment_mean": 0.4620529327610873,
+    "sentiment_std": 0.1832755202923841,
+    "categories": {
+      "politics": 0.0,
+      "entertainment": 98.0,
+      "comedy": 37.0,
+      "crime": 12.0,
+      "world_news": 0.0,
+      "wellness": 603.0
+    },
+    "percentages": {
+      "politics": 0.0,
+      "entertainment": 3.5050071530758222,
+      "comedy": 1.3233190271816881,
+      "crime": 0.4291845493562232,
+      "world_news": 0.0,
+      "wellness": 21.566523605150216
+    },
+    "top_categories": {
+      "WELLNESS": 603,
+      "PARENTING": 278,
+      "TRAVEL": 275
+    }
+  },
+  {
+    "year_month": "2013-07",
+    "year": 2013,
+    "month": 7,
+    "total_articles": 2939.0,
+    "sentiment_mean": 0.4641714869003062,
+    "sentiment_std": 0.1776455745583824,
+    "categories": {
+      "politics": 0.0,
+      "entertainment": 95.0,
+      "comedy": 41.0,
+      "crime": 28.0,
+      "world_news": 0.0,
+      "wellness": 641.0
+    },
+    "percentages": {
+      "politics": 0.0,
+      "entertainment": 3.2323919700578427,
+      "comedy": 1.3950323239197007,
+      "crime": 0.9527050017012589,
+      "world_news": 0.0,
+      "wellness": 21.810139503232392
+    },
+    "top_categories": {
+      "WELLNESS": 641,
+      "PARENTING": 324,
+      "FOOD & DRINK": 297
+    }
+  },
+  {
+    "year_month": "2013-08",
+    "year": 2013,
+    "month": 8,
+    "total_articles": 2907.0,
+    "sentiment_mean": 0.4679394564843481,
+    "sentiment_std": 0.1790584433463951,
+    "categories": {
+      "politics": 0.0,
+      "entertainment": 66.0,
+      "comedy": 34.0,
+      "crime": 11.0,
+      "world_news": 0.0,
+      "wellness": 595.0
+    },
+    "percentages": {
+      "politics": 0.0,
+      "entertainment": 2.2703818369453046,
+      "comedy": 1.1695906432748537,
+      "crime": 0.3783969728242174,
+      "world_news": 0.0,
+      "wellness": 20.46783625730994
+    },
+    "top_categories": {
+      "WELLNESS": 595,
+      "TRAVEL": 328,
+      "FOOD & DRINK": 318
+    }
+  },
+  {
+    "year_month": "2013-09",
+    "year": 2013,
+    "month": 9,
+    "total_articles": 2831.0,
+    "sentiment_mean": 0.4605439773931473,
+    "sentiment_std": 0.162231307922523,
+    "categories": {
+      "politics": 0.0,
+      "entertainment": 78.0,
+      "comedy": 29.0,
+      "crime": 14.0,
+      "world_news": 0.0,
+      "wellness": 674.0
+    },
+    "percentages": {
+      "politics": 0.0,
+      "entertainment": 2.755210173083716,
+      "comedy": 1.0243730130695867,
+      "crime": 0.49452490286117984,
+      "world_news": 0.0,
+      "wellness": 23.807841752031084
+    },
+    "top_categories": {
+      "WELLNESS": 674,
+      "STYLE & BEAUTY": 365,
+      "PARENTING": 328
+    }
+  },
+  {
+    "year_month": "2013-10",
+    "year": 2013,
+    "month": 10,
+    "total_articles": 2953.0,
+    "sentiment_mean": 0.4675584151710125,
+    "sentiment_std": 0.1618952120333715,
+    "categories": {
+      "politics": 0.0,
+      "entertainment": 59.0,
+      "comedy": 33.0,
+      "crime": 12.0,
+      "world_news": 0.0,
+      "wellness": 726.0
+    },
+    "percentages": {
+      "politics": 0.0,
+      "entertainment": 1.9979681679647816,
+      "comedy": 1.117507619370132,
+      "crime": 0.4063664070436844,
+      "world_news": 0.0,
+      "wellness": 24.585167626142905
+    },
+    "top_categories": {
+      "WELLNESS": 726,
+      "PARENTING": 390,
+      "TRAVEL": 337
+    }
+  },
+  {
+    "year_month": "2013-11",
+    "year": 2013,
+    "month": 11,
+    "total_articles": 2846.0,
+    "sentiment_mean": 0.4609276177090653,
+    "sentiment_std": 0.1653617763536115,
+    "categories": {
+      "politics": 0.0,
+      "entertainment": 121.0,
+      "comedy": 42.0,
+      "crime": 29.0,
+      "world_news": 0.0,
+      "wellness": 707.0
+    },
+    "percentages": {
+      "politics": 0.0,
+      "entertainment": 4.251581166549543,
+      "comedy": 1.4757554462403373,
+      "crime": 1.0189739985945185,
+      "world_news": 0.0,
+      "wellness": 24.84188334504568
+    },
+    "top_categories": {
+      "WELLNESS": 707,
+      "STYLE & BEAUTY": 294,
+      "PARENTING": 284
+    }
+  },
+  {
+    "year_month": "2013-12",
+    "year": 2013,
+    "month": 12,
+    "total_articles": 2912.0,
+    "sentiment_mean": 0.4640796703296703,
+    "sentiment_std": 0.1657796850960556,
+    "categories": {
+      "politics": 0.0,
+      "entertainment": 135.0,
+      "comedy": 49.0,
+      "crime": 40.0,
+      "world_news": 0.0,
+      "wellness": 746.0
+    },
+    "percentages": {
+      "politics": 0.0,
+      "entertainment": 4.635989010989011,
+      "comedy": 1.6826923076923077,
+      "crime": 1.3736263736263736,
+      "world_news": 0.0,
+      "wellness": 25.618131868131865
+    },
+    "top_categories": {
+      "WELLNESS": 746,
+      "PARENTING": 343,
+      "TRAVEL": 317
+    }
+  },
+  {
+    "year_month": "2014-01",
+    "year": 2014,
+    "month": 1,
+    "total_articles": 2900.0,
+    "sentiment_mean": 0.4597931034482759,
+    "sentiment_std": 0.167022373408669,
+    "categories": {
+      "politics": 0.0,
+      "entertainment": 58.0,
+      "comedy": 39.0,
+      "crime": 21.0,
+      "world_news": 0.0,
+      "wellness": 774.0
+    },
+    "percentages": {
+      "politics": 0.0,
+      "entertainment": 2.0,
+      "comedy": 1.3448275862068966,
+      "crime": 0.7241379310344828,
+      "world_news": 0.0,
+      "wellness": 26.689655172413794
+    },
+    "top_categories": {
+      "WELLNESS": 774,
+      "PARENTING": 366,
+      "TRAVEL": 357
+    }
+  },
+  {
+    "year_month": "2014-02",
+    "year": 2014,
+    "month": 2,
+    "total_articles": 2640.0,
+    "sentiment_mean": 0.4578787878787879,
+    "sentiment_std": 0.1644125823603346,
+    "categories": {
+      "politics": 0.0,
+      "entertainment": 66.0,
+      "comedy": 32.0,
+      "crime": 21.0,
+      "world_news": 0.0,
+      "wellness": 704.0
+    },
+    "percentages": {
+      "politics": 0.0,
+      "entertainment": 2.5,
+      "comedy": 1.2121212121212122,
+      "crime": 0.7954545454545454,
+      "world_news": 0.0,
+      "wellness": 26.666666666666668
+    },
+    "top_categories": {
+      "WELLNESS": 704,
+      "PARENTING": 368,
+      "TRAVEL": 276
+    }
+  },
+  {
+    "year_month": "2014-03",
+    "year": 2014,
+    "month": 3,
+    "total_articles": 2812.0,
+    "sentiment_mean": 0.458854907539118,
+    "sentiment_std": 0.1680972182353677,
+    "categories": {
+      "politics": 0.0,
+      "entertainment": 71.0,
+      "comedy": 30.0,
+      "crime": 23.0,
+      "world_news": 0.0,
+      "wellness": 748.0
+    },
+    "percentages": {
+      "politics": 0.0,
+      "entertainment": 2.5248933143669987,
+      "comedy": 1.0668563300142246,
+      "crime": 0.8179231863442389,
+      "world_news": 0.0,
+      "wellness": 26.600284495021338
+    },
+    "top_categories": {
+      "WELLNESS": 748,
+      "PARENTING": 380,
+      "TRAVEL": 308
+    }
+  },
+  {
+    "year_month": "2014-04",
+    "year": 2014,
+    "month": 4,
+    "total_articles": 2638.0,
+    "sentiment_mean": 0.4275208491281274,
+    "sentiment_std": 0.1659735146541937,
+    "categories": {
+      "politics": 133.0,
+      "entertainment": 84.0,
+      "comedy": 26.0,
+      "crime": 29.0,
+      "world_news": 0.0,
+      "wellness": 434.0
+    },
+    "percentages": {
+      "politics": 5.0416982562547386,
+      "entertainment": 3.184230477634572,
+      "comedy": 0.9855951478392722,
+      "crime": 1.0993176648976497,
+      "world_news": 0.0,
+      "wellness": 16.45185746777862
+    },
+    "top_categories": {
+      "WELLNESS": 434,
+      "PARENTING": 236,
+      "TRAVEL": 228
+    }
+  },
+  {
+    "year_month": "2014-05",
+    "year": 2014,
+    "month": 5,
+    "total_articles": 2569.0,
+    "sentiment_mean": 0.3798365122615804,
+    "sentiment_std": 0.1560258127946653,
+    "categories": {
+      "politics": 346.0,
+      "entertainment": 123.0,
+      "comedy": 55.0,
+      "crime": 47.0,
+      "world_news": 0.0,
+      "wellness": 0.0
+    },
+    "percentages": {
+      "politics": 13.468275593616195,
+      "entertainment": 4.787855196574543,
+      "comedy": 2.140910860256909,
+      "crime": 1.8295056442195405,
+      "world_news": 0.0,
+      "wellness": 0.0
+    },
+    "top_categories": {
+      "POLITICS": 346,
+      "HEALTHY LIVING": 244,
+      "PARENTS": 153
+    }
+  },
+  {
+    "year_month": "2014-06",
+    "year": 2014,
+    "month": 6,
+    "total_articles": 2635.0,
+    "sentiment_mean": 0.3875521821631879,
+    "sentiment_std": 0.1608534937753576,
+    "categories": {
+      "politics": 379.0,
+      "entertainment": 232.0,
+      "comedy": 48.0,
+      "crime": 46.0,
+      "world_news": 0.0,
+      "wellness": 0.0
+    },
+    "percentages": {
+      "politics": 14.383301707779886,
+      "entertainment": 8.804554079696395,
+      "comedy": 1.8216318785578747,
+      "crime": 1.7457305502846299,
+      "world_news": 0.0,
+      "wellness": 0.0
+    },
+    "top_categories": {
+      "POLITICS": 379,
+      "HEALTHY LIVING": 235,
+      "ENTERTAINMENT": 232
+    }
+  },
+  {
+    "year_month": "2014-07",
+    "year": 2014,
+    "month": 7,
+    "total_articles": 2763.0,
+    "sentiment_mean": 0.386391603329714,
+    "sentiment_std": 0.1711319433343698,
+    "categories": {
+      "politics": 411.0,
+      "entertainment": 258.0,
+      "comedy": 80.0,
+      "crime": 63.0,
+      "world_news": 0.0,
+      "wellness": 0.0
+    },
+    "percentages": {
+      "politics": 14.87513572204126,
+      "entertainment": 9.337676438653638,
+      "comedy": 2.895403546869345,
+      "crime": 2.2801302931596092,
+      "world_news": 0.0,
+      "wellness": 0.0
+    },
+    "top_categories": {
+      "POLITICS": 411,
+      "ENTERTAINMENT": 258,
+      "HEALTHY LIVING": 197
+    }
+  },
+  {
+    "year_month": "2014-08",
+    "year": 2014,
+    "month": 8,
+    "total_articles": 2753.0,
+    "sentiment_mean": 0.3848528877588085,
+    "sentiment_std": 0.169062872554228,
+    "categories": {
+      "politics": 400.0,
+      "entertainment": 240.0,
+      "comedy": 84.0,
+      "crime": 55.0,
+      "world_news": 0.0,
+      "wellness": 0.0
+    },
+    "percentages": {
+      "politics": 14.52960406828914,
+      "entertainment": 8.717762440973484,
+      "comedy": 3.051216854340719,
+      "crime": 1.9978205593897564,
+      "world_news": 0.0,
+      "wellness": 0.0
+    },
+    "top_categories": {
+      "POLITICS": 400,
+      "ENTERTAINMENT": 240,
+      "HEALTHY LIVING": 215
+    }
+  },
+  {
+    "year_month": "2014-09",
+    "year": 2014,
+    "month": 9,
+    "total_articles": 2620.0,
+    "sentiment_mean": 0.3859923664122137,
+    "sentiment_std": 0.1688131196249676,
+    "categories": {
+      "politics": 361.0,
+      "entertainment": 238.0,
+      "comedy": 95.0,
+      "crime": 64.0,
+      "world_news": 0.0,
+      "wellness": 0.0
+    },
+    "percentages": {
+      "politics": 13.778625954198473,
+      "entertainment": 9.083969465648854,
+      "comedy": 3.6259541984732824,
+      "crime": 2.4427480916030535,
+      "world_news": 0.0,
+      "wellness": 0.0
+    },
+    "top_categories": {
+      "POLITICS": 361,
+      "ENTERTAINMENT": 238,
+      "HEALTHY LIVING": 228
+    }
+  },
+  {
+    "year_month": "2014-10",
+    "year": 2014,
+    "month": 10,
+    "total_articles": 2686.0,
+    "sentiment_mean": 0.3814221891288161,
+    "sentiment_std": 0.1604033175998267,
+    "categories": {
+      "politics": 379.0,
+      "entertainment": 247.0,
+      "comedy": 65.0,
+      "crime": 55.0,
+      "world_news": 0.0,
+      "wellness": 0.0
+    },
+    "percentages": {
+      "politics": 14.110201042442295,
+      "entertainment": 9.195830230826507,
+      "comedy": 2.4199553239017124,
+      "crime": 2.047654504839911,
+      "world_news": 0.0,
+      "wellness": 0.0
+    },
+    "top_categories": {
+      "POLITICS": 379,
+      "HEALTHY LIVING": 281,
+      "ENTERTAINMENT": 247
+    }
+  },
+  {
+    "year_month": "2014-11",
+    "year": 2014,
+    "month": 11,
+    "total_articles": 2610.0,
+    "sentiment_mean": 0.3756704980842912,
+    "sentiment_std": 0.163313097264015,
+    "categories": {
+      "politics": 459.0,
+      "entertainment": 241.0,
+      "comedy": 61.0,
+      "crime": 53.0,
+      "world_news": 0.0,
+      "wellness": 0.0
+    },
+    "percentages": {
+      "politics": 17.586206896551722,
+      "entertainment": 9.233716475095784,
+      "comedy": 2.3371647509578546,
+      "crime": 2.0306513409961684,
+      "world_news": 0.0,
+      "wellness": 0.0
+    },
+    "top_categories": {
+      "POLITICS": 459,
+      "ENTERTAINMENT": 241,
+      "HEALTHY LIVING": 237
+    }
+  },
+  {
+    "year_month": "2014-12",
+    "year": 2014,
+    "month": 12,
+    "total_articles": 2713.0,
+    "sentiment_mean": 0.3863988204939181,
+    "sentiment_std": 0.1641642331807855,
+    "categories": {
+      "politics": 314.0,
+      "entertainment": 264.0,
+      "comedy": 75.0,
+      "crime": 71.0,
+      "world_news": 0.0,
+      "wellness": 0.0
+    },
+    "percentages": {
+      "politics": 11.57390342793955,
+      "entertainment": 9.730925175082934,
+      "comedy": 2.764467379284924,
+      "crime": 2.617029119056395,
+      "world_news": 0.0,
+      "wellness": 0.0
+    },
+    "top_categories": {
+      "POLITICS": 314,
+      "HEALTHY LIVING": 279,
+      "ENTERTAINMENT": 264
+    }
+  },
+  {
+    "year_month": "2015-01",
+    "year": 2015,
+    "month": 1,
+    "total_articles": 2664.0,
+    "sentiment_mean": 0.3739114114114114,
+    "sentiment_std": 0.1613369358496537,
+    "categories": {
+      "politics": 368.0,
+      "entertainment": 281.0,
+      "comedy": 64.0,
+      "crime": 71.0,
+      "world_news": 0.0,
+      "wellness": 0.0
+    },
+    "percentages": {
+      "politics": 13.813813813813812,
+      "entertainment": 10.548048048048047,
+      "comedy": 2.4024024024024024,
+      "crime": 2.665165165165165,
+      "world_news": 0.0,
+      "wellness": 0.0
+    },
+    "top_categories": {
+      "POLITICS": 368,
+      "ENTERTAINMENT": 281,
+      "HEALTHY LIVING": 247
+    }
+  },
+  {
+    "year_month": "2015-02",
+    "year": 2015,
+    "month": 2,
+    "total_articles": 2449.0,
+    "sentiment_mean": 0.3807268272764393,
+    "sentiment_std": 0.1582563102742021,
+    "categories": {
+      "politics": 312.0,
+      "entertainment": 248.0,
+      "comedy": 58.0,
+      "crime": 46.0,
+      "world_news": 0.0,
+      "wellness": 0.0
+    },
+    "percentages": {
+      "politics": 12.73989383421805,
+      "entertainment": 10.126582278481013,
+      "comedy": 2.3683135973866882,
+      "crime": 1.8783176806859943,
+      "world_news": 0.0,
+      "wellness": 0.0
+    },
+    "top_categories": {
+      "POLITICS": 312,
+      "ENTERTAINMENT": 248,
+      "HEALTHY LIVING": 228
+    }
+  },
+  {
+    "year_month": "2015-03",
+    "year": 2015,
+    "month": 3,
+    "total_articles": 2672.0,
+    "sentiment_mean": 0.3791541916167665,
+    "sentiment_std": 0.1651257856125132,
+    "categories": {
+      "politics": 379.0,
+      "entertainment": 238.0,
+      "comedy": 73.0,
+      "crime": 72.0,
+      "world_news": 0.0,
+      "wellness": 0.0
+    },
+    "percentages": {
+      "politics": 14.184131736526945,
+      "entertainment": 8.907185628742514,
+      "comedy": 2.7320359281437128,
+      "crime": 2.694610778443114,
+      "world_news": 0.0,
+      "wellness": 0.0
+    },
+    "top_categories": {
+      "POLITICS": 379,
+      "ENTERTAINMENT": 238,
+      "HEALTHY LIVING": 227
+    }
+  },
+  {
+    "year_month": "2015-04",
+    "year": 2015,
+    "month": 4,
+    "total_articles": 2573.0,
+    "sentiment_mean": 0.3805285658764089,
+    "sentiment_std": 0.1613927537904131,
+    "categories": {
+      "politics": 374.0,
+      "entertainment": 239.0,
+      "comedy": 58.0,
+      "crime": 60.0,
+      "world_news": 0.0,
+      "wellness": 0.0
+    },
+    "percentages": {
+      "politics": 14.535561601243685,
+      "entertainment": 9.288767975126312,
+      "comedy": 2.2541780023319085,
+      "crime": 2.331908278274388,
+      "world_news": 0.0,
+      "wellness": 0.0
+    },
+    "top_categories": {
+      "POLITICS": 374,
+      "ENTERTAINMENT": 239,
+      "HEALTHY LIVING": 189
+    }
+  },
+  {
+    "year_month": "2015-05",
+    "year": 2015,
+    "month": 5,
+    "total_articles": 2711.0,
+    "sentiment_mean": 0.3777203983769827,
+    "sentiment_std": 0.1556492319855803,
+    "categories": {
+      "politics": 373.0,
+      "entertainment": 243.0,
+      "comedy": 41.0,
+      "crime": 54.0,
+      "world_news": 0.0,
+      "wellness": 0.0
+    },
+    "percentages": {
+      "politics": 13.758760604942827,
+      "entertainment": 8.963482109922538,
+      "comedy": 1.5123570638140909,
+      "crime": 1.9918849133161196,
+      "world_news": 0.0,
+      "wellness": 0.0
+    },
+    "top_categories": {
+      "POLITICS": 373,
+      "ENTERTAINMENT": 243,
+      "HEALTHY LIVING": 225
+    }
+  },
+  {
+    "year_month": "2015-06",
+    "year": 2015,
+    "month": 6,
+    "total_articles": 2644.0,
+    "sentiment_mean": 0.3774205748865355,
+    "sentiment_std": 0.165579513302213,
+    "categories": {
+      "politics": 401.0,
+      "entertainment": 253.0,
+      "comedy": 57.0,
+      "crime": 66.0,
+      "world_news": 0.0,
+      "wellness": 0.0
+    },
+    "percentages": {
+      "politics": 15.16641452344932,
+      "entertainment": 9.568835098335855,
+      "comedy": 2.155824508320726,
+      "crime": 2.496217851739788,
+      "world_news": 0.0,
+      "wellness": 0.0
+    },
+    "top_categories": {
+      "POLITICS": 401,
+      "ENTERTAINMENT": 253,
+      "HEALTHY LIVING": 205
+    }
+  },
+  {
+    "year_month": "2015-07",
+    "year": 2015,
+    "month": 7,
+    "total_articles": 2733.0,
+    "sentiment_mean": 0.4040614709110867,
+    "sentiment_std": 0.1835721257601707,
+    "categories": {
+      "politics": 454.0,
+      "entertainment": 525.0,
+      "comedy": 96.0,
+      "crime": 99.0,
+      "world_news": 0.0,
+      "wellness": 0.0
+    },
+    "percentages": {
+      "politics": 16.611781924624953,
+      "entertainment": 19.209659714599344,
+      "comedy": 3.512623490669594,
+      "crime": 3.6223929747530184,
+      "world_news": 0.0,
+      "wellness": 0.0
+    },
+    "top_categories": {
+      "ENTERTAINMENT": 525,
+      "POLITICS": 454,
+      "SPORTS": 138
+    }
+  },
+  {
+    "year_month": "2015-08",
+    "year": 2015,
+    "month": 8,
+    "total_articles": 2716.0,
+    "sentiment_mean": 0.378240058910162,
+    "sentiment_std": 0.185857217104306,
+    "categories": {
+      "politics": 573.0,
+      "entertainment": 417.0,
+      "comedy": 79.0,
+      "crime": 167.0,
+      "world_news": 0.0,
+      "wellness": 0.0
+    },
+    "percentages": {
+      "politics": 21.09720176730486,
+      "entertainment": 15.353460972017674,
+      "comedy": 2.9086892488954343,
+      "crime": 6.148748159057437,
+      "world_news": 0.0,
+      "wellness": 0.0
+    },
+    "top_categories": {
+      "POLITICS": 573,
+      "ENTERTAINMENT": 417,
+      "CRIME": 167
+    }
+  },
+  {
+    "year_month": "2015-09",
+    "year": 2015,
+    "month": 9,
+    "total_articles": 2659.0,
+    "sentiment_mean": 0.3746897329823241,
+    "sentiment_std": 0.176589437912588,
+    "categories": {
+      "politics": 649.0,
+      "entertainment": 395.0,
+      "comedy": 76.0,
+      "crime": 82.0,
+      "world_news": 0.0,
+      "wellness": 0.0
+    },
+    "percentages": {
+      "politics": 24.407672057164348,
+      "entertainment": 14.855208725084617,
+      "comedy": 2.8582173749529898,
+      "crime": 3.0838661150808573,
+      "world_news": 0.0,
+      "wellness": 0.0
+    },
+    "top_categories": {
+      "POLITICS": 649,
+      "ENTERTAINMENT": 395,
+      "SPORTS": 153
+    }
+  },
+  {
+    "year_month": "2015-10",
+    "year": 2015,
+    "month": 10,
+    "total_articles": 2818.0,
+    "sentiment_mean": 0.3678495386799148,
+    "sentiment_std": 0.1714304993809385,
+    "categories": {
+      "politics": 778.0,
+      "entertainment": 378.0,
+      "comedy": 66.0,
+      "crime": 62.0,
+      "world_news": 0.0,
+      "wellness": 0.0
+    },
+    "percentages": {
+      "politics": 27.608232789212206,
+      "entertainment": 13.413768630234207,
+      "comedy": 2.34208658623137,
+      "crime": 2.2001419446415897,
+      "world_news": 0.0,
+      "wellness": 0.0
+    },
+    "top_categories": {
+      "POLITICS": 778,
+      "ENTERTAINMENT": 378,
+      "SPORTS": 168
+    }
+  },
+  {
+    "year_month": "2015-11",
+    "year": 2015,
+    "month": 11,
+    "total_articles": 2663.0,
+    "sentiment_mean": 0.3794592564776567,
+    "sentiment_std": 0.1782779523609677,
+    "categories": {
+      "politics": 568.0,
+      "entertainment": 400.0,
+      "comedy": 76.0,
+      "crime": 95.0,
+      "world_news": 0.0,
+      "wellness": 0.0
+    },
+    "percentages": {
+      "politics": 21.329327825760423,
+      "entertainment": 15.020653398422832,
+      "comedy": 2.853924145700338,
+      "crime": 3.5674051821254222,
+      "world_news": 0.0,
+      "wellness": 0.0
+    },
+    "top_categories": {
+      "POLITICS": 568,
+      "ENTERTAINMENT": 400,
+      "SPORTS": 163
+    }
+  },
+  {
+    "year_month": "2015-12",
+    "year": 2015,
+    "month": 12,
+    "total_articles": 2704.0,
+    "sentiment_mean": 0.3684541420118343,
+    "sentiment_std": 0.1807608557804133,
+    "categories": {
+      "politics": 658.0,
+      "entertainment": 306.0,
+      "comedy": 67.0,
+      "crime": 123.0,
+      "world_news": 0.0,
+      "wellness": 0.0
+    },
+    "percentages": {
+      "politics": 24.33431952662722,
+      "entertainment": 11.316568047337277,
+      "comedy": 2.477810650887574,
+      "crime": 4.548816568047338,
+      "world_news": 0.0,
+      "wellness": 0.0
+    },
+    "top_categories": {
+      "POLITICS": 658,
+      "ENTERTAINMENT": 306,
+      "SPORTS": 159
+    }
+  },
+  {
+    "year_month": "2016-01",
+    "year": 2016,
+    "month": 1,
+    "total_articles": 2722.0,
+    "sentiment_mean": 0.364695077149155,
+    "sentiment_std": 0.1771981668629601,
+    "categories": {
+      "politics": 744.0,
+      "entertainment": 343.0,
+      "comedy": 63.0,
+      "crime": 96.0,
+      "world_news": 0.0,
+      "wellness": 0.0
+    },
+    "percentages": {
+      "politics": 27.33284349742836,
+      "entertainment": 12.60102865540044,
+      "comedy": 2.314474650991918,
+      "crime": 3.526818515797208,
+      "world_news": 0.0,
+      "wellness": 0.0
+    },
+    "top_categories": {
+      "POLITICS": 744,
+      "ENTERTAINMENT": 343,
+      "SPORTS": 163
+    }
+  },
+  {
+    "year_month": "2016-02",
+    "year": 2016,
+    "month": 2,
+    "total_articles": 2567.0,
+    "sentiment_mean": 0.3507596416049863,
+    "sentiment_std": 0.1777533854970932,
+    "categories": {
+      "politics": 921.0,
+      "entertainment": 314.0,
+      "comedy": 47.0,
+      "crime": 69.0,
+      "world_news": 0.0,
+      "wellness": 0.0
+    },
+    "percentages": {
+      "politics": 35.87845734320218,
+      "entertainment": 12.232177639267627,
+      "comedy": 1.8309310479158551,
+      "crime": 2.687962602259447,
+      "world_news": 0.0,
+      "wellness": 0.0
+    },
+    "top_categories": {
+      "POLITICS": 921,
+      "ENTERTAINMENT": 314,
+      "SPORTS": 128
+    }
+  },
+  {
+    "year_month": "2016-03",
+    "year": 2016,
+    "month": 3,
+    "total_articles": 2701.0,
+    "sentiment_mean": 0.3590892262125139,
+    "sentiment_std": 0.1815869952682438,
+    "categories": {
+      "politics": 843.0,
+      "entertainment": 303.0,
+      "comedy": 78.0,
+      "crime": 70.0,
+      "world_news": 0.0,
+      "wellness": 0.0
+    },
+    "percentages": {
+      "politics": 31.210662717512033,
+      "entertainment": 11.218067382450943,
+      "comedy": 2.8878193261754905,
+      "crime": 2.59163272861903,
+      "world_news": 0.0,
+      "wellness": 0.0
+    },
+    "top_categories": {
+      "POLITICS": 843,
+      "ENTERTAINMENT": 303,
+      "HEALTHY LIVING": 163
+    }
+  },
+  {
+    "year_month": "2016-04",
+    "year": 2016,
+    "month": 4,
+    "total_articles": 2587.0,
+    "sentiment_mean": 0.3634325473521453,
+    "sentiment_std": 0.1879188736813271,
+    "categories": {
+      "politics": 794.0,
+      "entertainment": 283.0,
+      "comedy": 80.0,
+      "crime": 67.0,
+      "world_news": 0.0,
+      "wellness": 0.0
+    },
+    "percentages": {
+      "politics": 30.691921144182448,
+      "entertainment": 10.939311944337069,
+      "comedy": 3.092385001932741,
+      "crime": 2.58987243911867,
+      "world_news": 0.0,
+      "wellness": 0.0
+    },
+    "top_categories": {
+      "POLITICS": 794,
+      "ENTERTAINMENT": 283,
+      "BUSINESS": 120
+    }
+  },
+  {
+    "year_month": "2016-05",
+    "year": 2016,
+    "month": 5,
+    "total_articles": 2692.0,
+    "sentiment_mean": 0.3565378900445765,
+    "sentiment_std": 0.1812001498076278,
+    "categories": {
+      "politics": 827.0,
+      "entertainment": 250.0,
+      "comedy": 69.0,
+      "crime": 47.0,
+      "world_news": 0.0,
+      "wellness": 0.0
+    },
+    "percentages": {
+      "politics": 30.72065378900446,
+      "entertainment": 9.286775631500744,
+      "comedy": 2.563150074294205,
+      "crime": 1.7459138187221397,
+      "world_news": 0.0,
+      "wellness": 0.0
+    },
+    "top_categories": {
+      "POLITICS": 827,
+      "ENTERTAINMENT": 250,
+      "THE WORLDPOST": 176
+    }
+  },
+  {
+    "year_month": "2016-06",
+    "year": 2016,
+    "month": 6,
+    "total_articles": 2697.0,
+    "sentiment_mean": 0.3540600667408231,
+    "sentiment_std": 0.1776224055196222,
+    "categories": {
+      "politics": 759.0,
+      "entertainment": 233.0,
+      "comedy": 63.0,
+      "crime": 77.0,
+      "world_news": 0.0,
+      "wellness": 0.0
+    },
+    "percentages": {
+      "politics": 28.142380422691883,
+      "entertainment": 8.63922877271042,
+      "comedy": 2.3359288097886544,
+      "crime": 2.8550241008527997,
+      "world_news": 0.0,
+      "wellness": 0.0
+    },
+    "top_categories": {
+      "POLITICS": 759,
+      "ENTERTAINMENT": 233,
+      "THE WORLDPOST": 185
+    }
+  },
+  {
+    "year_month": "2016-07",
+    "year": 2016,
+    "month": 7,
+    "total_articles": 2706.0,
+    "sentiment_mean": 0.3521433850702143,
+    "sentiment_std": 0.1851337812400173,
+    "categories": {
+      "politics": 807.0,
+      "entertainment": 290.0,
+      "comedy": 63.0,
+      "crime": 79.0,
+      "world_news": 0.0,
+      "wellness": 0.0
+    },
+    "percentages": {
+      "politics": 29.82261640798226,
+      "entertainment": 10.716925351071692,
+      "comedy": 2.328159645232816,
+      "crime": 2.919438285291944,
+      "world_news": 0.0,
+      "wellness": 0.0
+    },
+    "top_categories": {
+      "POLITICS": 807,
+      "ENTERTAINMENT": 290,
+      "THE WORLDPOST": 227
+    }
+  },
+  {
+    "year_month": "2016-08",
+    "year": 2016,
+    "month": 8,
+    "total_articles": 2753.0,
+    "sentiment_mean": 0.3731202324736651,
+    "sentiment_std": 0.182472219535664,
+    "categories": {
+      "politics": 674.0,
+      "entertainment": 329.0,
+      "comedy": 77.0,
+      "crime": 50.0,
+      "world_news": 0.0,
+      "wellness": 0.0
+    },
+    "percentages": {
+      "politics": 24.4823828550672,
+      "entertainment": 11.950599346167817,
+      "comedy": 2.7969487831456594,
+      "crime": 1.8162005085361426,
+      "world_news": 0.0,
+      "wellness": 0.0
+    },
+    "top_categories": {
+      "POLITICS": 674,
+      "ENTERTAINMENT": 329,
+      "SPORTS": 248
+    }
+  },
+  {
+    "year_month": "2016-09",
+    "year": 2016,
+    "month": 9,
+    "total_articles": 2615.0,
+    "sentiment_mean": 0.3515487571701721,
+    "sentiment_std": 0.1868590575704621,
+    "categories": {
+      "politics": 820.0,
+      "entertainment": 293.0,
+      "comedy": 87.0,
+      "crime": 77.0,
+      "world_news": 0.0,
+      "wellness": 0.0
+    },
+    "percentages": {
+      "politics": 31.35755258126195,
+      "entertainment": 11.204588910133843,
+      "comedy": 3.3269598470363286,
+      "crime": 2.9445506692160612,
+      "world_news": 0.0,
+      "wellness": 0.0
+    },
+    "top_categories": {
+      "POLITICS": 820,
+      "ENTERTAINMENT": 293,
+      "THE WORLDPOST": 206
+    }
+  },
+  {
+    "year_month": "2016-10",
+    "year": 2016,
+    "month": 10,
+    "total_articles": 2757.0,
+    "sentiment_mean": 0.3499818643453029,
+    "sentiment_std": 0.1866095197960862,
+    "categories": {
+      "politics": 1007.0,
+      "entertainment": 321.0,
+      "comedy": 129.0,
+      "crime": 45.0,
+      "world_news": 0.0,
+      "wellness": 0.0
+    },
+    "percentages": {
+      "politics": 36.525208560029014,
+      "entertainment": 11.643090315560393,
+      "comedy": 4.6789989118607185,
+      "crime": 1.632208922742111,
+      "world_news": 0.0,
+      "wellness": 0.0
+    },
+    "top_categories": {
+      "POLITICS": 1007,
+      "ENTERTAINMENT": 321,
+      "THE WORLDPOST": 210
+    }
+  },
+  {
+    "year_month": "2016-11",
+    "year": 2016,
+    "month": 11,
+    "total_articles": 2650.0,
+    "sentiment_mean": 0.3361132075471698,
+    "sentiment_std": 0.1800276456662375,
+    "categories": {
+      "politics": 1017.0,
+      "entertainment": 287.0,
+      "comedy": 124.0,
+      "crime": 70.0,
+      "world_news": 0.0,
+      "wellness": 0.0
+    },
+    "percentages": {
+      "politics": 38.37735849056604,
+      "entertainment": 10.830188679245282,
+      "comedy": 4.679245283018868,
+      "crime": 2.6415094339622645,
+      "world_news": 0.0,
+      "wellness": 0.0
+    },
+    "top_categories": {
+      "POLITICS": 1017,
+      "ENTERTAINMENT": 287,
+      "THE WORLDPOST": 197
+    }
+  },
+  {
+    "year_month": "2016-12",
+    "year": 2016,
+    "month": 12,
+    "total_articles": 2651.0,
+    "sentiment_mean": 0.3507732930969445,
+    "sentiment_std": 0.1755701383785002,
+    "categories": {
+      "politics": 777.0,
+      "entertainment": 280.0,
+      "comedy": 109.0,
+      "crime": 55.0,
+      "world_news": 0.0,
+      "wellness": 0.0
+    },
+    "percentages": {
+      "politics": 29.30969445492267,
+      "entertainment": 10.562052055827989,
+      "comedy": 4.111655978875896,
+      "crime": 2.0746887966804977,
+      "world_news": 0.0,
+      "wellness": 0.0
+    },
+    "top_categories": {
+      "POLITICS": 777,
+      "ENTERTAINMENT": 280,
+      "THE WORLDPOST": 249
+    }
+  },
+  {
+    "year_month": "2017-01",
+    "year": 2017,
+    "month": 1,
+    "total_articles": 2827.0,
+    "sentiment_mean": 0.3405376724442872,
+    "sentiment_std": 0.1741366152498085,
+    "categories": {
+      "politics": 1046.0,
+      "entertainment": 361.0,
+      "comedy": 105.0,
+      "crime": 58.0,
+      "world_news": 0.0,
+      "wellness": 0.0
+    },
+    "percentages": {
+      "politics": 37.00035373187124,
+      "entertainment": 12.76972055182172,
+      "comedy": 3.714184648036788,
+      "crime": 2.0516448532012737,
+      "world_news": 0.0,
+      "wellness": 0.0
+    },
+    "top_categories": {
+      "POLITICS": 1046,
+      "ENTERTAINMENT": 361,
+      "THE WORLDPOST": 212
+    }
+  },
+  {
+    "year_month": "2017-02",
+    "year": 2017,
+    "month": 2,
+    "total_articles": 2549.0,
+    "sentiment_mean": 0.3486465280502158,
+    "sentiment_std": 0.1829333530681219,
+    "categories": {
+      "politics": 922.0,
+      "entertainment": 329.0,
+      "comedy": 141.0,
+      "crime": 54.0,
+      "world_news": 0.0,
+      "wellness": 0.0
+    },
+    "percentages": {
+      "politics": 36.17104746959592,
+      "entertainment": 12.907022361710474,
+      "comedy": 5.531581012161632,
+      "crime": 2.1184778344448802,
+      "world_news": 0.0,
+      "wellness": 0.0
+    },
+    "top_categories": {
+      "POLITICS": 922,
+      "ENTERTAINMENT": 329,
+      "THE WORLDPOST": 176
+    }
+  },
+  {
+    "year_month": "2017-03",
+    "year": 2017,
+    "month": 3,
+    "total_articles": 2637.0,
+    "sentiment_mean": 0.3444444444444445,
+    "sentiment_std": 0.1790116932192492,
+    "categories": {
+      "politics": 960.0,
+      "entertainment": 284.0,
+      "comedy": 141.0,
+      "crime": 47.0,
+      "world_news": 0.0,
+      "wellness": 0.0
+    },
+    "percentages": {
+      "politics": 36.40500568828214,
+      "entertainment": 10.769814182783467,
+      "comedy": 5.346985210466439,
+      "crime": 1.782328403488813,
+      "world_news": 0.0,
+      "wellness": 0.0
+    },
+    "top_categories": {
+      "POLITICS": 960,
+      "ENTERTAINMENT": 284,
+      "THE WORLDPOST": 210
+    }
+  },
+  {
+    "year_month": "2017-04",
+    "year": 2017,
+    "month": 4,
+    "total_articles": 2576.0,
+    "sentiment_mean": 0.3385481366459627,
+    "sentiment_std": 0.1742246847859382,
+    "categories": {
+      "politics": 873.0,
+      "entertainment": 217.0,
+      "comedy": 120.0,
+      "crime": 50.0,
+      "world_news": 1.0,
+      "wellness": 0.0
+    },
+    "percentages": {
+      "politics": 33.88975155279503,
+      "entertainment": 8.423913043478262,
+      "comedy": 4.658385093167702,
+      "crime": 1.9409937888198756,
+      "world_news": 0.03881987577639751,
+      "wellness": 0.0
+    },
+    "top_categories": {
+      "POLITICS": 873,
+      "THE WORLDPOST": 257,
+      "ENTERTAINMENT": 217
+    }
+  },
+  {
+    "year_month": "2017-05",
+    "year": 2017,
+    "month": 5,
+    "total_articles": 2709.0,
+    "sentiment_mean": 0.3253968253968254,
+    "sentiment_std": 0.1622322796489055,
+    "categories": {
+      "politics": 991.0,
+      "entertainment": 225.0,
+      "comedy": 103.0,
+      "crime": 32.0,
+      "world_news": 107.0,
+      "wellness": 0.0
+    },
+    "percentages": {
+      "politics": 36.58176448874123,
+      "entertainment": 8.305647840531561,
+      "comedy": 3.802141011443337,
+      "crime": 1.1812476928755997,
+      "world_news": 3.949796973052787,
+      "wellness": 0.0
+    },
+    "top_categories": {
+      "POLITICS": 991,
+      "ENTERTAINMENT": 225,
+      "HEALTHY LIVING": 164
+    }
+  },
+  {
+    "year_month": "2017-06",
+    "year": 2017,
+    "month": 6,
+    "total_articles": 2619.0,
+    "sentiment_mean": 0.3147002672775869,
+    "sentiment_std": 0.1504310583852139,
+    "categories": {
+      "politics": 956.0,
+      "entertainment": 191.0,
+      "comedy": 59.0,
+      "crime": 21.0,
+      "world_news": 310.0,
+      "wellness": 0.0
+    },
+    "percentages": {
+      "politics": 36.502481863306606,
+      "entertainment": 7.292859870179457,
+      "comedy": 2.252768232149675,
+      "crime": 0.8018327605956471,
+      "world_news": 11.836578846888125,
+      "wellness": 0.0
+    },
+    "top_categories": {
+      "POLITICS": 956,
+      "WORLD NEWS": 310,
+      "ENTERTAINMENT": 191
+    }
+  },
+  {
+    "year_month": "2017-07",
+    "year": 2017,
+    "month": 7,
+    "total_articles": 2461.0,
+    "sentiment_mean": 0.3264120276310443,
+    "sentiment_std": 0.1603897922212421,
+    "categories": {
+      "politics": 883.0,
+      "entertainment": 245.0,
+      "comedy": 65.0,
+      "crime": 22.0,
+      "world_news": 264.0,
+      "wellness": 0.0
+    },
+    "percentages": {
+      "politics": 35.87972368955709,
+      "entertainment": 9.955302722470542,
+      "comedy": 2.6412027631044293,
+      "crime": 0.8939455505891915,
+      "world_news": 10.727346607070297,
+      "wellness": 0.0
+    },
+    "top_categories": {
+      "POLITICS": 883,
+      "WORLD NEWS": 264,
+      "ENTERTAINMENT": 245
+    }
+  },
+  {
+    "year_month": "2017-08",
+    "year": 2017,
+    "month": 8,
+    "total_articles": 2586.0,
+    "sentiment_mean": 0.3294276875483372,
+    "sentiment_std": 0.1589259805781786,
+    "categories": {
+      "politics": 912.0,
+      "entertainment": 260.0,
+      "comedy": 72.0,
+      "crime": 26.0,
+      "world_news": 220.0,
+      "wellness": 0.0
+    },
+    "percentages": {
+      "politics": 35.266821345707655,
+      "entertainment": 10.05413766434648,
+      "comedy": 2.784222737819025,
+      "crime": 1.005413766434648,
+      "world_news": 8.507347254447023,
+      "wellness": 0.0
+    },
+    "top_categories": {
+      "POLITICS": 912,
+      "ENTERTAINMENT": 260,
+      "WORLD NEWS": 220
+    }
+  },
+  {
+    "year_month": "2017-09",
+    "year": 2017,
+    "month": 9,
+    "total_articles": 2297.0,
+    "sentiment_mean": 0.3293861558554636,
+    "sentiment_std": 0.1578470603458427,
+    "categories": {
+      "politics": 765.0,
+      "entertainment": 227.0,
+      "comedy": 72.0,
+      "crime": 20.0,
+      "world_news": 211.0,
+      "wellness": 0.0
+    },
+    "percentages": {
+      "politics": 33.30430996952547,
+      "entertainment": 9.882455376578145,
+      "comedy": 3.134523291249456,
+      "crime": 0.87070091423596,
+      "world_news": 9.185894645189377,
+      "wellness": 0.0
+    },
+    "top_categories": {
+      "POLITICS": 765,
+      "ENTERTAINMENT": 227,
+      "WORLD NEWS": 211
+    }
+  },
+  {
+    "year_month": "2017-10",
+    "year": 2017,
+    "month": 10,
+    "total_articles": 2387.0,
+    "sentiment_mean": 0.3434855467113532,
+    "sentiment_std": 0.166802934271382,
+    "categories": {
+      "politics": 773.0,
+      "entertainment": 296.0,
+      "comedy": 83.0,
+      "crime": 44.0,
+      "world_news": 171.0,
+      "wellness": 0.0
+    },
+    "percentages": {
+      "politics": 32.38374528697109,
+      "entertainment": 12.400502723083369,
+      "comedy": 3.4771679932970256,
+      "crime": 1.8433179723502304,
+      "world_news": 7.163803937997486,
+      "wellness": 0.0
+    },
+    "top_categories": {
+      "POLITICS": 773,
+      "ENTERTAINMENT": 296,
+      "WORLD NEWS": 171
+    }
+  },
+  {
+    "year_month": "2017-11",
+    "year": 2017,
+    "month": 11,
+    "total_articles": 2212.0,
+    "sentiment_mean": 0.3442585895117541,
+    "sentiment_std": 0.1768321218432993,
+    "categories": {
+      "politics": 772.0,
+      "entertainment": 292.0,
+      "comedy": 100.0,
+      "crime": 40.0,
+      "world_news": 176.0,
+      "wellness": 0.0
+    },
+    "percentages": {
+      "politics": 34.9005424954792,
+      "entertainment": 13.200723327305605,
+      "comedy": 4.520795660036167,
+      "crime": 1.8083182640144666,
+      "world_news": 7.956600361663653,
+      "wellness": 0.0
+    },
+    "top_categories": {
+      "POLITICS": 772,
+      "ENTERTAINMENT": 292,
+      "WORLD NEWS": 176
+    }
+  },
+  {
+    "year_month": "2017-12",
+    "year": 2017,
+    "month": 12,
+    "total_articles": 2029.0,
+    "sentiment_mean": 0.3381468703794973,
+    "sentiment_std": 0.1737556949709156,
+    "categories": {
+      "politics": 760.0,
+      "entertainment": 263.0,
+      "comedy": 90.0,
+      "crime": 35.0,
+      "world_news": 152.0,
+      "wellness": 0.0
+    },
+    "percentages": {
+      "politics": 37.45687530803352,
+      "entertainment": 12.962050271069492,
+      "comedy": 4.435682602267127,
+      "crime": 1.724987678659438,
+      "world_news": 7.491375061606703,
+      "wellness": 0.0
+    },
+    "top_categories": {
+      "POLITICS": 760,
+      "ENTERTAINMENT": 263,
+      "WORLD NEWS": 152
+    }
+  },
+  {
+    "year_month": "2018-01",
+    "year": 2018,
+    "month": 1,
+    "total_articles": 2101.0,
+    "sentiment_mean": 0.3608281770585436,
+    "sentiment_std": 0.1828428403639092,
+    "categories": {
+      "politics": 708.0,
+      "entertainment": 415.0,
+      "comedy": 92.0,
+      "crime": 28.0,
+      "world_news": 157.0,
+      "wellness": 0.0
+    },
+    "percentages": {
+      "politics": 33.698238933841026,
+      "entertainment": 19.752498810090433,
+      "comedy": 4.3788672060923375,
+      "crime": 1.332698714897668,
+      "world_news": 7.472632079961923,
+      "wellness": 0.0
+    },
+    "top_categories": {
+      "POLITICS": 708,
+      "ENTERTAINMENT": 415,
+      "WORLD NEWS": 157
+    }
+  },
+  {
+    "year_month": "2018-02",
+    "year": 2018,
+    "month": 2,
+    "total_articles": 1703.0,
+    "sentiment_mean": 0.3674104521432766,
+    "sentiment_std": 0.1806459230827287,
+    "categories": {
+      "politics": 579.0,
+      "entertainment": 279.0,
+      "comedy": 69.0,
+      "crime": 21.0,
+      "world_news": 113.0,
+      "wellness": 0.0
+    },
+    "percentages": {
+      "politics": 33.998825601879034,
+      "entertainment": 16.38285378743394,
+      "comedy": 4.051673517322373,
+      "crime": 1.2331180270111568,
+      "world_news": 6.635349383440986,
+      "wellness": 0.0
+    },
+    "top_categories": {
+      "POLITICS": 579,
+      "ENTERTAINMENT": 279,
+      "SPORTS": 236
+    }
+  },
+  {
+    "year_month": "2018-03",
+    "year": 2018,
+    "month": 3,
+    "total_articles": 1794.0,
+    "sentiment_mean": 0.3564659977703456,
+    "sentiment_std": 0.1936383586935634,
+    "categories": {
+      "politics": 697.0,
+      "entertainment": 351.0,
+      "comedy": 96.0,
+      "crime": 44.0,
+      "world_news": 120.0,
+      "wellness": 0.0
+    },
+    "percentages": {
+      "politics": 38.851727982162764,
+      "entertainment": 19.565217391304348,
+      "comedy": 5.351170568561873,
+      "crime": 2.4526198439241917,
+      "world_news": 6.688963210702341,
+      "wellness": 0.0
+    },
+    "top_categories": {
+      "POLITICS": 697,
+      "ENTERTAINMENT": 351,
+      "WORLD NEWS": 120
+    }
+  },
+  {
+    "year_month": "2018-04",
+    "year": 2018,
+    "month": 4,
+    "total_articles": 1597.0,
+    "sentiment_mean": 0.3665623043206011,
+    "sentiment_std": 0.1944957284303286,
+    "categories": {
+      "politics": 570.0,
+      "entertainment": 362.0,
+      "comedy": 85.0,
+      "crime": 43.0,
+      "world_news": 103.0,
+      "wellness": 0.0
+    },
+    "percentages": {
+      "politics": 35.69192235441453,
+      "entertainment": 22.66750156543519,
+      "comedy": 5.322479649342517,
+      "crime": 2.6925485284909207,
+      "world_news": 6.4495929868503445,
+      "wellness": 0.0
+    },
+    "top_categories": {
+      "POLITICS": 570,
+      "ENTERTAINMENT": 362,
+      "WORLD NEWS": 103
+    }
+  },
+  {
+    "year_month": "2018-05",
+    "year": 2018,
+    "month": 5,
+    "total_articles": 1411.0,
+    "sentiment_mean": 0.3719347980155917,
+    "sentiment_std": 0.2022718800925689,
+    "categories": {
+      "politics": 513.0,
+      "entertainment": 313.0,
+      "comedy": 101.0,
+      "crime": 38.0,
+      "world_news": 84.0,
+      "wellness": 0.0
+    },
+    "percentages": {
+      "politics": 36.35719347980156,
+      "entertainment": 22.18284904323175,
+      "comedy": 7.158043940467754,
+      "crime": 2.6931254429482636,
+      "world_news": 5.95322466335932,
+      "wellness": 0.0
+    },
+    "top_categories": {
+      "POLITICS": 513,
+      "ENTERTAINMENT": 313,
+      "COMEDY": 101
+    }
+  },
+  {
+    "year_month": "2018-06",
+    "year": 2018,
+    "month": 6,
+    "total_articles": 143.0,
+    "sentiment_mean": 0.2951048951048951,
+    "sentiment_std": 0.1323294391616126,
+    "categories": {
+      "politics": 30.0,
+      "entertainment": 14.0,
+      "comedy": 1.0,
+      "crime": 0.0,
+      "world_news": 41.0,
+      "wellness": 0.0
+    },
+    "percentages": {
+      "politics": 20.97902097902098,
+      "entertainment": 9.79020979020979,
+      "comedy": 0.6993006993006993,
+      "crime": 0.0,
+      "world_news": 28.671328671328673,
+      "wellness": 0.0
+    },
+    "top_categories": {
+      "WORLD NEWS": 41,
+      "U.S. NEWS": 36,
+      "POLITICS": 30
+    }
+  },
+  {
+    "year_month": "2018-07",
+    "year": 2018,
+    "month": 7,
+    "total_articles": 160.0,
+    "sentiment_mean": 0.265,
+    "sentiment_std": 0.1088533720367613,
+    "categories": {
+      "politics": 23.0,
+      "entertainment": 10.0,
+      "comedy": 0.0,
+      "crime": 0.0,
+      "world_news": 75.0,
+      "wellness": 0.0
+    },
+    "percentages": {
+      "politics": 14.374999999999998,
+      "entertainment": 6.25,
+      "comedy": 0.0,
+      "crime": 0.0,
+      "world_news": 46.875,
+      "wellness": 0.0
+    },
+    "top_categories": {
+      "WORLD NEWS": 75,
+      "U.S. NEWS": 34,
+      "POLITICS": 23
+    }
+  },
+  {
+    "year_month": "2018-08",
+    "year": 2018,
+    "month": 8,
+    "total_articles": 130.0,
+    "sentiment_mean": 0.2630769230769231,
+    "sentiment_std": 0.0941205408373401,
+    "categories": {
+      "politics": 11.0,
+      "entertainment": 7.0,
+      "comedy": 0.0,
+      "crime": 0.0,
+      "world_news": 58.0,
+      "wellness": 0.0
+    },
+    "percentages": {
+      "politics": 8.461538461538462,
+      "entertainment": 5.384615384615385,
+      "comedy": 0.0,
+      "crime": 0.0,
+      "world_news": 44.61538461538462,
+      "wellness": 0.0
+    },
+    "top_categories": {
+      "WORLD NEWS": 58,
+      "U.S. NEWS": 50,
+      "POLITICS": 11
+    }
+  },
+  {
+    "year_month": "2018-09",
+    "year": 2018,
+    "month": 9,
+    "total_articles": 157.0,
+    "sentiment_mean": 0.3305732484076433,
+    "sentiment_std": 0.1937029249286614,
+    "categories": {
+      "politics": 40.0,
+      "entertainment": 18.0,
+      "comedy": 12.0,
+      "crime": 5.0,
+      "world_news": 33.0,
+      "wellness": 0.0
+    },
+    "percentages": {
+      "politics": 25.477707006369428,
+      "entertainment": 11.464968152866243,
+      "comedy": 7.643312101910828,
+      "crime": 3.1847133757961785,
+      "world_news": 21.019108280254777,
+      "wellness": 0.0
+    },
+    "top_categories": {
+      "POLITICS": 40,
+      "WORLD NEWS": 33,
+      "U.S. NEWS": 26
+    }
+  },
+  {
+    "year_month": "2018-10",
+    "year": 2018,
+    "month": 10,
+    "total_articles": 182.0,
+    "sentiment_mean": 0.3461538461538461,
+    "sentiment_std": 0.2039974500478115,
+    "categories": {
+      "politics": 85.0,
+      "entertainment": 27.0,
+      "comedy": 15.0,
+      "crime": 10.0,
+      "world_news": 1.0,
+      "wellness": 2.0
+    },
+    "percentages": {
+      "politics": 46.7032967032967,
+      "entertainment": 14.835164835164836,
+      "comedy": 8.241758241758241,
+      "crime": 5.4945054945054945,
+      "world_news": 0.5494505494505495,
+      "wellness": 1.098901098901099
+    },
+    "top_categories": {
+      "POLITICS": 85,
+      "ENTERTAINMENT": 27,
+      "COMEDY": 15
+    }
+  },
+  {
+    "year_month": "2018-11",
+    "year": 2018,
+    "month": 11,
+    "total_articles": 175.0,
+    "sentiment_mean": 0.4011428571428571,
+    "sentiment_std": 0.2233466897949565,
+    "categories": {
+      "politics": 66.0,
+      "entertainment": 39.0,
+      "comedy": 23.0,
+      "crime": 5.0,
+      "world_news": 2.0,
+      "wellness": 0.0
+    },
+    "percentages": {
+      "politics": 37.714285714285715,
+      "entertainment": 22.285714285714285,
+      "comedy": 13.142857142857142,
+      "crime": 2.857142857142857,
+      "world_news": 1.1428571428571428,
+      "wellness": 0.0
+    },
+    "top_categories": {
+      "POLITICS": 66,
+      "ENTERTAINMENT": 39,
+      "COMEDY": 23
+    }
+  },
+  {
+    "year_month": "2018-12",
+    "year": 2018,
+    "month": 12,
+    "total_articles": 181.0,
+    "sentiment_mean": 0.3635359116022099,
+    "sentiment_std": 0.212123352695425,
+    "categories": {
+      "politics": 77.0,
+      "entertainment": 27.0,
+      "comedy": 19.0,
+      "crime": 6.0,
+      "world_news": 5.0,
+      "wellness": 1.0
+    },
+    "percentages": {
+      "politics": 42.5414364640884,
+      "entertainment": 14.917127071823206,
+      "comedy": 10.497237569060774,
+      "crime": 3.314917127071823,
+      "world_news": 2.7624309392265194,
+      "wellness": 0.5524861878453038
+    },
+    "top_categories": {
+      "POLITICS": 77,
+      "ENTERTAINMENT": 27,
+      "COMEDY": 19
+    }
+  },
+  {
+    "year_month": "2019-01",
+    "year": 2019,
+    "month": 1,
+    "total_articles": 181.0,
+    "sentiment_mean": 0.3955801104972375,
+    "sentiment_std": 0.2287218603019564,
+    "categories": {
+      "politics": 65.0,
+      "entertainment": 25.0,
+      "comedy": 30.0,
+      "crime": 4.0,
+      "world_news": 6.0,
+      "wellness": 0.0
+    },
+    "percentages": {
+      "politics": 35.91160220994475,
+      "entertainment": 13.812154696132598,
+      "comedy": 16.574585635359114,
+      "crime": 2.209944751381215,
+      "world_news": 3.314917127071823,
+      "wellness": 0.0
+    },
+    "top_categories": {
+      "POLITICS": 65,
+      "COMEDY": 30,
+      "ENTERTAINMENT": 25
+    }
+  },
+  {
+    "year_month": "2019-02",
+    "year": 2019,
+    "month": 2,
+    "total_articles": 168.0,
+    "sentiment_mean": 0.4017857142857143,
+    "sentiment_std": 0.2145802794332285,
+    "categories": {
+      "politics": 60.0,
+      "entertainment": 20.0,
+      "comedy": 24.0,
+      "crime": 0.0,
+      "world_news": 1.0,
+      "wellness": 2.0
+    },
+    "percentages": {
+      "politics": 35.714285714285715,
+      "entertainment": 11.904761904761903,
+      "comedy": 14.285714285714285,
+      "crime": 0.0,
+      "world_news": 0.5952380952380952,
+      "wellness": 1.1904761904761905
+    },
+    "top_categories": {
+      "POLITICS": 60,
+      "COMEDY": 24,
+      "ENTERTAINMENT": 20
+    }
+  },
+  {
+    "year_month": "2019-03",
+    "year": 2019,
+    "month": 3,
+    "total_articles": 179.0,
+    "sentiment_mean": 0.3173184357541899,
+    "sentiment_std": 0.1539063053873648,
+    "categories": {
+      "politics": 75.0,
+      "entertainment": 22.0,
+      "comedy": 3.0,
+      "crime": 0.0,
+      "world_news": 10.0,
+      "wellness": 0.0
+    },
+    "percentages": {
+      "politics": 41.899441340782126,
+      "entertainment": 12.290502793296088,
+      "comedy": 1.675977653631285,
+      "crime": 0.0,
+      "world_news": 5.58659217877095,
+      "wellness": 0.0
+    },
+    "top_categories": {
+      "POLITICS": 75,
+      "U.S. NEWS": 24,
+      "ENTERTAINMENT": 22
+    }
+  },
+  {
+    "year_month": "2019-04",
+    "year": 2019,
+    "month": 4,
+    "total_articles": 147.0,
+    "sentiment_mean": 0.2605442176870748,
+    "sentiment_std": 0.0736130415124888,
+    "categories": {
+      "politics": 16.0,
+      "entertainment": 2.0,
+      "comedy": 0.0,
+      "crime": 0.0,
+      "world_news": 55.0,
+      "wellness": 0.0
+    },
+    "percentages": {
+      "politics": 10.884353741496598,
+      "entertainment": 1.3605442176870748,
+      "comedy": 0.0,
+      "crime": 0.0,
+      "world_news": 37.41496598639456,
+      "wellness": 0.0
+    },
+    "top_categories": {
+      "U.S. NEWS": 63,
+      "WORLD NEWS": 55,
+      "POLITICS": 16
+    }
+  },
+  {
+    "year_month": "2019-05",
+    "year": 2019,
+    "month": 5,
+    "total_articles": 152.0,
+    "sentiment_mean": 0.3006578947368421,
+    "sentiment_std": 0.128411956348647,
+    "categories": {
+      "politics": 26.0,
+      "entertainment": 16.0,
+      "comedy": 1.0,
+      "crime": 0.0,
+      "world_news": 36.0,
+      "wellness": 0.0
+    },
+    "percentages": {
+      "politics": 17.105263157894736,
+      "entertainment": 10.526315789473683,
+      "comedy": 0.6578947368421052,
+      "crime": 0.0,
+      "world_news": 23.684210526315788,
+      "wellness": 0.0
+    },
+    "top_categories": {
+      "U.S. NEWS": 58,
+      "WORLD NEWS": 36,
+      "POLITICS": 26
+    }
+  },
+  {
+    "year_month": "2019-06",
+    "year": 2019,
+    "month": 6,
+    "total_articles": 153.0,
+    "sentiment_mean": 0.2562091503267974,
+    "sentiment_std": 0.0497758995787978,
+    "categories": {
+      "politics": 12.0,
+      "entertainment": 0.0,
+      "comedy": 0.0,
+      "crime": 0.0,
+      "world_news": 55.0,
+      "wellness": 0.0
+    },
+    "percentages": {
+      "politics": 7.8431372549019605,
+      "entertainment": 0.0,
+      "comedy": 0.0,
+      "crime": 0.0,
+      "world_news": 35.947712418300654,
+      "wellness": 0.0
+    },
+    "top_categories": {
+      "U.S. NEWS": 81,
+      "WORLD NEWS": 55,
+      "POLITICS": 12
+    }
+  },
+  {
+    "year_month": "2019-07",
+    "year": 2019,
+    "month": 7,
+    "total_articles": 159.0,
+    "sentiment_mean": 0.2792452830188679,
+    "sentiment_std": 0.0811900970594361,
+    "categories": {
+      "politics": 4.0,
+      "entertainment": 4.0,
+      "comedy": 0.0,
+      "crime": 0.0,
+      "world_news": 51.0,
+      "wellness": 0.0
+    },
+    "percentages": {
+      "politics": 2.515723270440252,
+      "entertainment": 2.515723270440252,
+      "comedy": 0.0,
+      "crime": 0.0,
+      "world_news": 32.075471698113205,
+      "wellness": 0.0
+    },
+    "top_categories": {
+      "U.S. NEWS": 92,
+      "WORLD NEWS": 51,
+      "POLITICS": 4
+    }
+  },
+  {
+    "year_month": "2019-08",
+    "year": 2019,
+    "month": 8,
+    "total_articles": 162.0,
+    "sentiment_mean": 0.2561728395061728,
+    "sentiment_std": 0.0599599846115727,
+    "categories": {
+      "politics": 10.0,
+      "entertainment": 1.0,
+      "comedy": 0.0,
+      "crime": 0.0,
+      "world_news": 66.0,
+      "wellness": 0.0
+    },
+    "percentages": {
+      "politics": 6.172839506172839,
+      "entertainment": 0.6172839506172839,
+      "comedy": 0.0,
+      "crime": 0.0,
+      "world_news": 40.74074074074074,
+      "wellness": 0.0
+    },
+    "top_categories": {
+      "U.S. NEWS": 83,
+      "WORLD NEWS": 66,
+      "POLITICS": 10
+    }
+  },
+  {
+    "year_month": "2019-09",
+    "year": 2019,
+    "month": 9,
+    "total_articles": 165.0,
+    "sentiment_mean": 0.296969696969697,
+    "sentiment_std": 0.1450080916263045,
+    "categories": {
+      "politics": 33.0,
+      "entertainment": 16.0,
+      "comedy": 3.0,
+      "crime": 3.0,
+      "world_news": 44.0,
+      "wellness": 0.0
+    },
+    "percentages": {
+      "politics": 20.0,
+      "entertainment": 9.696969696969697,
+      "comedy": 1.8181818181818181,
+      "crime": 1.8181818181818181,
+      "world_news": 26.666666666666668,
+      "wellness": 0.0
+    },
+    "top_categories": {
+      "WORLD NEWS": 44,
+      "U.S. NEWS": 43,
+      "POLITICS": 33
+    }
+  },
+  {
+    "year_month": "2019-10",
+    "year": 2019,
+    "month": 10,
+    "total_articles": 183.0,
+    "sentiment_mean": 0.3743169398907104,
+    "sentiment_std": 0.22494553208226,
+    "categories": {
+      "politics": 47.0,
+      "entertainment": 26.0,
+      "comedy": 22.0,
+      "crime": 20.0,
+      "world_news": 12.0,
+      "wellness": 0.0
+    },
+    "percentages": {
+      "politics": 25.683060109289617,
+      "entertainment": 14.207650273224044,
+      "comedy": 12.021857923497267,
+      "crime": 10.92896174863388,
+      "world_news": 6.557377049180328,
+      "wellness": 0.0
+    },
+    "top_categories": {
+      "POLITICS": 47,
+      "ENTERTAINMENT": 26,
+      "COMEDY": 22
+    }
+  },
+  {
+    "year_month": "2019-11",
+    "year": 2019,
+    "month": 11,
+    "total_articles": 175.0,
+    "sentiment_mean": 0.38,
+    "sentiment_std": 0.2130781519785046,
+    "categories": {
+      "politics": 65.0,
+      "entertainment": 36.0,
+      "comedy": 17.0,
+      "crime": 7.0,
+      "world_news": 7.0,
+      "wellness": 0.0
+    },
+    "percentages": {
+      "politics": 37.142857142857146,
+      "entertainment": 20.57142857142857,
+      "comedy": 9.714285714285714,
+      "crime": 4.0,
+      "world_news": 4.0,
+      "wellness": 0.0
+    },
+    "top_categories": {
+      "POLITICS": 65,
+      "ENTERTAINMENT": 36,
+      "COMEDY": 17
+    }
+  },
+  {
+    "year_month": "2019-12",
+    "year": 2019,
+    "month": 12,
+    "total_articles": 181.0,
+    "sentiment_mean": 0.3303867403314917,
+    "sentiment_std": 0.1742104877595681,
+    "categories": {
+      "politics": 94.0,
+      "entertainment": 23.0,
+      "comedy": 5.0,
+      "crime": 1.0,
+      "world_news": 7.0,
+      "wellness": 1.0
+    },
+    "percentages": {
+      "politics": 51.93370165745856,
+      "entertainment": 12.70718232044199,
+      "comedy": 2.7624309392265194,
+      "crime": 0.5524861878453038,
+      "world_news": 3.867403314917127,
+      "wellness": 0.5524861878453038
+    },
+    "top_categories": {
+      "POLITICS": 94,
+      "ENTERTAINMENT": 23,
+      "STYLE & BEAUTY": 12
+    }
+  },
+  {
+    "year_month": "2020-01",
+    "year": 2020,
+    "month": 1,
+    "total_articles": 154.0,
+    "sentiment_mean": 0.25,
+    "sentiment_std": 0.0849836585598797,
+    "categories": {
+      "politics": 29.0,
+      "entertainment": 5.0,
+      "comedy": 0.0,
+      "crime": 0.0,
+      "world_news": 67.0,
+      "wellness": 0.0
+    },
+    "percentages": {
+      "politics": 18.83116883116883,
+      "entertainment": 3.2467532467532463,
+      "comedy": 0.0,
+      "crime": 0.0,
+      "world_news": 43.506493506493506,
+      "wellness": 0.0
+    },
+    "top_categories": {
+      "WORLD NEWS": 67,
+      "U.S. NEWS": 46,
+      "POLITICS": 29
+    }
+  },
+  {
+    "year_month": "2020-02",
+    "year": 2020,
+    "month": 2,
+    "total_articles": 132.0,
+    "sentiment_mean": 0.2659090909090909,
+    "sentiment_std": 0.0707964995194353,
+    "categories": {
+      "politics": 19.0,
+      "entertainment": 2.0,
+      "comedy": 0.0,
+      "crime": 0.0,
+      "world_news": 36.0,
+      "wellness": 0.0
+    },
+    "percentages": {
+      "politics": 14.393939393939394,
+      "entertainment": 1.5151515151515151,
+      "comedy": 0.0,
+      "crime": 0.0,
+      "world_news": 27.27272727272727,
+      "wellness": 0.0
+    },
+    "top_categories": {
+      "U.S. NEWS": 65,
+      "WORLD NEWS": 36,
+      "POLITICS": 19
+    }
+  },
+  {
+    "year_month": "2020-03",
+    "year": 2020,
+    "month": 3,
+    "total_articles": 163.0,
+    "sentiment_mean": 0.3631901840490797,
+    "sentiment_std": 0.1598444673118617,
+    "categories": {
+      "politics": 34.0,
+      "entertainment": 29.0,
+      "comedy": 0.0,
+      "crime": 1.0,
+      "world_news": 18.0,
+      "wellness": 7.0
+    },
+    "percentages": {
+      "politics": 20.858895705521473,
+      "entertainment": 17.791411042944784,
+      "comedy": 0.0,
+      "crime": 0.6134969325153374,
+      "world_news": 11.042944785276074,
+      "wellness": 4.294478527607362
+    },
+    "top_categories": {
+      "POLITICS": 34,
+      "U.S. NEWS": 33,
+      "ENTERTAINMENT": 29
+    }
+  },
+  {
+    "year_month": "2020-04",
+    "year": 2020,
+    "month": 4,
+    "total_articles": 172.0,
+    "sentiment_mean": 0.4156976744186046,
+    "sentiment_std": 0.1697541441857731,
+    "categories": {
+      "politics": 42.0,
+      "entertainment": 45.0,
+      "comedy": 2.0,
+      "crime": 1.0,
+      "world_news": 3.0,
+      "wellness": 11.0
+    },
+    "percentages": {
+      "politics": 24.418604651162788,
+      "entertainment": 26.16279069767442,
+      "comedy": 1.1627906976744187,
+      "crime": 0.5813953488372093,
+      "world_news": 1.744186046511628,
+      "wellness": 6.395348837209303
+    },
+    "top_categories": {
+      "ENTERTAINMENT": 45,
+      "POLITICS": 42,
+      "STYLE & BEAUTY": 15
+    }
+  },
+  {
+    "year_month": "2020-05",
+    "year": 2020,
+    "month": 5,
+    "total_articles": 179.0,
+    "sentiment_mean": 0.3748603351955307,
+    "sentiment_std": 0.1782699554422173,
+    "categories": {
+      "politics": 74.0,
+      "entertainment": 47.0,
+      "comedy": 0.0,
+      "crime": 2.0,
+      "world_news": 1.0,
+      "wellness": 7.0
+    },
+    "percentages": {
+      "politics": 41.340782122905026,
+      "entertainment": 26.256983240223462,
+      "comedy": 0.0,
+      "crime": 1.1173184357541899,
+      "world_news": 0.5586592178770949,
+      "wellness": 3.910614525139665
+    },
+    "top_categories": {
+      "POLITICS": 74,
+      "ENTERTAINMENT": 47,
+      "PARENTING": 9
+    }
+  },
+  {
+    "year_month": "2020-06",
+    "year": 2020,
+    "month": 6,
+    "total_articles": 176.0,
+    "sentiment_mean": 0.3755681818181818,
+    "sentiment_std": 0.1780039033571725,
+    "categories": {
+      "politics": 72.0,
+      "entertainment": 46.0,
+      "comedy": 0.0,
+      "crime": 2.0,
+      "world_news": 1.0,
+      "wellness": 11.0
+    },
+    "percentages": {
+      "politics": 40.909090909090914,
+      "entertainment": 26.136363636363637,
+      "comedy": 0.0,
+      "crime": 1.1363636363636365,
+      "world_news": 0.5681818181818182,
+      "wellness": 6.25
+    },
+    "top_categories": {
+      "POLITICS": 72,
+      "ENTERTAINMENT": 46,
+      "WELLNESS": 11
+    }
+  },
+  {
+    "year_month": "2020-07",
+    "year": 2020,
+    "month": 7,
+    "total_articles": 186.0,
+    "sentiment_mean": 0.3591397849462365,
+    "sentiment_std": 0.1753677582248754,
+    "categories": {
+      "politics": 86.0,
+      "entertainment": 48.0,
+      "comedy": 0.0,
+      "crime": 1.0,
+      "world_news": 0.0,
+      "wellness": 7.0
+    },
+    "percentages": {
+      "politics": 46.236559139784944,
+      "entertainment": 25.806451612903224,
+      "comedy": 0.0,
+      "crime": 0.5376344086021506,
+      "world_news": 0.0,
+      "wellness": 3.763440860215054
+    },
+    "top_categories": {
+      "POLITICS": 86,
+      "ENTERTAINMENT": 48,
+      "STYLE & BEAUTY": 9
+    }
+  },
+  {
+    "year_month": "2020-08",
+    "year": 2020,
+    "month": 8,
+    "total_articles": 180.0,
+    "sentiment_mean": 0.3161111111111111,
+    "sentiment_std": 0.156127683346479,
+    "categories": {
+      "politics": 85.0,
+      "entertainment": 26.0,
+      "comedy": 0.0,
+      "crime": 2.0,
+      "world_news": 9.0,
+      "wellness": 8.0
+    },
+    "percentages": {
+      "politics": 47.22222222222222,
+      "entertainment": 14.444444444444443,
+      "comedy": 0.0,
+      "crime": 1.1111111111111112,
+      "world_news": 5.0,
+      "wellness": 4.444444444444445
+    },
+    "top_categories": {
+      "POLITICS": 85,
+      "ENTERTAINMENT": 26,
+      "U.S. NEWS": 17
+    }
+  },
+  {
+    "year_month": "2020-09",
+    "year": 2020,
+    "month": 9,
+    "total_articles": 174.0,
+    "sentiment_mean": 0.3379310344827586,
+    "sentiment_std": 0.1653452365185828,
+    "categories": {
+      "politics": 80.0,
+      "entertainment": 35.0,
+      "comedy": 0.0,
+      "crime": 2.0,
+      "world_news": 3.0,
+      "wellness": 4.0
+    },
+    "percentages": {
+      "politics": 45.97701149425287,
+      "entertainment": 20.114942528735632,
+      "comedy": 0.0,
+      "crime": 1.1494252873563218,
+      "world_news": 1.7241379310344827,
+      "wellness": 2.2988505747126435
+    },
+    "top_categories": {
+      "POLITICS": 80,
+      "ENTERTAINMENT": 35,
+      "U.S. NEWS": 11
+    }
+  },
+  {
+    "year_month": "2020-10",
+    "year": 2020,
+    "month": 10,
+    "total_articles": 177.0,
+    "sentiment_mean": 0.3576271186440677,
+    "sentiment_std": 0.1763294210134715,
+    "categories": {
+      "politics": 79.0,
+      "entertainment": 46.0,
+      "comedy": 1.0,
+      "crime": 1.0,
+      "world_news": 4.0,
+      "wellness": 3.0
+    },
+    "percentages": {
+      "politics": 44.632768361581924,
+      "entertainment": 25.98870056497175,
+      "comedy": 0.5649717514124294,
+      "crime": 0.5649717514124294,
+      "world_news": 2.2598870056497176,
+      "wellness": 1.694915254237288
+    },
+    "top_categories": {
+      "POLITICS": 79,
+      "ENTERTAINMENT": 46,
+      "STYLE & BEAUTY": 9
+    }
+  },
+  {
+    "year_month": "2020-11",
+    "year": 2020,
+    "month": 11,
+    "total_articles": 178.0,
+    "sentiment_mean": 0.3280898876404494,
+    "sentiment_std": 0.1831851053852783,
+    "categories": {
+      "politics": 107.0,
+      "entertainment": 35.0,
+      "comedy": 5.0,
+      "crime": 1.0,
+      "world_news": 3.0,
+      "wellness": 5.0
+    },
+    "percentages": {
+      "politics": 60.1123595505618,
+      "entertainment": 19.662921348314608,
+      "comedy": 2.8089887640449436,
+      "crime": 0.5617977528089888,
+      "world_news": 1.6853932584269662,
+      "wellness": 2.8089887640449436
+    },
+    "top_categories": {
+      "POLITICS": 107,
+      "ENTERTAINMENT": 35,
+      "WELLNESS": 5
+    }
+  },
+  {
+    "year_month": "2020-12",
+    "year": 2020,
+    "month": 12,
+    "total_articles": 183.0,
+    "sentiment_mean": 0.3442622950819672,
+    "sentiment_std": 0.1850374985731814,
+    "categories": {
+      "politics": 95.0,
+      "entertainment": 31.0,
+      "comedy": 5.0,
+      "crime": 4.0,
+      "world_news": 2.0,
+      "wellness": 4.0
+    },
+    "percentages": {
+      "politics": 51.91256830601093,
+      "entertainment": 16.939890710382514,
+      "comedy": 2.73224043715847,
+      "crime": 2.185792349726776,
+      "world_news": 1.092896174863388,
+      "wellness": 2.185792349726776
+    },
+    "top_categories": {
+      "POLITICS": 95,
+      "ENTERTAINMENT": 31,
+      "WEIRD NEWS": 9
+    }
+  },
+  {
+    "year_month": "2021-01",
+    "year": 2021,
+    "month": 1,
+    "total_articles": 184.0,
+    "sentiment_mean": 0.2798913043478261,
+    "sentiment_std": 0.1532096999684079,
+    "categories": {
+      "politics": 133.0,
+      "entertainment": 27.0,
+      "comedy": 1.0,
+      "crime": 2.0,
+      "world_news": 1.0,
+      "wellness": 1.0
+    },
+    "percentages": {
+      "politics": 72.28260869565217,
+      "entertainment": 14.673913043478262,
+      "comedy": 0.5434782608695652,
+      "crime": 1.0869565217391304,
+      "world_news": 0.5434782608695652,
+      "wellness": 0.5434782608695652
+    },
+    "top_categories": {
+      "POLITICS": 133,
+      "ENTERTAINMENT": 27,
+      "U.S. NEWS": 3
+    }
+  },
+  {
+    "year_month": "2021-02",
+    "year": 2021,
+    "month": 2,
+    "total_articles": 141.0,
+    "sentiment_mean": 0.2673758865248227,
+    "sentiment_std": 0.0857708357865882,
+    "categories": {
+      "politics": 19.0,
+      "entertainment": 4.0,
+      "comedy": 0.0,
+      "crime": 0.0,
+      "world_news": 48.0,
+      "wellness": 0.0
+    },
+    "percentages": {
+      "politics": 13.47517730496454,
+      "entertainment": 2.8368794326241136,
+      "comedy": 0.0,
+      "crime": 0.0,
+      "world_news": 34.04255319148936,
+      "wellness": 0.0
+    },
+    "top_categories": {
+      "U.S. NEWS": 61,
+      "WORLD NEWS": 48,
+      "POLITICS": 19
+    }
+  },
+  {
+    "year_month": "2021-03",
+    "year": 2021,
+    "month": 3,
+    "total_articles": 165.0,
+    "sentiment_mean": 0.2781818181818182,
+    "sentiment_std": 0.1018563833941568,
+    "categories": {
+      "politics": 26.0,
+      "entertainment": 7.0,
+      "comedy": 1.0,
+      "crime": 1.0,
+      "world_news": 42.0,
+      "wellness": 0.0
+    },
+    "percentages": {
+      "politics": 15.757575757575756,
+      "entertainment": 4.242424242424243,
+      "comedy": 0.6060606060606061,
+      "crime": 0.6060606060606061,
+      "world_news": 25.454545454545453,
+      "wellness": 0.0
+    },
+    "top_categories": {
+      "U.S. NEWS": 83,
+      "WORLD NEWS": 42,
+      "POLITICS": 26
+    }
+  },
+  {
+    "year_month": "2021-04",
+    "year": 2021,
+    "month": 4,
+    "total_articles": 177.0,
+    "sentiment_mean": 0.3209039548022598,
+    "sentiment_std": 0.1769799578925091,
+    "categories": {
+      "politics": 82.0,
+      "entertainment": 33.0,
+      "comedy": 2.0,
+      "crime": 10.0,
+      "world_news": 8.0,
+      "wellness": 3.0
+    },
+    "percentages": {
+      "politics": 46.32768361581921,
+      "entertainment": 18.64406779661017,
+      "comedy": 1.1299435028248588,
+      "crime": 5.649717514124294,
+      "world_news": 4.519774011299435,
+      "wellness": 1.694915254237288
+    },
+    "top_categories": {
+      "POLITICS": 82,
+      "ENTERTAINMENT": 33,
+      "CRIME": 10
+    }
+  },
+  {
+    "year_month": "2021-05",
+    "year": 2021,
+    "month": 5,
+    "total_articles": 184.0,
+    "sentiment_mean": 0.3065217391304348,
+    "sentiment_std": 0.1830550383513421,
+    "categories": {
+      "politics": 109.0,
+      "entertainment": 29.0,
+      "comedy": 7.0,
+      "crime": 3.0,
+      "world_news": 15.0,
+      "wellness": 0.0
+    },
+    "percentages": {
+      "politics": 59.2391304347826,
+      "entertainment": 15.760869565217392,
+      "comedy": 3.804347826086957,
+      "crime": 1.6304347826086956,
+      "world_news": 8.152173913043478,
+      "wellness": 0.0
+    },
+    "top_categories": {
+      "POLITICS": 109,
+      "ENTERTAINMENT": 29,
+      "WORLD NEWS": 15
+    }
+  },
+  {
+    "year_month": "2021-06",
+    "year": 2021,
+    "month": 6,
+    "total_articles": 176.0,
+    "sentiment_mean": 0.3210227272727273,
+    "sentiment_std": 0.1577016334563633,
+    "categories": {
+      "politics": 83.0,
+      "entertainment": 30.0,
+      "comedy": 0.0,
+      "crime": 1.0,
+      "world_news": 8.0,
+      "wellness": 1.0
+    },
+    "percentages": {
+      "politics": 47.159090909090914,
+      "entertainment": 17.045454545454543,
+      "comedy": 0.0,
+      "crime": 0.5681818181818182,
+      "world_news": 4.545454545454546,
+      "wellness": 0.5681818181818182
+    },
+    "top_categories": {
+      "POLITICS": 83,
+      "ENTERTAINMENT": 30,
+      "U.S. NEWS": 22
+    }
+  },
+  {
+    "year_month": "2021-07",
+    "year": 2021,
+    "month": 7,
+    "total_articles": 180.0,
+    "sentiment_mean": 0.3288888888888889,
+    "sentiment_std": 0.1611719956020781,
+    "categories": {
+      "politics": 86.0,
+      "entertainment": 27.0,
+      "comedy": 0.0,
+      "crime": 1.0,
+      "world_news": 6.0,
+      "wellness": 0.0
+    },
+    "percentages": {
+      "politics": 47.77777777777778,
+      "entertainment": 15.0,
+      "comedy": 0.0,
+      "crime": 0.5555555555555556,
+      "world_news": 3.3333333333333335,
+      "wellness": 0.0
+    },
+    "top_categories": {
+      "POLITICS": 86,
+      "ENTERTAINMENT": 27,
+      "SPORTS": 17
+    }
+  },
+  {
+    "year_month": "2021-08",
+    "year": 2021,
+    "month": 8,
+    "total_articles": 176.0,
+    "sentiment_mean": 0.3710227272727273,
+    "sentiment_std": 0.1700792405084996,
+    "categories": {
+      "politics": 57.0,
+      "entertainment": 41.0,
+      "comedy": 0.0,
+      "crime": 1.0,
+      "world_news": 10.0,
+      "wellness": 3.0
+    },
+    "percentages": {
+      "politics": 32.38636363636363,
+      "entertainment": 23.295454545454543,
+      "comedy": 0.0,
+      "crime": 0.5681818181818182,
+      "world_news": 5.681818181818182,
+      "wellness": 1.7045454545454544
+    },
+    "top_categories": {
+      "POLITICS": 57,
+      "ENTERTAINMENT": 41,
+      "U.S. NEWS": 16
+    }
+  },
+  {
+    "year_month": "2021-09",
+    "year": 2021,
+    "month": 9,
+    "total_articles": 169.0,
+    "sentiment_mean": 0.3550295857988165,
+    "sentiment_std": 0.1805781860090731,
+    "categories": {
+      "politics": 61.0,
+      "entertainment": 47.0,
+      "comedy": 0.0,
+      "crime": 6.0,
+      "world_news": 12.0,
+      "wellness": 1.0
+    },
+    "percentages": {
+      "politics": 36.09467455621302,
+      "entertainment": 27.810650887573964,
+      "comedy": 0.0,
+      "crime": 3.5502958579881656,
+      "world_news": 7.100591715976331,
+      "wellness": 0.591715976331361
+    },
+    "top_categories": {
+      "POLITICS": 61,
+      "ENTERTAINMENT": 47,
+      "U.S. NEWS": 14
+    }
+  },
+  {
+    "year_month": "2021-10",
+    "year": 2021,
+    "month": 10,
+    "total_articles": 174.0,
+    "sentiment_mean": 0.3873563218390805,
+    "sentiment_std": 0.1922213305824865,
+    "categories": {
+      "politics": 56.0,
+      "entertainment": 42.0,
+      "comedy": 7.0,
+      "crime": 3.0,
+      "world_news": 9.0,
+      "wellness": 6.0
+    },
+    "percentages": {
+      "politics": 32.18390804597701,
+      "entertainment": 24.137931034482758,
+      "comedy": 4.022988505747127,
+      "crime": 1.7241379310344827,
+      "world_news": 5.172413793103448,
+      "wellness": 3.4482758620689653
+    },
+    "top_categories": {
+      "POLITICS": 56,
+      "ENTERTAINMENT": 42,
+      "U.S. NEWS": 14
+    }
+  },
+  {
+    "year_month": "2021-11",
+    "year": 2021,
+    "month": 11,
+    "total_articles": 170.0,
+    "sentiment_mean": 0.3076470588235294,
+    "sentiment_std": 0.1591407925555343,
+    "categories": {
+      "politics": 60.0,
+      "entertainment": 24.0,
+      "comedy": 1.0,
+      "crime": 6.0,
+      "world_news": 27.0,
+      "wellness": 1.0
+    },
+    "percentages": {
+      "politics": 35.294117647058826,
+      "entertainment": 14.117647058823529,
+      "comedy": 0.5882352941176471,
+      "crime": 3.5294117647058822,
+      "world_news": 15.88235294117647,
+      "wellness": 0.5882352941176471
+    },
+    "top_categories": {
+      "POLITICS": 60,
+      "U.S. NEWS": 28,
+      "WORLD NEWS": 27
+    }
+  },
+  {
+    "year_month": "2021-12",
+    "year": 2021,
+    "month": 12,
+    "total_articles": 170.0,
+    "sentiment_mean": 0.3441176470588235,
+    "sentiment_std": 0.1733607526930838,
+    "categories": {
+      "politics": 51.0,
+      "entertainment": 30.0,
+      "comedy": 3.0,
+      "crime": 7.0,
+      "world_news": 12.0,
+      "wellness": 5.0
+    },
+    "percentages": {
+      "politics": 30.0,
+      "entertainment": 17.647058823529413,
+      "comedy": 1.7647058823529411,
+      "crime": 4.117647058823529,
+      "world_news": 7.0588235294117645,
+      "wellness": 2.941176470588235
+    },
+    "top_categories": {
+      "POLITICS": 51,
+      "ENTERTAINMENT": 30,
+      "U.S. NEWS": 30
+    }
+  },
+  {
+    "year_month": "2022-01",
+    "year": 2022,
+    "month": 1,
+    "total_articles": 150.0,
+    "sentiment_mean": 0.348,
+    "sentiment_std": 0.1830832135594312,
+    "categories": {
+      "politics": 58.0,
+      "entertainment": 31.0,
+      "comedy": 3.0,
+      "crime": 7.0,
+      "world_news": 9.0,
+      "wellness": 8.0
+    },
+    "percentages": {
+      "politics": 38.666666666666664,
+      "entertainment": 20.666666666666668,
+      "comedy": 2.0,
+      "crime": 4.666666666666667,
+      "world_news": 6.0,
+      "wellness": 5.333333333333334
+    },
+    "top_categories": {
+      "POLITICS": 58,
+      "ENTERTAINMENT": 31,
+      "U.S. NEWS": 11
+    }
+  },
+  {
+    "year_month": "2022-02",
+    "year": 2022,
+    "month": 2,
+    "total_articles": 152.0,
+    "sentiment_mean": 0.3131578947368421,
+    "sentiment_std": 0.1481382075851193,
+    "categories": {
+      "politics": 41.0,
+      "entertainment": 14.0,
+      "comedy": 0.0,
+      "crime": 3.0,
+      "world_news": 32.0,
+      "wellness": 0.0
+    },
+    "percentages": {
+      "politics": 26.973684210526315,
+      "entertainment": 9.210526315789473,
+      "comedy": 0.0,
+      "crime": 1.9736842105263157,
+      "world_news": 21.052631578947366,
+      "wellness": 0.0
+    },
+    "top_categories": {
+      "POLITICS": 41,
+      "WORLD NEWS": 32,
+      "U.S. NEWS": 29
+    }
+  },
+  {
+    "year_month": "2022-03",
+    "year": 2022,
+    "month": 3,
+    "total_articles": 174.0,
+    "sentiment_mean": 0.2982758620689655,
+    "sentiment_std": 0.1495558503100741,
+    "categories": {
+      "politics": 46.0,
+      "entertainment": 22.0,
+      "comedy": 2.0,
+      "crime": 4.0,
+      "world_news": 43.0,
+      "wellness": 1.0
+    },
+    "percentages": {
+      "politics": 26.436781609195403,
+      "entertainment": 12.643678160919542,
+      "comedy": 1.1494252873563218,
+      "crime": 2.2988505747126435,
+      "world_news": 24.71264367816092,
+      "wellness": 0.5747126436781609
+    },
+    "top_categories": {
+      "POLITICS": 46,
+      "WORLD NEWS": 43,
+      "U.S. NEWS": 39
+    }
+  },
+  {
+    "year_month": "2022-04",
+    "year": 2022,
+    "month": 4,
+    "total_articles": 162.0,
+    "sentiment_mean": 0.3358024691358025,
+    "sentiment_std": 0.1823304228576667,
+    "categories": {
+      "politics": 45.0,
+      "entertainment": 31.0,
+      "comedy": 5.0,
+      "crime": 4.0,
+      "world_news": 34.0,
+      "wellness": 1.0
+    },
+    "percentages": {
+      "politics": 27.77777777777778,
+      "entertainment": 19.1358024691358,
+      "comedy": 3.0864197530864197,
+      "crime": 2.4691358024691357,
+      "world_news": 20.98765432098765,
+      "wellness": 0.6172839506172839
+    },
+    "top_categories": {
+      "POLITICS": 45,
+      "WORLD NEWS": 34,
+      "ENTERTAINMENT": 31
+    }
+  },
+  {
+    "year_month": "2022-05",
+    "year": 2022,
+    "month": 5,
+    "total_articles": 172.0,
+    "sentiment_mean": 0.3133720930232558,
+    "sentiment_std": 0.152929372263332,
+    "categories": {
+      "politics": 44.0,
+      "entertainment": 21.0,
+      "comedy": 0.0,
+      "crime": 9.0,
+      "world_news": 29.0,
+      "wellness": 3.0
+    },
+    "percentages": {
+      "politics": 25.581395348837212,
+      "entertainment": 12.209302325581394,
+      "comedy": 0.0,
+      "crime": 5.232558139534884,
+      "world_news": 16.86046511627907,
+      "wellness": 1.744186046511628
+    },
+    "top_categories": {
+      "POLITICS": 44,
+      "WORLD NEWS": 29,
+      "U.S. NEWS": 29
+    }
+  },
+  {
+    "year_month": "2022-06",
+    "year": 2022,
+    "month": 6,
+    "total_articles": 146.0,
+    "sentiment_mean": 0.3808219178082191,
+    "sentiment_std": 0.1809229473991814,
+    "categories": {
+      "politics": 44.0,
+      "entertainment": 38.0,
+      "comedy": 3.0,
+      "crime": 3.0,
+      "world_news": 4.0,
+      "wellness": 4.0
+    },
+    "percentages": {
+      "politics": 30.136986301369863,
+      "entertainment": 26.027397260273972,
+      "comedy": 2.054794520547945,
+      "crime": 2.054794520547945,
+      "world_news": 2.73972602739726,
+      "wellness": 2.73972602739726
+    },
+    "top_categories": {
+      "POLITICS": 44,
+      "ENTERTAINMENT": 38,
+      "U.S. NEWS": 17
+    }
+  },
+  {
+    "year_month": "2022-07",
+    "year": 2022,
+    "month": 7,
+    "total_articles": 142.0,
+    "sentiment_mean": 0.352112676056338,
+    "sentiment_std": 0.1653358112342147,
+    "categories": {
+      "politics": 48.0,
+      "entertainment": 29.0,
+      "comedy": 1.0,
+      "crime": 2.0,
+      "world_news": 5.0,
+      "wellness": 3.0
+    },
+    "percentages": {
+      "politics": 33.80281690140845,
+      "entertainment": 20.422535211267608,
+      "comedy": 0.7042253521126761,
+      "crime": 1.4084507042253522,
+      "world_news": 3.5211267605633805,
+      "wellness": 2.112676056338028
+    },
+    "top_categories": {
+      "POLITICS": 48,
+      "ENTERTAINMENT": 29,
+      "U.S. NEWS": 28
+    }
+  },
+  {
+    "year_month": "2022-08",
+    "year": 2022,
+    "month": 8,
+    "total_articles": 173.0,
+    "sentiment_mean": 0.3289017341040462,
+    "sentiment_std": 0.158398440235592,
+    "categories": {
+      "politics": 53.0,
+      "entertainment": 30.0,
+      "comedy": 0.0,
+      "crime": 5.0,
+      "world_news": 21.0,
+      "wellness": 4.0
+    },
+    "percentages": {
+      "politics": 30.63583815028902,
+      "entertainment": 17.341040462427745,
+      "comedy": 0.0,
+      "crime": 2.8901734104046244,
+      "world_news": 12.138728323699421,
+      "wellness": 2.312138728323699
+    },
+    "top_categories": {
+      "POLITICS": 53,
+      "U.S. NEWS": 32,
+      "ENTERTAINMENT": 30
+    }
+  },
+  {
+    "year_month": "2022-09",
+    "year": 2022,
+    "month": 9,
+    "total_articles": 127.0,
+    "sentiment_mean": 0.3377952755905511,
+    "sentiment_std": 0.1490334647933022,
+    "categories": {
+      "politics": 20.0,
+      "entertainment": 19.0,
+      "comedy": 1.0,
+      "crime": 1.0,
+      "world_news": 23.0,
+      "wellness": 0.0
+    },
+    "percentages": {
+      "politics": 15.748031496062993,
+      "entertainment": 14.960629921259844,
+      "comedy": 0.7874015748031495,
+      "crime": 0.7874015748031495,
+      "world_news": 18.11023622047244,
+      "wellness": 0.0
+    },
+    "top_categories": {
+      "U.S. NEWS": 36,
+      "WORLD NEWS": 23,
+      "POLITICS": 20
+    }
+  }
+]

@@ -1,0 +1,686 @@
+{
+  "baseline": {
+    "mood_music": 0.5424391220416128,
+    "mood_news": 0.3642888863643389,
+    "mood_composite": 0.5369730680096807,
+    "total_months": "739"
+  },
+  "events": [
+    {
+      "event_code": "financial_crisis_2008",
+      "event_label": "Financial Crisis (Sep 2008 - Jun 2009)",
+      "start_date": "2008-09",
+      "end_date": "2009-06",
+      "duration_months": 10,
+      "mood_music_avg": 0.5130054607329647,
+      "mood_news_avg": null,
+      "mood_composite_avg": 0.5130054607329647,
+      "mood_music_std": 0.01435496716180298,
+      "mood_news_std": null,
+      "mood_composite_std": 0.01435496716180298,
+      "vs_baseline_music": -0.029433661308648107,
+      "vs_baseline_news": null,
+      "vs_baseline_composite": -0.023967607276715985,
+      "trajectory": {
+        "before": {
+          "mood_composite": 0.5275418925831205,
+          "months": 6
+        },
+        "during": {
+          "mood_composite": 0.5130054607329647,
+          "months": 10
+        },
+        "after": {
+          "mood_composite": 0.5071696617346935,
+          "months": 6
+        }
+      },
+      "monthly_data": [
+        {
+          "year_month": "2008-09",
+          "mood_composite": 0.5275418925831203,
+          "mood_music": 0.5275418925831203,
+          "mood_news": null
+        },
+        {
+          "year_month": "2008-10",
+          "mood_composite": 0.5275418925831203,
+          "mood_music": 0.5275418925831203,
+          "mood_news": null
+        },
+        {
+          "year_month": "2008-11",
+          "mood_composite": 0.5275418925831203,
+          "mood_music": 0.5275418925831203,
+          "mood_news": null
+        },
+        {
+          "year_month": "2008-12",
+          "mood_composite": 0.5275418925831203,
+          "mood_music": 0.5275418925831203,
+          "mood_news": null
+        },
+        {
+          "year_month": "2009-01",
+          "mood_composite": 0.4840387283236994,
+          "mood_music": 0.4840387283236994,
+          "mood_news": null
+        },
+        {
+          "year_month": "2009-02",
+          "mood_composite": 0.5071696617346935,
+          "mood_music": 0.5071696617346935,
+          "mood_news": null
+        },
+        {
+          "year_month": "2009-03",
+          "mood_composite": 0.5071696617346935,
+          "mood_music": 0.5071696617346935,
+          "mood_news": null
+        },
+        {
+          "year_month": "2009-04",
+          "mood_composite": 0.5071696617346935,
+          "mood_music": 0.5071696617346935,
+          "mood_news": null
+        },
+        {
+          "year_month": "2009-05",
+          "mood_composite": 0.5071696617346935,
+          "mood_music": 0.5071696617346935,
+          "mood_news": null
+        },
+        {
+          "year_month": "2009-06",
+          "mood_composite": 0.5071696617346935,
+          "mood_music": 0.5071696617346935,
+          "mood_news": null
+        }
+      ]
+    },
+    {
+      "event_code": "covid_pandemic_peak",
+      "event_label": "COVID-19 Pandemic Peak (Mar - Dec 2020)",
+      "start_date": "2020-03",
+      "end_date": "2020-12",
+      "duration_months": 5,
+      "mood_music_avg": 0.5010478078817729,
+      "mood_news_avg": 0.3698612693580083,
+      "mood_composite_avg": 0.448573192472267,
+      "mood_music_std": 0.0,
+      "mood_news_std": 0.028895001341953473,
+      "mood_composite_std": 0.011558000536781394,
+      "vs_baseline_music": -0.041391314159839876,
+      "vs_baseline_news": 0.005572382993669356,
+      "vs_baseline_composite": -0.08839987553741369,
+      "trajectory": {
+        "before": {
+          "mood_composite": 0.41024211127120064,
+          "months": 6
+        },
+        "during": {
+          "mood_composite": 0.448573192472267,
+          "months": 5
+        },
+        "after": {
+          "mood_composite": 0.29564957170998146,
+          "months": 6
+        }
+      },
+      "monthly_data": [
+        {
+          "year_month": "2020-03",
+          "mood_composite": 0.4459047583486956,
+          "mood_music": 0.5010478078817729,
+          "mood_news": 0.3631901840490797
+        },
+        {
+          "year_month": "2020-04",
+          "mood_composite": 0.4669077544965056,
+          "mood_music": 0.5010478078817729,
+          "mood_news": 0.4156976744186046
+        },
+        {
+          "year_month": "2020-05",
+          "mood_composite": 0.450572818807276,
+          "mood_music": 0.5010478078817729,
+          "mood_news": 0.3748603351955307
+        },
+        {
+          "year_month": "2020-09",
+          "mood_composite": 0.4358010985221672,
+          "mood_music": 0.5010478078817729,
+          "mood_news": 0.3379310344827586
+        },
+        {
+          "year_month": "2020-10",
+          "mood_composite": 0.4436795321866909,
+          "mood_music": 0.5010478078817729,
+          "mood_news": 0.3576271186440677
+        }
+      ]
+    },
+    {
+      "event_code": "covid_vaccine_rollout",
+      "event_label": "COVID Vaccine Rollout (2021)",
+      "start_date": "2021-01",
+      "end_date": "2021-12",
+      "duration_months": 11,
+      "mood_music_avg": null,
+      "mood_news_avg": 0.3261880323267208,
+      "mood_composite_avg": 0.3261880323267208,
+      "mood_music_std": null,
+      "mood_news_std": 0.03668911031699696,
+      "mood_composite_std": 0.03668911031699696,
+      "vs_baseline_music": null,
+      "vs_baseline_news": -0.03810085403761815,
+      "vs_baseline_composite": -0.21078503568295992,
+      "trajectory": {
+        "before": {
+          "mood_composite": 0.4368394335228365,
+          "months": 6
+        },
+        "during": {
+          "mood_composite": 0.3261880323267208,
+          "months": 11
+        },
+        "after": {
+          "mood_composite": 0.33157170612884745,
+          "months": 6
+        }
+      },
+      "monthly_data": [
+        {
+          "year_month": "2021-02",
+          "mood_composite": 0.2673758865248227,
+          "mood_music": null,
+          "mood_news": 0.2673758865248227
+        },
+        {
+          "year_month": "2021-03",
+          "mood_composite": 0.2781818181818182,
+          "mood_music": null,
+          "mood_news": 0.2781818181818182
+        },
+        {
+          "year_month": "2021-04",
+          "mood_composite": 0.3209039548022598,
+          "mood_music": null,
+          "mood_news": 0.3209039548022598
+        },
+        {
+          "year_month": "2021-05",
+          "mood_composite": 0.3065217391304348,
+          "mood_music": null,
+          "mood_news": 0.3065217391304348
+        },
+        {
+          "year_month": "2021-06",
+          "mood_composite": 0.3210227272727273,
+          "mood_music": null,
+          "mood_news": 0.3210227272727273
+        },
+        {
+          "year_month": "2021-07",
+          "mood_composite": 0.3288888888888889,
+          "mood_music": null,
+          "mood_news": 0.3288888888888889
+        },
+        {
+          "year_month": "2021-08",
+          "mood_composite": 0.3710227272727273,
+          "mood_music": null,
+          "mood_news": 0.3710227272727273
+        },
+        {
+          "year_month": "2021-09",
+          "mood_composite": 0.3550295857988165,
+          "mood_music": null,
+          "mood_news": 0.3550295857988165
+        },
+        {
+          "year_month": "2021-10",
+          "mood_composite": 0.3873563218390805,
+          "mood_music": null,
+          "mood_news": 0.3873563218390805
+        },
+        {
+          "year_month": "2021-11",
+          "mood_composite": 0.3076470588235294,
+          "mood_music": null,
+          "mood_news": 0.3076470588235294
+        },
+        {
+          "year_month": "2021-12",
+          "mood_composite": 0.3441176470588235,
+          "mood_music": null,
+          "mood_news": 0.3441176470588235
+        }
+      ]
+    },
+    {
+      "event_code": "trump_rally",
+      "event_label": "Trump Market Rally (2017)",
+      "start_date": "2017-01",
+      "end_date": "2017-12",
+      "duration_months": 11,
+      "mood_music_avg": 0.41647631124497936,
+      "mood_news_avg": 0.33480482540477136,
+      "mood_composite_avg": 0.38380771690889603,
+      "mood_music_std": 5.822058658345462e-17,
+      "mood_news_std": 0.010468254756790609,
+      "mood_composite_std": 0.004187301902716225,
+      "vs_baseline_music": -0.12596281079663346,
+      "vs_baseline_news": -0.02948406095956757,
+      "vs_baseline_composite": -0.15316535110078466,
+      "trajectory": {
+        "before": {
+          "mood_composite": 0.3998312847058853,
+          "months": 6
+        },
+        "during": {
+          "mood_composite": 0.38380771690889603,
+          "months": 11
+        },
+        "after": {
+          "mood_composite": 0.4099732062495187,
+          "months": 6
+        }
+      },
+      "monthly_data": [
+        {
+          "year_month": "2017-02",
+          "mood_composite": 0.3893443979670739,
+          "mood_music": 0.4164763112449793,
+          "mood_news": 0.3486465280502158
+        },
+        {
+          "year_month": "2017-03",
+          "mood_composite": 0.3876635645247653,
+          "mood_music": 0.4164763112449793,
+          "mood_news": 0.3444444444444445
+        },
+        {
+          "year_month": "2017-04",
+          "mood_composite": 0.3853050414053727,
+          "mood_music": 0.4164763112449793,
+          "mood_news": 0.3385481366459627
+        },
+        {
+          "year_month": "2017-05",
+          "mood_composite": 0.3800445169057177,
+          "mood_music": 0.4164763112449793,
+          "mood_news": 0.3253968253968254
+        },
+        {
+          "year_month": "2017-06",
+          "mood_composite": 0.3757658936580224,
+          "mood_music": 0.4164763112449793,
+          "mood_news": 0.3147002672775869
+        },
+        {
+          "year_month": "2017-07",
+          "mood_composite": 0.3804505977994053,
+          "mood_music": 0.4164763112449793,
+          "mood_news": 0.3264120276310443
+        },
+        {
+          "year_month": "2017-08",
+          "mood_composite": 0.3816568617663224,
+          "mood_music": 0.4164763112449793,
+          "mood_news": 0.3294276875483372
+        },
+        {
+          "year_month": "2017-09",
+          "mood_composite": 0.381640249089173,
+          "mood_music": 0.4164763112449793,
+          "mood_news": 0.3293861558554636
+        },
+        {
+          "year_month": "2017-10",
+          "mood_composite": 0.3872800054315288,
+          "mood_music": 0.4164763112449793,
+          "mood_news": 0.3434855467113532
+        },
+        {
+          "year_month": "2017-11",
+          "mood_composite": 0.3875892225516892,
+          "mood_music": 0.4164763112449793,
+          "mood_news": 0.3442585895117541
+        },
+        {
+          "year_month": "2017-12",
+          "mood_composite": 0.3851445348987865,
+          "mood_music": 0.4164763112449793,
+          "mood_news": 0.3381468703794973
+        }
+      ]
+    },
+    {
+      "event_code": "post_crisis_recovery",
+      "event_label": "Post-Crisis Recovery (2013-2014)",
+      "start_date": "2013-01",
+      "end_date": "2014-12",
+      "duration_months": 24,
+      "mood_music_avg": 0.4596138936605228,
+      "mood_news_avg": 0.4349350992756524,
+      "mood_composite_avg": 0.44974237590657457,
+      "mood_music_std": 0.006812782019603642,
+      "mood_news_std": 0.038017409185135125,
+      "mood_composite_std": 0.013959742686163481,
+      "vs_baseline_music": -0.08282522838109002,
+      "vs_baseline_news": 0.07064621291131346,
+      "vs_baseline_composite": -0.08723069210310613,
+      "trajectory": {
+        "before": {
+          "mood_composite": 0.4638610394154184,
+          "months": 6
+        },
+        "during": {
+          "mood_composite": 0.44974237590657457,
+          "months": 24
+        },
+        "after": {
+          "mood_composite": 0.41161135490915196,
+          "months": 6
+        }
+      },
+      "monthly_data": [
+        {
+          "year_month": "2013-01",
+          "mood_composite": 0.4731766192016938,
+          "mood_music": 0.4841274725274725,
+          "mood_news": 0.4567503392130257
+        },
+        {
+          "year_month": "2013-02",
+          "mood_composite": 0.4593922026327096,
+          "mood_music": 0.4547411943319834,
+          "mood_news": 0.4663687150837989
+        },
+        {
+          "year_month": "2013-03",
+          "mood_composite": 0.460866619405487,
+          "mood_music": 0.4547411943319834,
+          "mood_news": 0.4700547570157426
+        },
+        {
+          "year_month": "2013-04",
+          "mood_composite": 0.4570934212624025,
+          "mood_music": 0.4547411943319834,
+          "mood_news": 0.4606217616580311
+        },
+        {
+          "year_month": "2013-05",
+          "mood_composite": 0.4589281347070232,
+          "mood_music": 0.4547411943319834,
+          "mood_news": 0.4652085452695829
+        },
+        {
+          "year_month": "2013-06",
+          "mood_composite": 0.4576658897036249,
+          "mood_music": 0.4547411943319834,
+          "mood_news": 0.4620529327610873
+        },
+        {
+          "year_month": "2013-07",
+          "mood_composite": 0.4585133113593125,
+          "mood_music": 0.4547411943319834,
+          "mood_news": 0.4641714869003062
+        },
+        {
+          "year_month": "2013-08",
+          "mood_composite": 0.4600204991929292,
+          "mood_music": 0.4547411943319834,
+          "mood_news": 0.4679394564843481
+        },
+        {
+          "year_month": "2013-09",
+          "mood_composite": 0.4570623075564489,
+          "mood_music": 0.4547411943319834,
+          "mood_news": 0.4605439773931473
+        },
+        {
+          "year_month": "2013-10",
+          "mood_composite": 0.459868082667595,
+          "mood_music": 0.4547411943319834,
+          "mood_news": 0.4675584151710125
+        },
+        {
+          "year_month": "2013-11",
+          "mood_composite": 0.4572157636828161,
+          "mood_music": 0.4547411943319834,
+          "mood_news": 0.4609276177090653
+        },
+        {
+          "year_month": "2013-12",
+          "mood_composite": 0.4584765847310582,
+          "mood_music": 0.4547411943319834,
+          "mood_news": 0.4640796703296703
+        },
+        {
+          "year_month": "2014-01",
+          "mood_composite": 0.4544670088211708,
+          "mood_music": 0.4509162790697675,
+          "mood_news": 0.4597931034482759
+        },
+        {
+          "year_month": "2014-02",
+          "mood_composite": 0.4609807819844328,
+          "mood_music": 0.4630487780548628,
+          "mood_news": 0.4578787878787879
+        },
+        {
+          "year_month": "2014-03",
+          "mood_composite": 0.4613712298485649,
+          "mood_music": 0.4630487780548628,
+          "mood_news": 0.458854907539118
+        },
+        {
+          "year_month": "2014-04",
+          "mood_composite": 0.4488376064841686,
+          "mood_music": 0.4630487780548628,
+          "mood_news": 0.4275208491281274
+        },
+        {
+          "year_month": "2014-05",
+          "mood_composite": 0.4297638717375498,
+          "mood_music": 0.4630487780548628,
+          "mood_news": 0.3798365122615804
+        },
+        {
+          "year_month": "2014-06",
+          "mood_composite": 0.4328501396981928,
+          "mood_music": 0.4630487780548628,
+          "mood_news": 0.3875521821631879
+        },
+        {
+          "year_month": "2014-07",
+          "mood_composite": 0.4323859081648032,
+          "mood_music": 0.4630487780548628,
+          "mood_news": 0.386391603329714
+        },
+        {
+          "year_month": "2014-08",
+          "mood_composite": 0.4317704219364411,
+          "mood_music": 0.4630487780548628,
+          "mood_news": 0.3848528877588085
+        },
+        {
+          "year_month": "2014-09",
+          "mood_composite": 0.4322262133978031,
+          "mood_music": 0.4630487780548628,
+          "mood_news": 0.3859923664122137
+        },
+        {
+          "year_month": "2014-10",
+          "mood_composite": 0.4303981424844441,
+          "mood_music": 0.4630487780548628,
+          "mood_news": 0.3814221891288161
+        },
+        {
+          "year_month": "2014-11",
+          "mood_composite": 0.4280974660666341,
+          "mood_music": 0.4630487780548628,
+          "mood_news": 0.3756704980842912
+        },
+        {
+          "year_month": "2014-12",
+          "mood_composite": 0.4323887950304849,
+          "mood_music": 0.4630487780548628,
+          "mood_news": 0.3863988204939181
+        }
+      ]
+    },
+    {
+      "event_code": "blm_protests",
+      "event_label": "BLM Protests (Jun - Aug 2020)",
+      "start_date": "2020-06",
+      "end_date": "2020-08",
+      "duration_months": 3,
+      "mood_music_avg": 0.5010478078817729,
+      "mood_news_avg": 0.3502730259585098,
+      "mood_composite_avg": 0.44073789511246764,
+      "mood_music_std": 0.0,
+      "mood_news_std": 0.030704240350092112,
+      "mood_composite_std": 0.012281696140036866,
+      "vs_baseline_music": -0.041391314159839876,
+      "vs_baseline_news": -0.01401586040582914,
+      "vs_baseline_composite": -0.09623517289721306,
+      "trajectory": {
+        "before": {
+          "mood_composite": 0.42974193522316795,
+          "months": 6
+        },
+        "during": {
+          "mood_composite": 0.44073789511246764,
+          "months": 3
+        },
+        "after": {
+          "mood_composite": 0.38282434402143356,
+          "months": 6
+        }
+      },
+      "monthly_data": [
+        {
+          "year_month": "2020-06",
+          "mood_composite": 0.4508559574563364,
+          "mood_music": 0.5010478078817729,
+          "mood_news": 0.3755681818181818
+        },
+        {
+          "year_month": "2020-07",
+          "mood_composite": 0.4442845987075583,
+          "mood_music": 0.5010478078817729,
+          "mood_news": 0.3591397849462365
+        },
+        {
+          "year_month": "2020-08",
+          "mood_composite": 0.4270731291735081,
+          "mood_music": 0.5010478078817729,
+          "mood_news": 0.3161111111111111
+        }
+      ]
+    },
+    {
+      "event_code": "election_2016",
+      "event_label": "US Election 2016 (Nov 2016 - Jan 2017)",
+      "start_date": "2016-11",
+      "end_date": "2017-01",
+      "duration_months": 3,
+      "mood_music_avg": 0.38623349387025535,
+      "mood_news_avg": 0.3424747243628005,
+      "mood_composite_avg": 0.3687299860672733,
+      "mood_music_std": 0.07845941629251747,
+      "mood_news_std": 0.007519551494799434,
+      "mood_composite_std": 0.047836603879362935,
+      "vs_baseline_music": -0.15620562817135747,
+      "vs_baseline_news": -0.021814162001538406,
+      "vs_baseline_composite": -0.1682430819424074,
+      "trajectory": {
+        "before": {
+          "mood_composite": 0.4014120484486376,
+          "months": 6
+        },
+        "during": {
+          "mood_composite": 0.3687299860672733,
+          "months": 3
+        },
+        "after": {
+          "mood_composite": 0.38309566871005957,
+          "months": 6
+        }
+      },
+      "monthly_data": [
+        {
+          "year_month": "2016-11",
+          "mood_composite": 0.3933645184111886,
+          "mood_music": 0.4315320589872012,
+          "mood_news": 0.3361132075471698
+        },
+        {
+          "year_month": "2016-12",
+          "mood_composite": 0.3992285526310985,
+          "mood_music": 0.4315320589872012,
+          "mood_news": 0.3507732930969445
+        },
+        {
+          "year_month": "2017-01",
+          "mood_composite": 0.313596887159533,
+          "mood_music": 0.2956363636363636,
+          "mood_news": 0.3405376724442872
+        }
+      ]
+    },
+    {
+      "event_code": "election_2020",
+      "event_label": "US Election 2020 (Nov 2020 - Jan 2021)",
+      "start_date": "2020-11",
+      "end_date": "2021-01",
+      "duration_months": 3,
+      "mood_music_avg": 0.5010478078817729,
+      "mood_news_avg": 0.3174144956900809,
+      "mood_composite_avg": 0.38336318229830674,
+      "mood_music_std": 0.0,
+      "mood_news_std": 0.03348699907418122,
+      "mood_composite_std": 0.08966763081205809,
+      "vs_baseline_music": -0.041391314159839876,
+      "vs_baseline_news": -0.046874390674258026,
+      "vs_baseline_composite": -0.15360988571137396,
+      "trajectory": {
+        "before": {
+          "mood_composite": 0.4420445224755894,
+          "months": 6
+        },
+        "during": {
+          "mood_composite": 0.38336318229830674,
+          "months": 3
+        },
+        "after": {
+          "mood_composite": 0.30381583580015864,
+          "months": 6
+        }
+      },
+      "monthly_data": [
+        {
+          "year_month": "2020-11",
+          "mood_composite": 0.4318646397852435,
+          "mood_music": 0.5010478078817729,
+          "mood_news": 0.3280898876404494
+        },
+        {
+          "year_month": "2020-12",
+          "mood_composite": 0.4383336027618506,
+          "mood_music": 0.5010478078817729,
+          "mood_news": 0.3442622950819672
+        },
+        {
+          "year_month": "2021-01",
+          "mood_composite": 0.2798913043478261,
+          "mood_music": null,
+          "mood_news": 0.2798913043478261
+        }
+      ]
+    }
+  ]
+}

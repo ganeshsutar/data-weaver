@@ -1,0 +1,974 @@
+[
+  {
+    "year_month": "2012-01",
+    "year": 2012,
+    "month": 1,
+    "mood_music": 0.427478102189781,
+    "mood_news": 0.4725075528700906,
+    "divergence": -0.04502945068030961,
+    "abs_divergence": 0.04502945068030961
+  },
+  {
+    "year_month": "2012-02",
+    "year": 2012,
+    "month": 2,
+    "mood_music": 0.4627090128534706,
+    "mood_news": 0.4701076865948756,
+    "divergence": -0.007398673741405015,
+    "abs_divergence": 0.007398673741405015
+  },
+  {
+    "year_month": "2012-03",
+    "year": 2012,
+    "month": 3,
+    "mood_music": 0.4627090128534706,
+    "mood_news": 0.4591319444444444,
+    "divergence": 0.0035770684090262184,
+    "abs_divergence": 0.0035770684090262184
+  },
+  {
+    "year_month": "2012-04",
+    "year": 2012,
+    "month": 4,
+    "mood_music": 0.4627090128534706,
+    "mood_news": 0.4562296858071505,
+    "divergence": 0.006479327046320094,
+    "abs_divergence": 0.006479327046320094
+  },
+  {
+    "year_month": "2012-05",
+    "year": 2012,
+    "month": 5,
+    "mood_music": 0.4627090128534706,
+    "mood_news": 0.455639875819248,
+    "divergence": 0.007069137034222628,
+    "abs_divergence": 0.007069137034222628
+  },
+  {
+    "year_month": "2012-06",
+    "year": 2012,
+    "month": 6,
+    "mood_music": 0.4627090128534706,
+    "mood_news": 0.4500716332378223,
+    "divergence": 0.012637379615648314,
+    "abs_divergence": 0.012637379615648314
+  },
+  {
+    "year_month": "2012-07",
+    "year": 2012,
+    "month": 7,
+    "mood_music": 0.4627090128534706,
+    "mood_news": 0.4669107391910739,
+    "divergence": -0.004201726337603295,
+    "abs_divergence": 0.004201726337603295
+  },
+  {
+    "year_month": "2012-08",
+    "year": 2012,
+    "month": 8,
+    "mood_music": 0.4627090128534706,
+    "mood_news": 0.4658511010136316,
+    "divergence": -0.003142088160160983,
+    "abs_divergence": 0.003142088160160983
+  },
+  {
+    "year_month": "2012-09",
+    "year": 2012,
+    "month": 9,
+    "mood_music": 0.4627090128534706,
+    "mood_news": 0.4686599423631123,
+    "divergence": -0.005950929509641711,
+    "abs_divergence": 0.005950929509641711
+  },
+  {
+    "year_month": "2012-10",
+    "year": 2012,
+    "month": 10,
+    "mood_music": 0.4627090128534706,
+    "mood_news": 0.4683539944903581,
+    "divergence": -0.0056449816368874806,
+    "abs_divergence": 0.0056449816368874806
+  },
+  {
+    "year_month": "2012-11",
+    "year": 2012,
+    "month": 11,
+    "mood_music": 0.4627090128534706,
+    "mood_news": 0.4653333333333333,
+    "divergence": -0.0026243204798627184,
+    "abs_divergence": 0.0026243204798627184
+  },
+  {
+    "year_month": "2012-12",
+    "year": 2012,
+    "month": 12,
+    "mood_music": 0.4627090128534706,
+    "mood_news": 0.4584253651585322,
+    "divergence": 0.004283647694938386,
+    "abs_divergence": 0.004283647694938386
+  },
+  {
+    "year_month": "2013-01",
+    "year": 2013,
+    "month": 1,
+    "mood_music": 0.4841274725274725,
+    "mood_news": 0.4567503392130257,
+    "divergence": 0.0273771333144468,
+    "abs_divergence": 0.0273771333144468
+  },
+  {
+    "year_month": "2013-02",
+    "year": 2013,
+    "month": 2,
+    "mood_music": 0.4547411943319834,
+    "mood_news": 0.4663687150837989,
+    "divergence": -0.011627520751815501,
+    "abs_divergence": 0.011627520751815501
+  },
+  {
+    "year_month": "2013-03",
+    "year": 2013,
+    "month": 3,
+    "mood_music": 0.4547411943319834,
+    "mood_news": 0.4700547570157426,
+    "divergence": -0.015313562683759219,
+    "abs_divergence": 0.015313562683759219
+  },
+  {
+    "year_month": "2013-04",
+    "year": 2013,
+    "month": 4,
+    "mood_music": 0.4547411943319834,
+    "mood_news": 0.4606217616580311,
+    "divergence": -0.005880567326047692,
+    "abs_divergence": 0.005880567326047692
+  },
+  {
+    "year_month": "2013-05",
+    "year": 2013,
+    "month": 5,
+    "mood_music": 0.4547411943319834,
+    "mood_news": 0.4652085452695829,
+    "divergence": -0.010467350937599484,
+    "abs_divergence": 0.010467350937599484
+  },
+  {
+    "year_month": "2013-06",
+    "year": 2013,
+    "month": 6,
+    "mood_music": 0.4547411943319834,
+    "mood_news": 0.4620529327610873,
+    "divergence": -0.007311738429103876,
+    "abs_divergence": 0.007311738429103876
+  },
+  {
+    "year_month": "2013-07",
+    "year": 2013,
+    "month": 7,
+    "mood_music": 0.4547411943319834,
+    "mood_news": 0.4641714869003062,
+    "divergence": -0.009430292568322785,
+    "abs_divergence": 0.009430292568322785
+  },
+  {
+    "year_month": "2013-08",
+    "year": 2013,
+    "month": 8,
+    "mood_music": 0.4547411943319834,
+    "mood_news": 0.4679394564843481,
+    "divergence": -0.013198262152364693,
+    "abs_divergence": 0.013198262152364693
+  },
+  {
+    "year_month": "2013-09",
+    "year": 2013,
+    "month": 9,
+    "mood_music": 0.4547411943319834,
+    "mood_news": 0.4605439773931473,
+    "divergence": -0.005802783061163885,
+    "abs_divergence": 0.005802783061163885
+  },
+  {
+    "year_month": "2013-10",
+    "year": 2013,
+    "month": 10,
+    "mood_music": 0.4547411943319834,
+    "mood_news": 0.4675584151710125,
+    "divergence": -0.012817220839029086,
+    "abs_divergence": 0.012817220839029086
+  },
+  {
+    "year_month": "2013-11",
+    "year": 2013,
+    "month": 11,
+    "mood_music": 0.4547411943319834,
+    "mood_news": 0.4609276177090653,
+    "divergence": -0.006186423377081918,
+    "abs_divergence": 0.006186423377081918
+  },
+  {
+    "year_month": "2013-12",
+    "year": 2013,
+    "month": 12,
+    "mood_music": 0.4547411943319834,
+    "mood_news": 0.4640796703296703,
+    "divergence": -0.00933847599768689,
+    "abs_divergence": 0.00933847599768689
+  },
+  {
+    "year_month": "2014-01",
+    "year": 2014,
+    "month": 1,
+    "mood_music": 0.4509162790697675,
+    "mood_news": 0.4597931034482759,
+    "divergence": -0.008876824378508397,
+    "abs_divergence": 0.008876824378508397
+  },
+  {
+    "year_month": "2014-02",
+    "year": 2014,
+    "month": 2,
+    "mood_music": 0.4630487780548628,
+    "mood_news": 0.4578787878787879,
+    "divergence": 0.00516999017607489,
+    "abs_divergence": 0.00516999017607489
+  },
+  {
+    "year_month": "2014-03",
+    "year": 2014,
+    "month": 3,
+    "mood_music": 0.4630487780548628,
+    "mood_news": 0.458854907539118,
+    "divergence": 0.004193870515744769,
+    "abs_divergence": 0.004193870515744769
+  },
+  {
+    "year_month": "2014-04",
+    "year": 2014,
+    "month": 4,
+    "mood_music": 0.4630487780548628,
+    "mood_news": 0.4275208491281274,
+    "divergence": 0.0355279289267354,
+    "abs_divergence": 0.0355279289267354
+  },
+  {
+    "year_month": "2014-05",
+    "year": 2014,
+    "month": 5,
+    "mood_music": 0.4630487780548628,
+    "mood_news": 0.3798365122615804,
+    "divergence": 0.08321226579328239,
+    "abs_divergence": 0.08321226579328239
+  },
+  {
+    "year_month": "2014-06",
+    "year": 2014,
+    "month": 6,
+    "mood_music": 0.4630487780548628,
+    "mood_news": 0.3875521821631879,
+    "divergence": 0.0754965958916749,
+    "abs_divergence": 0.0754965958916749
+  },
+  {
+    "year_month": "2014-07",
+    "year": 2014,
+    "month": 7,
+    "mood_music": 0.4630487780548628,
+    "mood_news": 0.386391603329714,
+    "divergence": 0.07665717472514877,
+    "abs_divergence": 0.07665717472514877
+  },
+  {
+    "year_month": "2014-08",
+    "year": 2014,
+    "month": 8,
+    "mood_music": 0.4630487780548628,
+    "mood_news": 0.3848528877588085,
+    "divergence": 0.07819589029605428,
+    "abs_divergence": 0.07819589029605428
+  },
+  {
+    "year_month": "2014-09",
+    "year": 2014,
+    "month": 9,
+    "mood_music": 0.4630487780548628,
+    "mood_news": 0.3859923664122137,
+    "divergence": 0.07705641164264909,
+    "abs_divergence": 0.07705641164264909
+  },
+  {
+    "year_month": "2014-10",
+    "year": 2014,
+    "month": 10,
+    "mood_music": 0.4630487780548628,
+    "mood_news": 0.3814221891288161,
+    "divergence": 0.08162658892604668,
+    "abs_divergence": 0.08162658892604668
+  },
+  {
+    "year_month": "2014-11",
+    "year": 2014,
+    "month": 11,
+    "mood_music": 0.4630487780548628,
+    "mood_news": 0.3756704980842912,
+    "divergence": 0.08737827997057157,
+    "abs_divergence": 0.08737827997057157
+  },
+  {
+    "year_month": "2014-12",
+    "year": 2014,
+    "month": 12,
+    "mood_music": 0.4630487780548628,
+    "mood_news": 0.3863988204939181,
+    "divergence": 0.07664995756094467,
+    "abs_divergence": 0.07664995756094467
+  },
+  {
+    "year_month": "2015-01",
+    "year": 2015,
+    "month": 1,
+    "mood_music": 0.4426470588235294,
+    "mood_news": 0.3739114114114114,
+    "divergence": 0.06873564741211802,
+    "abs_divergence": 0.06873564741211802
+  },
+  {
+    "year_month": "2015-02",
+    "year": 2015,
+    "month": 2,
+    "mood_music": 0.4320983687943254,
+    "mood_news": 0.3807268272764393,
+    "divergence": 0.05137154151788609,
+    "abs_divergence": 0.05137154151788609
+  },
+  {
+    "year_month": "2015-03",
+    "year": 2015,
+    "month": 3,
+    "mood_music": 0.4320983687943254,
+    "mood_news": 0.3791541916167665,
+    "divergence": 0.05294417717755889,
+    "abs_divergence": 0.05294417717755889
+  },
+  {
+    "year_month": "2015-04",
+    "year": 2015,
+    "month": 4,
+    "mood_music": 0.4320983687943254,
+    "mood_news": 0.3805285658764089,
+    "divergence": 0.05156980291791652,
+    "abs_divergence": 0.05156980291791652
+  },
+  {
+    "year_month": "2015-05",
+    "year": 2015,
+    "month": 5,
+    "mood_music": 0.4320983687943254,
+    "mood_news": 0.3777203983769827,
+    "divergence": 0.054377970417342714,
+    "abs_divergence": 0.054377970417342714
+  },
+  {
+    "year_month": "2015-06",
+    "year": 2015,
+    "month": 6,
+    "mood_music": 0.4320983687943254,
+    "mood_news": 0.3774205748865355,
+    "divergence": 0.05467779390778987,
+    "abs_divergence": 0.05467779390778987
+  },
+  {
+    "year_month": "2015-07",
+    "year": 2015,
+    "month": 7,
+    "mood_music": 0.4320983687943254,
+    "mood_news": 0.4040614709110867,
+    "divergence": 0.02803689788323871,
+    "abs_divergence": 0.02803689788323871
+  },
+  {
+    "year_month": "2015-08",
+    "year": 2015,
+    "month": 8,
+    "mood_music": 0.4320983687943254,
+    "mood_news": 0.378240058910162,
+    "divergence": 0.0538583098841634,
+    "abs_divergence": 0.0538583098841634
+  },
+  {
+    "year_month": "2015-09",
+    "year": 2015,
+    "month": 9,
+    "mood_music": 0.4320983687943254,
+    "mood_news": 0.3746897329823241,
+    "divergence": 0.057408635812001285,
+    "abs_divergence": 0.057408635812001285
+  },
+  {
+    "year_month": "2015-10",
+    "year": 2015,
+    "month": 10,
+    "mood_music": 0.4320983687943254,
+    "mood_news": 0.3678495386799148,
+    "divergence": 0.06424883011441057,
+    "abs_divergence": 0.06424883011441057
+  },
+  {
+    "year_month": "2015-11",
+    "year": 2015,
+    "month": 11,
+    "mood_music": 0.4320983687943254,
+    "mood_news": 0.3794592564776567,
+    "divergence": 0.05263911231666868,
+    "abs_divergence": 0.05263911231666868
+  },
+  {
+    "year_month": "2015-12",
+    "year": 2015,
+    "month": 12,
+    "mood_music": 0.4320983687943254,
+    "mood_news": 0.3684541420118343,
+    "divergence": 0.0636442267824911,
+    "abs_divergence": 0.0636442267824911
+  },
+  {
+    "year_month": "2016-01",
+    "year": 2016,
+    "month": 1,
+    "mood_music": 0.52925,
+    "mood_news": 0.364695077149155,
+    "divergence": 0.164554922850845,
+    "abs_divergence": 0.164554922850845
+  },
+  {
+    "year_month": "2016-02",
+    "year": 2016,
+    "month": 2,
+    "mood_music": 0.4315320589872012,
+    "mood_news": 0.3507596416049863,
+    "divergence": 0.08077241738221491,
+    "abs_divergence": 0.08077241738221491
+  },
+  {
+    "year_month": "2016-03",
+    "year": 2016,
+    "month": 3,
+    "mood_music": 0.4315320589872012,
+    "mood_news": 0.3590892262125139,
+    "divergence": 0.07244283277468733,
+    "abs_divergence": 0.07244283277468733
+  },
+  {
+    "year_month": "2016-04",
+    "year": 2016,
+    "month": 4,
+    "mood_music": 0.4315320589872012,
+    "mood_news": 0.3634325473521453,
+    "divergence": 0.0680995116350559,
+    "abs_divergence": 0.0680995116350559
+  },
+  {
+    "year_month": "2016-05",
+    "year": 2016,
+    "month": 5,
+    "mood_music": 0.4315320589872012,
+    "mood_news": 0.3565378900445765,
+    "divergence": 0.07499416894262473,
+    "abs_divergence": 0.07499416894262473
+  },
+  {
+    "year_month": "2016-06",
+    "year": 2016,
+    "month": 6,
+    "mood_music": 0.4315320589872012,
+    "mood_news": 0.3540600667408231,
+    "divergence": 0.07747199224637813,
+    "abs_divergence": 0.07747199224637813
+  },
+  {
+    "year_month": "2016-07",
+    "year": 2016,
+    "month": 7,
+    "mood_music": 0.4315320589872012,
+    "mood_news": 0.3521433850702143,
+    "divergence": 0.0793886739169869,
+    "abs_divergence": 0.0793886739169869
+  },
+  {
+    "year_month": "2016-08",
+    "year": 2016,
+    "month": 8,
+    "mood_music": 0.4315320589872012,
+    "mood_news": 0.3731202324736651,
+    "divergence": 0.0584118265135361,
+    "abs_divergence": 0.0584118265135361
+  },
+  {
+    "year_month": "2016-09",
+    "year": 2016,
+    "month": 9,
+    "mood_music": 0.4315320589872012,
+    "mood_news": 0.3515487571701721,
+    "divergence": 0.07998330181702912,
+    "abs_divergence": 0.07998330181702912
+  },
+  {
+    "year_month": "2016-10",
+    "year": 2016,
+    "month": 10,
+    "mood_music": 0.4315320589872012,
+    "mood_news": 0.3499818643453029,
+    "divergence": 0.08155019464189833,
+    "abs_divergence": 0.08155019464189833
+  },
+  {
+    "year_month": "2016-11",
+    "year": 2016,
+    "month": 11,
+    "mood_music": 0.4315320589872012,
+    "mood_news": 0.3361132075471698,
+    "divergence": 0.09541885144003143,
+    "abs_divergence": 0.09541885144003143
+  },
+  {
+    "year_month": "2016-12",
+    "year": 2016,
+    "month": 12,
+    "mood_music": 0.4315320589872012,
+    "mood_news": 0.3507732930969445,
+    "divergence": 0.08075876589025671,
+    "abs_divergence": 0.08075876589025671
+  },
+  {
+    "year_month": "2017-01",
+    "year": 2017,
+    "month": 1,
+    "mood_music": 0.2956363636363636,
+    "mood_news": 0.3405376724442872,
+    "divergence": -0.04490130880792359,
+    "abs_divergence": 0.04490130880792359
+  },
+  {
+    "year_month": "2017-02",
+    "year": 2017,
+    "month": 2,
+    "mood_music": 0.4164763112449793,
+    "mood_news": 0.3486465280502158,
+    "divergence": 0.06782978319476352,
+    "abs_divergence": 0.06782978319476352
+  },
+  {
+    "year_month": "2017-03",
+    "year": 2017,
+    "month": 3,
+    "mood_music": 0.4164763112449793,
+    "mood_news": 0.3444444444444445,
+    "divergence": 0.0720318668005348,
+    "abs_divergence": 0.0720318668005348
+  },
+  {
+    "year_month": "2017-04",
+    "year": 2017,
+    "month": 4,
+    "mood_music": 0.4164763112449793,
+    "mood_news": 0.3385481366459627,
+    "divergence": 0.07792817459901658,
+    "abs_divergence": 0.07792817459901658
+  },
+  {
+    "year_month": "2017-05",
+    "year": 2017,
+    "month": 5,
+    "mood_music": 0.4164763112449793,
+    "mood_news": 0.3253968253968254,
+    "divergence": 0.0910794858481539,
+    "abs_divergence": 0.0910794858481539
+  },
+  {
+    "year_month": "2017-06",
+    "year": 2017,
+    "month": 6,
+    "mood_music": 0.4164763112449793,
+    "mood_news": 0.3147002672775869,
+    "divergence": 0.10177604396739243,
+    "abs_divergence": 0.10177604396739243
+  },
+  {
+    "year_month": "2017-07",
+    "year": 2017,
+    "month": 7,
+    "mood_music": 0.4164763112449793,
+    "mood_news": 0.3264120276310443,
+    "divergence": 0.09006428361393498,
+    "abs_divergence": 0.09006428361393498
+  },
+  {
+    "year_month": "2017-08",
+    "year": 2017,
+    "month": 8,
+    "mood_music": 0.4164763112449793,
+    "mood_news": 0.3294276875483372,
+    "divergence": 0.08704862369664212,
+    "abs_divergence": 0.08704862369664212
+  },
+  {
+    "year_month": "2017-09",
+    "year": 2017,
+    "month": 9,
+    "mood_music": 0.4164763112449793,
+    "mood_news": 0.3293861558554636,
+    "divergence": 0.0870901553895157,
+    "abs_divergence": 0.0870901553895157
+  },
+  {
+    "year_month": "2017-10",
+    "year": 2017,
+    "month": 10,
+    "mood_music": 0.4164763112449793,
+    "mood_news": 0.3434855467113532,
+    "divergence": 0.07299076453362613,
+    "abs_divergence": 0.07299076453362613
+  },
+  {
+    "year_month": "2017-11",
+    "year": 2017,
+    "month": 11,
+    "mood_music": 0.4164763112449793,
+    "mood_news": 0.3442585895117541,
+    "divergence": 0.07221772173322522,
+    "abs_divergence": 0.07221772173322522
+  },
+  {
+    "year_month": "2017-12",
+    "year": 2017,
+    "month": 12,
+    "mood_music": 0.4164763112449793,
+    "mood_news": 0.3381468703794973,
+    "divergence": 0.07832944086548199,
+    "abs_divergence": 0.07832944086548199
+  },
+  {
+    "year_month": "2018-01",
+    "year": 2018,
+    "month": 1,
+    "mood_music": 0.4479212743699474,
+    "mood_news": 0.3608281770585436,
+    "divergence": 0.0870930973114038,
+    "abs_divergence": 0.0870930973114038
+  },
+  {
+    "year_month": "2018-02",
+    "year": 2018,
+    "month": 2,
+    "mood_music": 0.4479212743699474,
+    "mood_news": 0.3674104521432766,
+    "divergence": 0.08051082222667078,
+    "abs_divergence": 0.08051082222667078
+  },
+  {
+    "year_month": "2018-03",
+    "year": 2018,
+    "month": 3,
+    "mood_music": 0.4479212743699474,
+    "mood_news": 0.3564659977703456,
+    "divergence": 0.09145527659960179,
+    "abs_divergence": 0.09145527659960179
+  },
+  {
+    "year_month": "2018-04",
+    "year": 2018,
+    "month": 4,
+    "mood_music": 0.4479212743699474,
+    "mood_news": 0.3665623043206011,
+    "divergence": 0.08135897004934628,
+    "abs_divergence": 0.08135897004934628
+  },
+  {
+    "year_month": "2018-05",
+    "year": 2018,
+    "month": 5,
+    "mood_music": 0.4479212743699474,
+    "mood_news": 0.3719347980155917,
+    "divergence": 0.07598647635435568,
+    "abs_divergence": 0.07598647635435568
+  },
+  {
+    "year_month": "2018-06",
+    "year": 2018,
+    "month": 6,
+    "mood_music": 0.4479212743699474,
+    "mood_news": 0.2951048951048951,
+    "divergence": 0.15281637926505226,
+    "abs_divergence": 0.15281637926505226
+  },
+  {
+    "year_month": "2018-07",
+    "year": 2018,
+    "month": 7,
+    "mood_music": 0.4479212743699474,
+    "mood_news": 0.265,
+    "divergence": 0.18292127436994737,
+    "abs_divergence": 0.18292127436994737
+  },
+  {
+    "year_month": "2018-08",
+    "year": 2018,
+    "month": 8,
+    "mood_music": 0.4479212743699474,
+    "mood_news": 0.2630769230769231,
+    "divergence": 0.1848443512930243,
+    "abs_divergence": 0.1848443512930243
+  },
+  {
+    "year_month": "2018-09",
+    "year": 2018,
+    "month": 9,
+    "mood_music": 0.4479212743699474,
+    "mood_news": 0.3305732484076433,
+    "divergence": 0.11734802596230409,
+    "abs_divergence": 0.11734802596230409
+  },
+  {
+    "year_month": "2018-10",
+    "year": 2018,
+    "month": 10,
+    "mood_music": 0.4479212743699474,
+    "mood_news": 0.3461538461538461,
+    "divergence": 0.1017674282161013,
+    "abs_divergence": 0.1017674282161013
+  },
+  {
+    "year_month": "2018-11",
+    "year": 2018,
+    "month": 11,
+    "mood_music": 0.4479212743699474,
+    "mood_news": 0.4011428571428571,
+    "divergence": 0.04677841722709031,
+    "abs_divergence": 0.04677841722709031
+  },
+  {
+    "year_month": "2018-12",
+    "year": 2018,
+    "month": 12,
+    "mood_music": 0.4479212743699474,
+    "mood_news": 0.3635359116022099,
+    "divergence": 0.0843853627677375,
+    "abs_divergence": 0.0843853627677375
+  },
+  {
+    "year_month": "2019-01",
+    "year": 2019,
+    "month": 1,
+    "mood_music": 0.4588176295536167,
+    "mood_news": 0.3955801104972375,
+    "divergence": 0.0632375190563792,
+    "abs_divergence": 0.0632375190563792
+  },
+  {
+    "year_month": "2019-02",
+    "year": 2019,
+    "month": 2,
+    "mood_music": 0.4588176295536167,
+    "mood_news": 0.4017857142857143,
+    "divergence": 0.05703191526790241,
+    "abs_divergence": 0.05703191526790241
+  },
+  {
+    "year_month": "2019-03",
+    "year": 2019,
+    "month": 3,
+    "mood_music": 0.4588176295536167,
+    "mood_news": 0.3173184357541899,
+    "divergence": 0.14149919379942683,
+    "abs_divergence": 0.14149919379942683
+  },
+  {
+    "year_month": "2019-04",
+    "year": 2019,
+    "month": 4,
+    "mood_music": 0.4588176295536167,
+    "mood_news": 0.2605442176870748,
+    "divergence": 0.1982734118665419,
+    "abs_divergence": 0.1982734118665419
+  },
+  {
+    "year_month": "2019-05",
+    "year": 2019,
+    "month": 5,
+    "mood_music": 0.4588176295536167,
+    "mood_news": 0.3006578947368421,
+    "divergence": 0.1581597348167746,
+    "abs_divergence": 0.1581597348167746
+  },
+  {
+    "year_month": "2019-06",
+    "year": 2019,
+    "month": 6,
+    "mood_music": 0.4588176295536167,
+    "mood_news": 0.2562091503267974,
+    "divergence": 0.2026084792268193,
+    "abs_divergence": 0.2026084792268193
+  },
+  {
+    "year_month": "2019-07",
+    "year": 2019,
+    "month": 7,
+    "mood_music": 0.4588176295536167,
+    "mood_news": 0.2792452830188679,
+    "divergence": 0.1795723465347488,
+    "abs_divergence": 0.1795723465347488
+  },
+  {
+    "year_month": "2019-08",
+    "year": 2019,
+    "month": 8,
+    "mood_music": 0.4588176295536167,
+    "mood_news": 0.2561728395061728,
+    "divergence": 0.2026447900474439,
+    "abs_divergence": 0.2026447900474439
+  },
+  {
+    "year_month": "2019-09",
+    "year": 2019,
+    "month": 9,
+    "mood_music": 0.4588176295536167,
+    "mood_news": 0.296969696969697,
+    "divergence": 0.16184793258391972,
+    "abs_divergence": 0.16184793258391972
+  },
+  {
+    "year_month": "2019-10",
+    "year": 2019,
+    "month": 10,
+    "mood_music": 0.4588176295536167,
+    "mood_news": 0.3743169398907104,
+    "divergence": 0.0845006896629063,
+    "abs_divergence": 0.0845006896629063
+  },
+  {
+    "year_month": "2019-11",
+    "year": 2019,
+    "month": 11,
+    "mood_music": 0.4588176295536167,
+    "mood_news": 0.38,
+    "divergence": 0.07881762955361671,
+    "abs_divergence": 0.07881762955361671
+  },
+  {
+    "year_month": "2019-12",
+    "year": 2019,
+    "month": 12,
+    "mood_music": 0.4588176295536167,
+    "mood_news": 0.3303867403314917,
+    "divergence": 0.12843088922212503,
+    "abs_divergence": 0.12843088922212503
+  },
+  {
+    "year_month": "2020-01",
+    "year": 2020,
+    "month": 1,
+    "mood_music": 0.5010478078817729,
+    "mood_news": 0.25,
+    "divergence": 0.25104780788177294,
+    "abs_divergence": 0.25104780788177294
+  },
+  {
+    "year_month": "2020-02",
+    "year": 2020,
+    "month": 2,
+    "mood_music": 0.5010478078817729,
+    "mood_news": 0.2659090909090909,
+    "divergence": 0.23513871697268207,
+    "abs_divergence": 0.23513871697268207
+  },
+  {
+    "year_month": "2020-03",
+    "year": 2020,
+    "month": 3,
+    "mood_music": 0.5010478078817729,
+    "mood_news": 0.3631901840490797,
+    "divergence": 0.13785762383269323,
+    "abs_divergence": 0.13785762383269323
+  },
+  {
+    "year_month": "2020-04",
+    "year": 2020,
+    "month": 4,
+    "mood_music": 0.5010478078817729,
+    "mood_news": 0.4156976744186046,
+    "divergence": 0.08535013346316833,
+    "abs_divergence": 0.08535013346316833
+  },
+  {
+    "year_month": "2020-05",
+    "year": 2020,
+    "month": 5,
+    "mood_music": 0.5010478078817729,
+    "mood_news": 0.3748603351955307,
+    "divergence": 0.12618747268624225,
+    "abs_divergence": 0.12618747268624225
+  },
+  {
+    "year_month": "2020-06",
+    "year": 2020,
+    "month": 6,
+    "mood_music": 0.5010478078817729,
+    "mood_news": 0.3755681818181818,
+    "divergence": 0.12547962606359114,
+    "abs_divergence": 0.12547962606359114
+  },
+  {
+    "year_month": "2020-07",
+    "year": 2020,
+    "month": 7,
+    "mood_music": 0.5010478078817729,
+    "mood_news": 0.3591397849462365,
+    "divergence": 0.14190802293553645,
+    "abs_divergence": 0.14190802293553645
+  },
+  {
+    "year_month": "2020-08",
+    "year": 2020,
+    "month": 8,
+    "mood_music": 0.5010478078817729,
+    "mood_news": 0.3161111111111111,
+    "divergence": 0.18493669677066182,
+    "abs_divergence": 0.18493669677066182
+  },
+  {
+    "year_month": "2020-09",
+    "year": 2020,
+    "month": 9,
+    "mood_music": 0.5010478078817729,
+    "mood_news": 0.3379310344827586,
+    "divergence": 0.16311677339901437,
+    "abs_divergence": 0.16311677339901437
+  },
+  {
+    "year_month": "2020-10",
+    "year": 2020,
+    "month": 10,
+    "mood_music": 0.5010478078817729,
+    "mood_news": 0.3576271186440677,
+    "divergence": 0.14342068923770523,
+    "abs_divergence": 0.14342068923770523
+  },
+  {
+    "year_month": "2020-11",
+    "year": 2020,
+    "month": 11,
+    "mood_music": 0.5010478078817729,
+    "mood_news": 0.3280898876404494,
+    "divergence": 0.17295792024132356,
+    "abs_divergence": 0.17295792024132356
+  },
+  {
+    "year_month": "2020-12",
+    "year": 2020,
+    "month": 12,
+    "mood_music": 0.5010478078817729,
+    "mood_news": 0.3442622950819672,
+    "divergence": 0.15678551279980574,
+    "abs_divergence": 0.15678551279980574
+  }
+]

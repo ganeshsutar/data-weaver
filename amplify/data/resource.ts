@@ -1,139 +1,144 @@
 import { type ClientSchema, a, defineData } from "@aws-amplify/backend";
 
-// Custom types for nested structures
-
-const ColumnSchema = a.customType({
-  name: a.string().required(),
-  type: a.string().required(),
-  nullable: a.boolean().required(),
-});
-
-const DatasetSchema = a.customType({
-  columns: a.ref("ColumnSchema").array(),
-});
-
-const DatasetInfo = a.customType({
-  s3Uri: a.string().required(),
-  filename: a.string().required(),
-  size: a.integer(),
-  rowCount: a.integer(),
-  schema: a.ref("DatasetSchema"),
-});
-
-const JoinConfig = a.customType({
-  key1: a.string().required(),
-  key2: a.string().required(),
-  type: a.string().required(), // 'inner', 'left', 'right', 'outer'
-  mappingType: a.string().required(), // 'direct' | 'semantic'
-});
-
-const CombinedDataset = a.customType({
-  s3Uri: a.string().required(),
-  rowCount: a.integer(),
-  columns: a.string().array(),
-});
-
-const ProcessingStage = a.customType({
-  name: a.string().required(),
-  status: a.string().required(), // 'pending' | 'in_progress' | 'completed' | 'failed'
-  timestamp: a.string(),
-  message: a.string(),
-});
-
-const CorrelationMatrix = a.customType({
-  columns: a.string().array(),
-  matrix: a.json(), // 2D array of floats
-});
-
-const Outlier = a.customType({
-  column: a.string().required(),
-  method: a.string().required(),
-  count: a.integer().required(),
-  indices: a.integer().array(),
-  description: a.string(),
-});
-
-const MissingValues = a.customType({
-  total: a.integer().required(),
-  byColumn: a.json(), // { [column: string]: number }
-  percentage: a.float(),
-});
-
-const ChartConfig = a.customType({
-  xColumn: a.string(),
-  yColumn: a.string(),
-  // Additional chart configuration stored as JSON for flexibility
-  options: a.json(),
-});
-
-const Insight = a.customType({
-  id: a.string().required(),
-  title: a.string().required(),
-  description: a.string().required(),
-  chartType: a.string(), // 'bar' | 'line' | 'scatter' | 'pie' | 'heatmap'
-  chartConfig: a.ref("ChartConfig"),
-});
-
-const AnalysisResults = a.customType({
-  correlationMatrix: a.ref("CorrelationMatrix"),
-  outliers: a.ref("Outlier").array(),
-  missingValues: a.ref("MissingValues"),
-  insights: a.ref("Insight").array(),
-  narrative: a.string(),
-});
-
-const AnalysisError = a.customType({
-  code: a.string().required(),
-  message: a.string().required(),
-  stage: a.string(),
-});
-
-// Schema definition
 const schema = a.schema({
-  // Custom types must be registered in schema
-  ColumnSchema,
-  DatasetSchema,
-  DatasetInfo,
-  JoinConfig,
-  CombinedDataset,
-  ProcessingStage,
-  CorrelationMatrix,
-  Outlier,
-  MissingValues,
-  ChartConfig,
-  Insight,
-  AnalysisResults,
-  AnalysisError,
-
-  // Analysis model - stores analysis metadata and results
-  Analysis: a
+  // Monthly mood data (809 records, 1958-2025)
+  MoodMonthly: a
     .model({
-      userId: a.string().required(),
-      status: a.enum(["processing", "completed", "failed"]),
-      dataset1: a.ref("DatasetInfo"),
-      dataset2: a.ref("DatasetInfo"),
-      joinConfig: a.ref("JoinConfig"),
-      combinedDataset: a.ref("CombinedDataset"),
-      stages: a.ref("ProcessingStage").array(),
-      results: a.ref("AnalysisResults"),
-      error: a.ref("AnalysisError"),
-    })
-    .secondaryIndexes((index) => [
-      index("userId").name("byUser"),
-    ])
-    .authorization((allow) => [allow.owner()]),
+      yearMonth: a.string().required(), // "YYYY-MM" format - Primary identifier
+      year: a.integer().required(),
+      month: a.integer().required(),
 
-  // ChatMessage model - stores conversation history for each analysis
-  ChatMessage: a
-    .model({
-      analysisId: a.id().required(),
-      role: a.enum(["user", "assistant"]),
-      content: a.string().required(),
+      // Billboard metrics
+      billboardEntries: a.integer(),
+      avgChartRank: a.float(),
+      avgWeeksOnChart: a.float(),
+      uniqueArtists: a.integer(),
+      topSongs: a.json(), // Array of strings
+      topArtists: a.json(), // Array of strings
+
+      // Spotify audio features (means)
+      spotifyValenceMean: a.float(),
+      spotifyEnergyMean: a.float(),
+      spotifyDanceabilityMean: a.float(),
+      spotifyAcousticnessMean: a.float(),
+      spotifyInstrumentalnessMean: a.float(),
+      spotifyLoudnessMean: a.float(),
+      spotifyTempoMean: a.float(),
+      spotifySpeechinessMean: a.float(),
+      spotifyPopularityMean: a.float(),
+      spotifyTrackCount: a.integer(),
+
+      // Spotify audio features (standard deviations)
+      spotifyValenceStd: a.float(),
+      spotifyEnergyStd: a.float(),
+      spotifyDanceabilityStd: a.float(),
+      spotifyAcousticnessStd: a.float(),
+      spotifyInstrumentalnessStd: a.float(),
+      spotifyLoudnessStd: a.float(),
+      spotifyTempoStd: a.float(),
+      spotifySpeechinessStd: a.float(),
+      spotifyPopularityStd: a.float(),
+
+      // Spotify yearly fallbacks (used when monthly data unavailable)
+      spotifyYearlyValence: a.float(),
+      spotifyYearlyEnergy: a.float(),
+      spotifyYearlyDanceability: a.float(),
+      spotifyYearlyAcousticness: a.float(),
+      spotifyYearlyTempo: a.float(),
+      spotifyYearlyPopularity: a.float(),
+
+      // News metrics
+      newsArticleCount: a.integer(),
+      newsSentimentMean: a.float(),
+      newsSentimentStd: a.float(),
+      topNewsCategories: a.json(), // Dict: {"POLITICS": 100, ...}
+      newsPoliticsCount: a.integer(),
+      newsEntertainmentCount: a.integer(),
+      newsComedyCount: a.integer(),
+      newsCrimeCount: a.integer(),
+      newsWorldNewsCount: a.integer(),
+      newsWellnessCount: a.integer(),
+
+      // Composite mood indicators (0-1 scale)
+      moodMusic: a.float(),
+      moodNews: a.float(),
+      moodComposite: a.float(),
+
+      // Historical event marker
+      historicalEvent: a.string(),
     })
+    .identifier(["yearMonth"])
     .secondaryIndexes((index) => [
-      index("analysisId").name("byAnalysis"),
+      index("year").sortKeys(["month"]).queryField("listByYear"),
     ])
-    .authorization((allow) => [allow.owner()]),
+    .authorization((allow) => [allow.authenticated().to(["read"])]),
+
+  // Yearly mood summaries (68 records, 1958-2025)
+  MoodYearly: a
+    .model({
+      yearId: a.string().required(), // Year as string for identifier
+      year: a.integer().required(),
+      decade: a.integer(),
+      decadeLabel: a.string(),
+
+      // Billboard aggregates
+      totalBillboardEntries: a.integer(),
+      avgUniqueArtistsMonthly: a.float(),
+      avgWeeksOnChart: a.float(),
+
+      // Mood aggregates
+      avgMoodComposite: a.float(),
+      avgMoodMusic: a.float(),
+      avgMoodNews: a.float(),
+
+      // Volume metrics
+      totalNewsArticles: a.integer(),
+      totalSpotifyTracks: a.integer(),
+
+      // Events (comma-separated codes)
+      events: a.string(),
+    })
+    .identifier(["yearId"])
+    .secondaryIndexes((index) => [index("decade").queryField("listByDecade")])
+    .authorization((allow) => [allow.authenticated().to(["read"])]),
+
+  // Historical events (8 major events)
+  HistoricalEvent: a
+    .model({
+      eventCode: a.string().required(), // e.g., "covid_pandemic_peak"
+      eventLabel: a.string().required(),
+      startDate: a.string().required(), // "YYYY-MM"
+      endDate: a.string().required(),
+      durationMonths: a.integer(),
+
+      // Mood metrics during event
+      moodMusicAvg: a.float(),
+      moodNewsAvg: a.float(),
+      moodCompositeAvg: a.float(),
+      moodMusicStd: a.float(),
+      moodNewsStd: a.float(),
+      moodCompositeStd: a.float(),
+
+      // Comparison to baseline
+      vsBaselineMusic: a.float(),
+      vsBaselineNews: a.float(),
+      vsBaselineComposite: a.float(),
+
+      // Trajectory data (before/during/after)
+      trajectory: a.json(),
+    })
+    .identifier(["eventCode"])
+    .authorization((allow) => [allow.authenticated().to(["read"])]),
+
+  // Dashboard metadata and precomputed data
+  DashboardMetadata: a
+    .model({
+      metadataType: a.string().required(), // "date_range", "correlation_matrix", etc.
+      data: a.json().required(),
+      lastUpdated: a.datetime(),
+    })
+    .identifier(["metadataType"])
+    .authorization((allow) => [allow.authenticated().to(["read"])]),
 });
 
 export type Schema = ClientSchema<typeof schema>;

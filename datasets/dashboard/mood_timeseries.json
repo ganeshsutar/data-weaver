@@ -1,0 +1,8092 @@
+[
+  {
+    "year_month": "1958-08",
+    "year": 1958,
+    "month": 8,
+    "mood_composite": 0.4976614999999994,
+    "mood_music": 0.4976614999999994,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1958-09",
+    "year": 1958,
+    "month": 9,
+    "mood_composite": 0.4976614999999994,
+    "mood_music": 0.4976614999999994,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1958-10",
+    "year": 1958,
+    "month": 10,
+    "mood_composite": 0.4976614999999994,
+    "mood_music": 0.4976614999999994,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1958-11",
+    "year": 1958,
+    "month": 11,
+    "mood_composite": 0.4976614999999994,
+    "mood_music": 0.4976614999999994,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1958-12",
+    "year": 1958,
+    "month": 12,
+    "mood_composite": 0.4976614999999994,
+    "mood_music": 0.4976614999999994,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1959-01",
+    "year": 1959,
+    "month": 1,
+    "mood_composite": 0.4458808588957055,
+    "mood_music": 0.4458808588957055,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1959-02",
+    "year": 1959,
+    "month": 2,
+    "mood_composite": 0.4784156410256422,
+    "mood_music": 0.4784156410256422,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1959-03",
+    "year": 1959,
+    "month": 3,
+    "mood_composite": 0.4784156410256422,
+    "mood_music": 0.4784156410256422,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1959-04",
+    "year": 1959,
+    "month": 4,
+    "mood_composite": 0.4784156410256422,
+    "mood_music": 0.4784156410256422,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1959-05",
+    "year": 1959,
+    "month": 5,
+    "mood_composite": 0.4784156410256422,
+    "mood_music": 0.4784156410256422,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1959-06",
+    "year": 1959,
+    "month": 6,
+    "mood_composite": 0.4784156410256422,
+    "mood_music": 0.4784156410256422,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1959-07",
+    "year": 1959,
+    "month": 7,
+    "mood_composite": 0.4784156410256422,
+    "mood_music": 0.4784156410256422,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1959-08",
+    "year": 1959,
+    "month": 8,
+    "mood_composite": 0.4784156410256422,
+    "mood_music": 0.4784156410256422,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1959-09",
+    "year": 1959,
+    "month": 9,
+    "mood_composite": 0.4784156410256422,
+    "mood_music": 0.4784156410256422,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1959-10",
+    "year": 1959,
+    "month": 10,
+    "mood_composite": 0.4784156410256422,
+    "mood_music": 0.4784156410256422,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1959-11",
+    "year": 1959,
+    "month": 11,
+    "mood_composite": 0.4784156410256422,
+    "mood_music": 0.4784156410256422,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1959-12",
+    "year": 1959,
+    "month": 12,
+    "mood_composite": 0.4784156410256422,
+    "mood_music": 0.4784156410256422,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1960-01",
+    "year": 1960,
+    "month": 1,
+    "mood_composite": 0.485431679389313,
+    "mood_music": 0.485431679389313,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1960-02",
+    "year": 1960,
+    "month": 2,
+    "mood_composite": 0.5239316756756759,
+    "mood_music": 0.5239316756756759,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1960-03",
+    "year": 1960,
+    "month": 3,
+    "mood_composite": 0.5239316756756759,
+    "mood_music": 0.5239316756756759,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1960-04",
+    "year": 1960,
+    "month": 4,
+    "mood_composite": 0.5239316756756759,
+    "mood_music": 0.5239316756756759,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1960-05",
+    "year": 1960,
+    "month": 5,
+    "mood_composite": 0.5239316756756759,
+    "mood_music": 0.5239316756756759,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1960-06",
+    "year": 1960,
+    "month": 6,
+    "mood_composite": 0.5239316756756759,
+    "mood_music": 0.5239316756756759,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1960-07",
+    "year": 1960,
+    "month": 7,
+    "mood_composite": 0.5239316756756759,
+    "mood_music": 0.5239316756756759,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1960-08",
+    "year": 1960,
+    "month": 8,
+    "mood_composite": 0.5239316756756759,
+    "mood_music": 0.5239316756756759,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1960-09",
+    "year": 1960,
+    "month": 9,
+    "mood_composite": 0.5239316756756759,
+    "mood_music": 0.5239316756756759,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1960-10",
+    "year": 1960,
+    "month": 10,
+    "mood_composite": 0.5239316756756759,
+    "mood_music": 0.5239316756756759,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1960-11",
+    "year": 1960,
+    "month": 11,
+    "mood_composite": 0.5239316756756759,
+    "mood_music": 0.5239316756756759,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1960-12",
+    "year": 1960,
+    "month": 12,
+    "mood_composite": 0.5239316756756759,
+    "mood_music": 0.5239316756756759,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1961-01",
+    "year": 1961,
+    "month": 1,
+    "mood_composite": 0.4437464735516372,
+    "mood_music": 0.4437464735516372,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1961-02",
+    "year": 1961,
+    "month": 2,
+    "mood_composite": 0.5128512105263155,
+    "mood_music": 0.5128512105263155,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1961-03",
+    "year": 1961,
+    "month": 3,
+    "mood_composite": 0.5128512105263155,
+    "mood_music": 0.5128512105263155,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1961-04",
+    "year": 1961,
+    "month": 4,
+    "mood_composite": 0.5128512105263155,
+    "mood_music": 0.5128512105263155,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1961-05",
+    "year": 1961,
+    "month": 5,
+    "mood_composite": 0.5128512105263155,
+    "mood_music": 0.5128512105263155,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1961-06",
+    "year": 1961,
+    "month": 6,
+    "mood_composite": 0.5128512105263155,
+    "mood_music": 0.5128512105263155,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1961-07",
+    "year": 1961,
+    "month": 7,
+    "mood_composite": 0.5128512105263155,
+    "mood_music": 0.5128512105263155,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1961-08",
+    "year": 1961,
+    "month": 8,
+    "mood_composite": 0.5128512105263155,
+    "mood_music": 0.5128512105263155,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1961-09",
+    "year": 1961,
+    "month": 9,
+    "mood_composite": 0.5128512105263155,
+    "mood_music": 0.5128512105263155,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1961-10",
+    "year": 1961,
+    "month": 10,
+    "mood_composite": 0.5128512105263155,
+    "mood_music": 0.5128512105263155,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1961-11",
+    "year": 1961,
+    "month": 11,
+    "mood_composite": 0.5128512105263155,
+    "mood_music": 0.5128512105263155,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1961-12",
+    "year": 1961,
+    "month": 12,
+    "mood_composite": 0.5128512105263155,
+    "mood_music": 0.5128512105263155,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1962-01",
+    "year": 1962,
+    "month": 1,
+    "mood_composite": 0.4699977584059776,
+    "mood_music": 0.4699977584059776,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1962-02",
+    "year": 1962,
+    "month": 2,
+    "mood_composite": 0.5477920526315792,
+    "mood_music": 0.5477920526315792,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1962-03",
+    "year": 1962,
+    "month": 3,
+    "mood_composite": 0.5477920526315792,
+    "mood_music": 0.5477920526315792,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1962-04",
+    "year": 1962,
+    "month": 4,
+    "mood_composite": 0.5477920526315792,
+    "mood_music": 0.5477920526315792,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1962-05",
+    "year": 1962,
+    "month": 5,
+    "mood_composite": 0.5477920526315792,
+    "mood_music": 0.5477920526315792,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1962-06",
+    "year": 1962,
+    "month": 6,
+    "mood_composite": 0.5477920526315792,
+    "mood_music": 0.5477920526315792,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1962-07",
+    "year": 1962,
+    "month": 7,
+    "mood_composite": 0.5477920526315792,
+    "mood_music": 0.5477920526315792,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1962-08",
+    "year": 1962,
+    "month": 8,
+    "mood_composite": 0.5477920526315792,
+    "mood_music": 0.5477920526315792,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1962-09",
+    "year": 1962,
+    "month": 9,
+    "mood_composite": 0.5477920526315792,
+    "mood_music": 0.5477920526315792,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1962-10",
+    "year": 1962,
+    "month": 10,
+    "mood_composite": 0.5477920526315792,
+    "mood_music": 0.5477920526315792,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1962-11",
+    "year": 1962,
+    "month": 11,
+    "mood_composite": 0.5477920526315792,
+    "mood_music": 0.5477920526315792,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1962-12",
+    "year": 1962,
+    "month": 12,
+    "mood_composite": 0.5477920526315792,
+    "mood_music": 0.5477920526315792,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1963-01",
+    "year": 1963,
+    "month": 1,
+    "mood_composite": 0.5041157352941177,
+    "mood_music": 0.5041157352941177,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1963-02",
+    "year": 1963,
+    "month": 2,
+    "mood_composite": 0.5415274500000008,
+    "mood_music": 0.5415274500000008,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1963-03",
+    "year": 1963,
+    "month": 3,
+    "mood_composite": 0.5415274500000008,
+    "mood_music": 0.5415274500000008,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1963-04",
+    "year": 1963,
+    "month": 4,
+    "mood_composite": 0.5415274500000008,
+    "mood_music": 0.5415274500000008,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1963-05",
+    "year": 1963,
+    "month": 5,
+    "mood_composite": 0.5415274500000008,
+    "mood_music": 0.5415274500000008,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1963-06",
+    "year": 1963,
+    "month": 6,
+    "mood_composite": 0.5415274500000008,
+    "mood_music": 0.5415274500000008,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1963-07",
+    "year": 1963,
+    "month": 7,
+    "mood_composite": 0.5415274500000008,
+    "mood_music": 0.5415274500000008,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1963-08",
+    "year": 1963,
+    "month": 8,
+    "mood_composite": 0.5415274500000008,
+    "mood_music": 0.5415274500000008,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1963-09",
+    "year": 1963,
+    "month": 9,
+    "mood_composite": 0.5415274500000008,
+    "mood_music": 0.5415274500000008,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1963-10",
+    "year": 1963,
+    "month": 10,
+    "mood_composite": 0.5415274500000008,
+    "mood_music": 0.5415274500000008,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1963-11",
+    "year": 1963,
+    "month": 11,
+    "mood_composite": 0.5415274500000008,
+    "mood_music": 0.5415274500000008,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1963-12",
+    "year": 1963,
+    "month": 12,
+    "mood_composite": 0.5415274500000008,
+    "mood_music": 0.5415274500000008,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1964-01",
+    "year": 1964,
+    "month": 1,
+    "mood_composite": 0.5116982210927573,
+    "mood_music": 0.5116982210927573,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1964-02",
+    "year": 1964,
+    "month": 2,
+    "mood_composite": 0.55726042051282,
+    "mood_music": 0.55726042051282,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1964-03",
+    "year": 1964,
+    "month": 3,
+    "mood_composite": 0.55726042051282,
+    "mood_music": 0.55726042051282,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1964-04",
+    "year": 1964,
+    "month": 4,
+    "mood_composite": 0.55726042051282,
+    "mood_music": 0.55726042051282,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1964-05",
+    "year": 1964,
+    "month": 5,
+    "mood_composite": 0.55726042051282,
+    "mood_music": 0.55726042051282,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1964-06",
+    "year": 1964,
+    "month": 6,
+    "mood_composite": 0.55726042051282,
+    "mood_music": 0.55726042051282,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1964-07",
+    "year": 1964,
+    "month": 7,
+    "mood_composite": 0.55726042051282,
+    "mood_music": 0.55726042051282,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1964-08",
+    "year": 1964,
+    "month": 8,
+    "mood_composite": 0.55726042051282,
+    "mood_music": 0.55726042051282,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1964-09",
+    "year": 1964,
+    "month": 9,
+    "mood_composite": 0.55726042051282,
+    "mood_music": 0.55726042051282,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1964-10",
+    "year": 1964,
+    "month": 10,
+    "mood_composite": 0.55726042051282,
+    "mood_music": 0.55726042051282,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1964-11",
+    "year": 1964,
+    "month": 11,
+    "mood_composite": 0.55726042051282,
+    "mood_music": 0.55726042051282,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1964-12",
+    "year": 1964,
+    "month": 12,
+    "mood_composite": 0.55726042051282,
+    "mood_music": 0.55726042051282,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1965-01",
+    "year": 1965,
+    "month": 1,
+    "mood_composite": 0.5502858131487889,
+    "mood_music": 0.5502858131487889,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1965-02",
+    "year": 1965,
+    "month": 2,
+    "mood_composite": 0.5809506666666668,
+    "mood_music": 0.5809506666666668,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1965-03",
+    "year": 1965,
+    "month": 3,
+    "mood_composite": 0.5809506666666668,
+    "mood_music": 0.5809506666666668,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1965-04",
+    "year": 1965,
+    "month": 4,
+    "mood_composite": 0.5809506666666668,
+    "mood_music": 0.5809506666666668,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1965-05",
+    "year": 1965,
+    "month": 5,
+    "mood_composite": 0.5809506666666668,
+    "mood_music": 0.5809506666666668,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1965-06",
+    "year": 1965,
+    "month": 6,
+    "mood_composite": 0.5809506666666668,
+    "mood_music": 0.5809506666666668,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1965-07",
+    "year": 1965,
+    "month": 7,
+    "mood_composite": 0.5809506666666668,
+    "mood_music": 0.5809506666666668,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1965-08",
+    "year": 1965,
+    "month": 8,
+    "mood_composite": 0.5809506666666668,
+    "mood_music": 0.5809506666666668,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1965-09",
+    "year": 1965,
+    "month": 9,
+    "mood_composite": 0.5809506666666668,
+    "mood_music": 0.5809506666666668,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1965-10",
+    "year": 1965,
+    "month": 10,
+    "mood_composite": 0.5809506666666668,
+    "mood_music": 0.5809506666666668,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1965-11",
+    "year": 1965,
+    "month": 11,
+    "mood_composite": 0.5809506666666668,
+    "mood_music": 0.5809506666666668,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1965-12",
+    "year": 1965,
+    "month": 12,
+    "mood_composite": 0.5809506666666668,
+    "mood_music": 0.5809506666666668,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1966-01",
+    "year": 1966,
+    "month": 1,
+    "mood_composite": 0.5350481675392671,
+    "mood_music": 0.5350481675392671,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1966-02",
+    "year": 1966,
+    "month": 2,
+    "mood_composite": 0.5801445499999996,
+    "mood_music": 0.5801445499999996,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1966-03",
+    "year": 1966,
+    "month": 3,
+    "mood_composite": 0.5801445499999996,
+    "mood_music": 0.5801445499999996,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1966-04",
+    "year": 1966,
+    "month": 4,
+    "mood_composite": 0.5801445499999996,
+    "mood_music": 0.5801445499999996,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1966-05",
+    "year": 1966,
+    "month": 5,
+    "mood_composite": 0.5801445499999996,
+    "mood_music": 0.5801445499999996,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1966-06",
+    "year": 1966,
+    "month": 6,
+    "mood_composite": 0.5801445499999996,
+    "mood_music": 0.5801445499999996,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1966-07",
+    "year": 1966,
+    "month": 7,
+    "mood_composite": 0.5801445499999996,
+    "mood_music": 0.5801445499999996,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1966-08",
+    "year": 1966,
+    "month": 8,
+    "mood_composite": 0.5801445499999996,
+    "mood_music": 0.5801445499999996,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1966-09",
+    "year": 1966,
+    "month": 9,
+    "mood_composite": 0.5801445499999996,
+    "mood_music": 0.5801445499999996,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1966-10",
+    "year": 1966,
+    "month": 10,
+    "mood_composite": 0.5801445499999996,
+    "mood_music": 0.5801445499999996,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1966-11",
+    "year": 1966,
+    "month": 11,
+    "mood_composite": 0.5801445499999996,
+    "mood_music": 0.5801445499999996,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1966-12",
+    "year": 1966,
+    "month": 12,
+    "mood_composite": 0.5801445499999996,
+    "mood_music": 0.5801445499999996,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1967-01",
+    "year": 1967,
+    "month": 1,
+    "mood_composite": 0.5340208722741433,
+    "mood_music": 0.5340208722741433,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1967-02",
+    "year": 1967,
+    "month": 2,
+    "mood_composite": 0.5507916958479243,
+    "mood_music": 0.5507916958479243,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1967-03",
+    "year": 1967,
+    "month": 3,
+    "mood_composite": 0.5507916958479243,
+    "mood_music": 0.5507916958479243,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1967-04",
+    "year": 1967,
+    "month": 4,
+    "mood_composite": 0.5507916958479243,
+    "mood_music": 0.5507916958479243,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1967-05",
+    "year": 1967,
+    "month": 5,
+    "mood_composite": 0.5507916958479243,
+    "mood_music": 0.5507916958479243,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1967-06",
+    "year": 1967,
+    "month": 6,
+    "mood_composite": 0.5507916958479243,
+    "mood_music": 0.5507916958479243,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1967-07",
+    "year": 1967,
+    "month": 7,
+    "mood_composite": 0.5507916958479243,
+    "mood_music": 0.5507916958479243,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1967-08",
+    "year": 1967,
+    "month": 8,
+    "mood_composite": 0.5507916958479243,
+    "mood_music": 0.5507916958479243,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1967-09",
+    "year": 1967,
+    "month": 9,
+    "mood_composite": 0.5507916958479243,
+    "mood_music": 0.5507916958479243,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1967-10",
+    "year": 1967,
+    "month": 10,
+    "mood_composite": 0.5507916958479243,
+    "mood_music": 0.5507916958479243,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1967-11",
+    "year": 1967,
+    "month": 11,
+    "mood_composite": 0.5507916958479243,
+    "mood_music": 0.5507916958479243,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1967-12",
+    "year": 1967,
+    "month": 12,
+    "mood_composite": 0.5507916958479243,
+    "mood_music": 0.5507916958479243,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1968-01",
+    "year": 1968,
+    "month": 1,
+    "mood_composite": 0.5755402640264027,
+    "mood_music": 0.5755402640264027,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1968-02",
+    "year": 1968,
+    "month": 2,
+    "mood_composite": 0.5659936500000002,
+    "mood_music": 0.5659936500000002,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1968-03",
+    "year": 1968,
+    "month": 3,
+    "mood_composite": 0.5659936500000002,
+    "mood_music": 0.5659936500000002,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1968-04",
+    "year": 1968,
+    "month": 4,
+    "mood_composite": 0.5659936500000002,
+    "mood_music": 0.5659936500000002,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1968-05",
+    "year": 1968,
+    "month": 5,
+    "mood_composite": 0.5659936500000002,
+    "mood_music": 0.5659936500000002,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1968-06",
+    "year": 1968,
+    "month": 6,
+    "mood_composite": 0.5659936500000002,
+    "mood_music": 0.5659936500000002,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1968-07",
+    "year": 1968,
+    "month": 7,
+    "mood_composite": 0.5659936500000002,
+    "mood_music": 0.5659936500000002,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1968-08",
+    "year": 1968,
+    "month": 8,
+    "mood_composite": 0.5659936500000002,
+    "mood_music": 0.5659936500000002,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1968-09",
+    "year": 1968,
+    "month": 9,
+    "mood_composite": 0.5659936500000002,
+    "mood_music": 0.5659936500000002,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1968-10",
+    "year": 1968,
+    "month": 10,
+    "mood_composite": 0.5659936500000002,
+    "mood_music": 0.5659936500000002,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1968-11",
+    "year": 1968,
+    "month": 11,
+    "mood_composite": 0.5659936500000002,
+    "mood_music": 0.5659936500000002,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1968-12",
+    "year": 1968,
+    "month": 12,
+    "mood_composite": 0.5659936500000002,
+    "mood_music": 0.5659936500000002,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1969-01",
+    "year": 1969,
+    "month": 1,
+    "mood_composite": 0.5824288848263254,
+    "mood_music": 0.5824288848263254,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1969-02",
+    "year": 1969,
+    "month": 2,
+    "mood_composite": 0.5547452849999999,
+    "mood_music": 0.5547452849999999,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1969-03",
+    "year": 1969,
+    "month": 3,
+    "mood_composite": 0.5547452849999999,
+    "mood_music": 0.5547452849999999,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1969-04",
+    "year": 1969,
+    "month": 4,
+    "mood_composite": 0.5547452849999999,
+    "mood_music": 0.5547452849999999,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1969-05",
+    "year": 1969,
+    "month": 5,
+    "mood_composite": 0.5547452849999999,
+    "mood_music": 0.5547452849999999,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1969-06",
+    "year": 1969,
+    "month": 6,
+    "mood_composite": 0.5547452849999999,
+    "mood_music": 0.5547452849999999,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1969-07",
+    "year": 1969,
+    "month": 7,
+    "mood_composite": 0.5547452849999999,
+    "mood_music": 0.5547452849999999,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1969-08",
+    "year": 1969,
+    "month": 8,
+    "mood_composite": 0.5547452849999999,
+    "mood_music": 0.5547452849999999,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1969-09",
+    "year": 1969,
+    "month": 9,
+    "mood_composite": 0.5547452849999999,
+    "mood_music": 0.5547452849999999,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1969-10",
+    "year": 1969,
+    "month": 10,
+    "mood_composite": 0.5547452849999999,
+    "mood_music": 0.5547452849999999,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1969-11",
+    "year": 1969,
+    "month": 11,
+    "mood_composite": 0.5547452849999999,
+    "mood_music": 0.5547452849999999,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1969-12",
+    "year": 1969,
+    "month": 12,
+    "mood_composite": 0.5547452849999999,
+    "mood_music": 0.5547452849999999,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1970-01",
+    "year": 1970,
+    "month": 1,
+    "mood_composite": 0.5672452727272727,
+    "mood_music": 0.5672452727272727,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1970-02",
+    "year": 1970,
+    "month": 2,
+    "mood_composite": 0.5720753999999992,
+    "mood_music": 0.5720753999999992,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1970-03",
+    "year": 1970,
+    "month": 3,
+    "mood_composite": 0.5720753999999992,
+    "mood_music": 0.5720753999999992,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1970-04",
+    "year": 1970,
+    "month": 4,
+    "mood_composite": 0.5720753999999992,
+    "mood_music": 0.5720753999999992,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1970-05",
+    "year": 1970,
+    "month": 5,
+    "mood_composite": 0.5720753999999992,
+    "mood_music": 0.5720753999999992,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1970-06",
+    "year": 1970,
+    "month": 6,
+    "mood_composite": 0.5720753999999992,
+    "mood_music": 0.5720753999999992,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1970-07",
+    "year": 1970,
+    "month": 7,
+    "mood_composite": 0.5720753999999992,
+    "mood_music": 0.5720753999999992,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1970-08",
+    "year": 1970,
+    "month": 8,
+    "mood_composite": 0.5720753999999992,
+    "mood_music": 0.5720753999999992,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1970-09",
+    "year": 1970,
+    "month": 9,
+    "mood_composite": 0.5720753999999992,
+    "mood_music": 0.5720753999999992,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1970-10",
+    "year": 1970,
+    "month": 10,
+    "mood_composite": 0.5720753999999992,
+    "mood_music": 0.5720753999999992,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1970-11",
+    "year": 1970,
+    "month": 11,
+    "mood_composite": 0.5720753999999992,
+    "mood_music": 0.5720753999999992,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1970-12",
+    "year": 1970,
+    "month": 12,
+    "mood_composite": 0.5720753999999992,
+    "mood_music": 0.5720753999999992,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1971-01",
+    "year": 1971,
+    "month": 1,
+    "mood_composite": 0.5630094972067039,
+    "mood_music": 0.5630094972067039,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1971-02",
+    "year": 1971,
+    "month": 2,
+    "mood_composite": 0.5749132500000002,
+    "mood_music": 0.5749132500000002,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1971-03",
+    "year": 1971,
+    "month": 3,
+    "mood_composite": 0.5749132500000002,
+    "mood_music": 0.5749132500000002,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1971-04",
+    "year": 1971,
+    "month": 4,
+    "mood_composite": 0.5749132500000002,
+    "mood_music": 0.5749132500000002,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1971-05",
+    "year": 1971,
+    "month": 5,
+    "mood_composite": 0.5749132500000002,
+    "mood_music": 0.5749132500000002,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1971-06",
+    "year": 1971,
+    "month": 6,
+    "mood_composite": 0.5749132500000002,
+    "mood_music": 0.5749132500000002,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1971-07",
+    "year": 1971,
+    "month": 7,
+    "mood_composite": 0.5749132500000002,
+    "mood_music": 0.5749132500000002,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1971-08",
+    "year": 1971,
+    "month": 8,
+    "mood_composite": 0.5749132500000002,
+    "mood_music": 0.5749132500000002,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1971-09",
+    "year": 1971,
+    "month": 9,
+    "mood_composite": 0.5749132500000002,
+    "mood_music": 0.5749132500000002,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1971-10",
+    "year": 1971,
+    "month": 10,
+    "mood_composite": 0.5749132500000002,
+    "mood_music": 0.5749132500000002,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1971-11",
+    "year": 1971,
+    "month": 11,
+    "mood_composite": 0.5749132500000002,
+    "mood_music": 0.5749132500000002,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1971-12",
+    "year": 1971,
+    "month": 12,
+    "mood_composite": 0.5749132500000002,
+    "mood_music": 0.5749132500000002,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1972-01",
+    "year": 1972,
+    "month": 1,
+    "mood_composite": 0.5877135491606714,
+    "mood_music": 0.5877135491606714,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1972-02",
+    "year": 1972,
+    "month": 2,
+    "mood_composite": 0.5956881500000009,
+    "mood_music": 0.5956881500000009,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1972-03",
+    "year": 1972,
+    "month": 3,
+    "mood_composite": 0.5956881500000009,
+    "mood_music": 0.5956881500000009,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1972-04",
+    "year": 1972,
+    "month": 4,
+    "mood_composite": 0.5956881500000009,
+    "mood_music": 0.5956881500000009,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1972-05",
+    "year": 1972,
+    "month": 5,
+    "mood_composite": 0.5956881500000009,
+    "mood_music": 0.5956881500000009,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1972-06",
+    "year": 1972,
+    "month": 6,
+    "mood_composite": 0.5956881500000009,
+    "mood_music": 0.5956881500000009,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1972-07",
+    "year": 1972,
+    "month": 7,
+    "mood_composite": 0.5956881500000009,
+    "mood_music": 0.5956881500000009,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1972-08",
+    "year": 1972,
+    "month": 8,
+    "mood_composite": 0.5956881500000009,
+    "mood_music": 0.5956881500000009,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1972-09",
+    "year": 1972,
+    "month": 9,
+    "mood_composite": 0.5956881500000009,
+    "mood_music": 0.5956881500000009,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1972-10",
+    "year": 1972,
+    "month": 10,
+    "mood_composite": 0.5956881500000009,
+    "mood_music": 0.5956881500000009,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1972-11",
+    "year": 1972,
+    "month": 11,
+    "mood_composite": 0.5956881500000009,
+    "mood_music": 0.5956881500000009,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1972-12",
+    "year": 1972,
+    "month": 12,
+    "mood_composite": 0.5956881500000009,
+    "mood_music": 0.5956881500000009,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1973-01",
+    "year": 1973,
+    "month": 1,
+    "mood_composite": 0.5976804270462633,
+    "mood_music": 0.5976804270462633,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1973-02",
+    "year": 1973,
+    "month": 2,
+    "mood_composite": 0.5921162000000004,
+    "mood_music": 0.5921162000000004,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1973-03",
+    "year": 1973,
+    "month": 3,
+    "mood_composite": 0.5921162000000004,
+    "mood_music": 0.5921162000000004,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1973-04",
+    "year": 1973,
+    "month": 4,
+    "mood_composite": 0.5921162000000004,
+    "mood_music": 0.5921162000000004,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1973-05",
+    "year": 1973,
+    "month": 5,
+    "mood_composite": 0.5921162000000004,
+    "mood_music": 0.5921162000000004,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1973-06",
+    "year": 1973,
+    "month": 6,
+    "mood_composite": 0.5921162000000004,
+    "mood_music": 0.5921162000000004,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1973-07",
+    "year": 1973,
+    "month": 7,
+    "mood_composite": 0.5921162000000004,
+    "mood_music": 0.5921162000000004,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1973-08",
+    "year": 1973,
+    "month": 8,
+    "mood_composite": 0.5921162000000004,
+    "mood_music": 0.5921162000000004,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1973-09",
+    "year": 1973,
+    "month": 9,
+    "mood_composite": 0.5921162000000004,
+    "mood_music": 0.5921162000000004,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1973-10",
+    "year": 1973,
+    "month": 10,
+    "mood_composite": 0.5921162000000004,
+    "mood_music": 0.5921162000000004,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1973-11",
+    "year": 1973,
+    "month": 11,
+    "mood_composite": 0.5921162000000004,
+    "mood_music": 0.5921162000000004,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1973-12",
+    "year": 1973,
+    "month": 12,
+    "mood_composite": 0.5921162000000004,
+    "mood_music": 0.5921162000000004,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1974-01",
+    "year": 1974,
+    "month": 1,
+    "mood_composite": 0.6004428571428572,
+    "mood_music": 0.6004428571428572,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1974-02",
+    "year": 1974,
+    "month": 2,
+    "mood_composite": 0.5812744000000009,
+    "mood_music": 0.5812744000000009,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1974-03",
+    "year": 1974,
+    "month": 3,
+    "mood_composite": 0.5812744000000009,
+    "mood_music": 0.5812744000000009,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1974-04",
+    "year": 1974,
+    "month": 4,
+    "mood_composite": 0.5812744000000009,
+    "mood_music": 0.5812744000000009,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1974-05",
+    "year": 1974,
+    "month": 5,
+    "mood_composite": 0.5812744000000009,
+    "mood_music": 0.5812744000000009,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1974-06",
+    "year": 1974,
+    "month": 6,
+    "mood_composite": 0.5812744000000009,
+    "mood_music": 0.5812744000000009,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1974-07",
+    "year": 1974,
+    "month": 7,
+    "mood_composite": 0.5812744000000009,
+    "mood_music": 0.5812744000000009,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1974-08",
+    "year": 1974,
+    "month": 8,
+    "mood_composite": 0.5812744000000009,
+    "mood_music": 0.5812744000000009,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1974-09",
+    "year": 1974,
+    "month": 9,
+    "mood_composite": 0.5812744000000009,
+    "mood_music": 0.5812744000000009,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1974-10",
+    "year": 1974,
+    "month": 10,
+    "mood_composite": 0.5812744000000009,
+    "mood_music": 0.5812744000000009,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1974-11",
+    "year": 1974,
+    "month": 11,
+    "mood_composite": 0.5812744000000009,
+    "mood_music": 0.5812744000000009,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1974-12",
+    "year": 1974,
+    "month": 12,
+    "mood_composite": 0.5812744000000009,
+    "mood_music": 0.5812744000000009,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1975-01",
+    "year": 1975,
+    "month": 1,
+    "mood_composite": 0.5663055975794251,
+    "mood_music": 0.5663055975794251,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1975-02",
+    "year": 1975,
+    "month": 2,
+    "mood_composite": 0.5694151500000002,
+    "mood_music": 0.5694151500000002,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1975-03",
+    "year": 1975,
+    "month": 3,
+    "mood_composite": 0.5694151500000002,
+    "mood_music": 0.5694151500000002,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1975-04",
+    "year": 1975,
+    "month": 4,
+    "mood_composite": 0.5694151500000002,
+    "mood_music": 0.5694151500000002,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1975-05",
+    "year": 1975,
+    "month": 5,
+    "mood_composite": 0.5694151500000002,
+    "mood_music": 0.5694151500000002,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1975-06",
+    "year": 1975,
+    "month": 6,
+    "mood_composite": 0.5694151500000002,
+    "mood_music": 0.5694151500000002,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1975-07",
+    "year": 1975,
+    "month": 7,
+    "mood_composite": 0.5694151500000002,
+    "mood_music": 0.5694151500000002,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1975-08",
+    "year": 1975,
+    "month": 8,
+    "mood_composite": 0.5694151500000002,
+    "mood_music": 0.5694151500000002,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1975-09",
+    "year": 1975,
+    "month": 9,
+    "mood_composite": 0.5694151500000002,
+    "mood_music": 0.5694151500000002,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1975-10",
+    "year": 1975,
+    "month": 10,
+    "mood_composite": 0.5694151500000002,
+    "mood_music": 0.5694151500000002,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1975-11",
+    "year": 1975,
+    "month": 11,
+    "mood_composite": 0.5694151500000002,
+    "mood_music": 0.5694151500000002,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1975-12",
+    "year": 1975,
+    "month": 12,
+    "mood_composite": 0.5694151500000002,
+    "mood_music": 0.5694151500000002,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1976-01",
+    "year": 1976,
+    "month": 1,
+    "mood_composite": 0.5857610817941952,
+    "mood_music": 0.5857610817941952,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1976-02",
+    "year": 1976,
+    "month": 2,
+    "mood_composite": 0.5807332499999998,
+    "mood_music": 0.5807332499999998,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1976-03",
+    "year": 1976,
+    "month": 3,
+    "mood_composite": 0.5807332499999998,
+    "mood_music": 0.5807332499999998,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1976-04",
+    "year": 1976,
+    "month": 4,
+    "mood_composite": 0.5807332499999998,
+    "mood_music": 0.5807332499999998,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1976-05",
+    "year": 1976,
+    "month": 5,
+    "mood_composite": 0.5807332499999998,
+    "mood_music": 0.5807332499999998,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1976-06",
+    "year": 1976,
+    "month": 6,
+    "mood_composite": 0.5807332499999998,
+    "mood_music": 0.5807332499999998,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1976-07",
+    "year": 1976,
+    "month": 7,
+    "mood_composite": 0.5807332499999998,
+    "mood_music": 0.5807332499999998,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1976-08",
+    "year": 1976,
+    "month": 8,
+    "mood_composite": 0.5807332499999998,
+    "mood_music": 0.5807332499999998,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1976-09",
+    "year": 1976,
+    "month": 9,
+    "mood_composite": 0.5807332499999998,
+    "mood_music": 0.5807332499999998,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1976-10",
+    "year": 1976,
+    "month": 10,
+    "mood_composite": 0.5807332499999998,
+    "mood_music": 0.5807332499999998,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1976-11",
+    "year": 1976,
+    "month": 11,
+    "mood_composite": 0.5807332499999998,
+    "mood_music": 0.5807332499999998,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1976-12",
+    "year": 1976,
+    "month": 12,
+    "mood_composite": 0.5807332499999998,
+    "mood_music": 0.5807332499999998,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1977-01",
+    "year": 1977,
+    "month": 1,
+    "mood_composite": 0.5778687683284457,
+    "mood_music": 0.5778687683284457,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1977-02",
+    "year": 1977,
+    "month": 2,
+    "mood_composite": 0.58524655,
+    "mood_music": 0.58524655,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1977-03",
+    "year": 1977,
+    "month": 3,
+    "mood_composite": 0.58524655,
+    "mood_music": 0.58524655,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1977-04",
+    "year": 1977,
+    "month": 4,
+    "mood_composite": 0.58524655,
+    "mood_music": 0.58524655,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1977-05",
+    "year": 1977,
+    "month": 5,
+    "mood_composite": 0.58524655,
+    "mood_music": 0.58524655,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1977-06",
+    "year": 1977,
+    "month": 6,
+    "mood_composite": 0.58524655,
+    "mood_music": 0.58524655,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1977-07",
+    "year": 1977,
+    "month": 7,
+    "mood_composite": 0.58524655,
+    "mood_music": 0.58524655,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1977-08",
+    "year": 1977,
+    "month": 8,
+    "mood_composite": 0.58524655,
+    "mood_music": 0.58524655,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1977-09",
+    "year": 1977,
+    "month": 9,
+    "mood_composite": 0.58524655,
+    "mood_music": 0.58524655,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1977-10",
+    "year": 1977,
+    "month": 10,
+    "mood_composite": 0.58524655,
+    "mood_music": 0.58524655,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1977-11",
+    "year": 1977,
+    "month": 11,
+    "mood_composite": 0.58524655,
+    "mood_music": 0.58524655,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1977-12",
+    "year": 1977,
+    "month": 12,
+    "mood_composite": 0.58524655,
+    "mood_music": 0.58524655,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1978-01",
+    "year": 1978,
+    "month": 1,
+    "mood_composite": 0.6149027696793004,
+    "mood_music": 0.6149027696793004,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1978-02",
+    "year": 1978,
+    "month": 2,
+    "mood_composite": 0.5895352500000014,
+    "mood_music": 0.5895352500000014,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1978-03",
+    "year": 1978,
+    "month": 3,
+    "mood_composite": 0.5895352500000014,
+    "mood_music": 0.5895352500000014,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1978-04",
+    "year": 1978,
+    "month": 4,
+    "mood_composite": 0.5895352500000014,
+    "mood_music": 0.5895352500000014,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1978-05",
+    "year": 1978,
+    "month": 5,
+    "mood_composite": 0.5895352500000014,
+    "mood_music": 0.5895352500000014,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1978-06",
+    "year": 1978,
+    "month": 6,
+    "mood_composite": 0.5895352500000014,
+    "mood_music": 0.5895352500000014,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1978-07",
+    "year": 1978,
+    "month": 7,
+    "mood_composite": 0.5895352500000014,
+    "mood_music": 0.5895352500000014,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1978-08",
+    "year": 1978,
+    "month": 8,
+    "mood_composite": 0.5895352500000014,
+    "mood_music": 0.5895352500000014,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1978-09",
+    "year": 1978,
+    "month": 9,
+    "mood_composite": 0.5895352500000014,
+    "mood_music": 0.5895352500000014,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1978-10",
+    "year": 1978,
+    "month": 10,
+    "mood_composite": 0.5895352500000014,
+    "mood_music": 0.5895352500000014,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1978-11",
+    "year": 1978,
+    "month": 11,
+    "mood_composite": 0.5895352500000014,
+    "mood_music": 0.5895352500000014,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1978-12",
+    "year": 1978,
+    "month": 12,
+    "mood_composite": 0.5895352500000014,
+    "mood_music": 0.5895352500000014,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1979-01",
+    "year": 1979,
+    "month": 1,
+    "mood_composite": 0.6281709035222053,
+    "mood_music": 0.6281709035222053,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1979-02",
+    "year": 1979,
+    "month": 2,
+    "mood_composite": 0.6099818000000005,
+    "mood_music": 0.6099818000000005,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1979-03",
+    "year": 1979,
+    "month": 3,
+    "mood_composite": 0.6099818000000005,
+    "mood_music": 0.6099818000000005,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1979-04",
+    "year": 1979,
+    "month": 4,
+    "mood_composite": 0.6099818000000005,
+    "mood_music": 0.6099818000000005,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1979-05",
+    "year": 1979,
+    "month": 5,
+    "mood_composite": 0.6099818000000005,
+    "mood_music": 0.6099818000000005,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1979-06",
+    "year": 1979,
+    "month": 6,
+    "mood_composite": 0.6099818000000005,
+    "mood_music": 0.6099818000000005,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1979-07",
+    "year": 1979,
+    "month": 7,
+    "mood_composite": 0.6099818000000005,
+    "mood_music": 0.6099818000000005,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1979-08",
+    "year": 1979,
+    "month": 8,
+    "mood_composite": 0.6099818000000005,
+    "mood_music": 0.6099818000000005,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1979-09",
+    "year": 1979,
+    "month": 9,
+    "mood_composite": 0.6099818000000005,
+    "mood_music": 0.6099818000000005,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1979-10",
+    "year": 1979,
+    "month": 10,
+    "mood_composite": 0.6099818000000005,
+    "mood_music": 0.6099818000000005,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1979-11",
+    "year": 1979,
+    "month": 11,
+    "mood_composite": 0.6099818000000005,
+    "mood_music": 0.6099818000000005,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1979-12",
+    "year": 1979,
+    "month": 12,
+    "mood_composite": 0.6099818000000005,
+    "mood_music": 0.6099818000000005,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1980-01",
+    "year": 1980,
+    "month": 1,
+    "mood_composite": 0.6252092424242425,
+    "mood_music": 0.6252092424242425,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1980-02",
+    "year": 1980,
+    "month": 2,
+    "mood_composite": 0.5980580512820513,
+    "mood_music": 0.5980580512820513,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1980-03",
+    "year": 1980,
+    "month": 3,
+    "mood_composite": 0.5980580512820513,
+    "mood_music": 0.5980580512820513,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1980-04",
+    "year": 1980,
+    "month": 4,
+    "mood_composite": 0.5980580512820513,
+    "mood_music": 0.5980580512820513,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1980-05",
+    "year": 1980,
+    "month": 5,
+    "mood_composite": 0.5980580512820513,
+    "mood_music": 0.5980580512820513,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1980-06",
+    "year": 1980,
+    "month": 6,
+    "mood_composite": 0.5980580512820513,
+    "mood_music": 0.5980580512820513,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1980-07",
+    "year": 1980,
+    "month": 7,
+    "mood_composite": 0.5980580512820513,
+    "mood_music": 0.5980580512820513,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1980-08",
+    "year": 1980,
+    "month": 8,
+    "mood_composite": 0.5980580512820513,
+    "mood_music": 0.5980580512820513,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1980-09",
+    "year": 1980,
+    "month": 9,
+    "mood_composite": 0.5980580512820513,
+    "mood_music": 0.5980580512820513,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1980-10",
+    "year": 1980,
+    "month": 10,
+    "mood_composite": 0.5980580512820513,
+    "mood_music": 0.5980580512820513,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1980-11",
+    "year": 1980,
+    "month": 11,
+    "mood_composite": 0.5980580512820513,
+    "mood_music": 0.5980580512820513,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1980-12",
+    "year": 1980,
+    "month": 12,
+    "mood_composite": 0.5980580512820513,
+    "mood_music": 0.5980580512820513,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1981-01",
+    "year": 1981,
+    "month": 1,
+    "mood_composite": 0.5935561557788945,
+    "mood_music": 0.5935561557788945,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1981-02",
+    "year": 1981,
+    "month": 2,
+    "mood_composite": 0.5829518500000006,
+    "mood_music": 0.5829518500000006,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1981-03",
+    "year": 1981,
+    "month": 3,
+    "mood_composite": 0.5829518500000006,
+    "mood_music": 0.5829518500000006,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1981-04",
+    "year": 1981,
+    "month": 4,
+    "mood_composite": 0.5829518500000006,
+    "mood_music": 0.5829518500000006,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1981-05",
+    "year": 1981,
+    "month": 5,
+    "mood_composite": 0.5829518500000006,
+    "mood_music": 0.5829518500000006,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1981-06",
+    "year": 1981,
+    "month": 6,
+    "mood_composite": 0.5829518500000006,
+    "mood_music": 0.5829518500000006,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1981-07",
+    "year": 1981,
+    "month": 7,
+    "mood_composite": 0.5829518500000006,
+    "mood_music": 0.5829518500000006,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1981-08",
+    "year": 1981,
+    "month": 8,
+    "mood_composite": 0.5829518500000006,
+    "mood_music": 0.5829518500000006,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1981-09",
+    "year": 1981,
+    "month": 9,
+    "mood_composite": 0.5829518500000006,
+    "mood_music": 0.5829518500000006,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1981-10",
+    "year": 1981,
+    "month": 10,
+    "mood_composite": 0.5829518500000006,
+    "mood_music": 0.5829518500000006,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1981-11",
+    "year": 1981,
+    "month": 11,
+    "mood_composite": 0.5829518500000006,
+    "mood_music": 0.5829518500000006,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1981-12",
+    "year": 1981,
+    "month": 12,
+    "mood_composite": 0.5829518500000006,
+    "mood_music": 0.5829518500000006,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1982-01",
+    "year": 1982,
+    "month": 1,
+    "mood_composite": 0.576421875,
+    "mood_music": 0.576421875,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1982-02",
+    "year": 1982,
+    "month": 2,
+    "mood_composite": 0.5864384500000001,
+    "mood_music": 0.5864384500000001,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1982-03",
+    "year": 1982,
+    "month": 3,
+    "mood_composite": 0.5864384500000001,
+    "mood_music": 0.5864384500000001,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1982-04",
+    "year": 1982,
+    "month": 4,
+    "mood_composite": 0.5864384500000001,
+    "mood_music": 0.5864384500000001,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1982-05",
+    "year": 1982,
+    "month": 5,
+    "mood_composite": 0.5864384500000001,
+    "mood_music": 0.5864384500000001,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1982-06",
+    "year": 1982,
+    "month": 6,
+    "mood_composite": 0.5864384500000001,
+    "mood_music": 0.5864384500000001,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1982-07",
+    "year": 1982,
+    "month": 7,
+    "mood_composite": 0.5864384500000001,
+    "mood_music": 0.5864384500000001,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1982-08",
+    "year": 1982,
+    "month": 8,
+    "mood_composite": 0.5864384500000001,
+    "mood_music": 0.5864384500000001,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1982-09",
+    "year": 1982,
+    "month": 9,
+    "mood_composite": 0.5864384500000001,
+    "mood_music": 0.5864384500000001,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1982-10",
+    "year": 1982,
+    "month": 10,
+    "mood_composite": 0.5864384500000001,
+    "mood_music": 0.5864384500000001,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1982-11",
+    "year": 1982,
+    "month": 11,
+    "mood_composite": 0.5864384500000001,
+    "mood_music": 0.5864384500000001,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1982-12",
+    "year": 1982,
+    "month": 12,
+    "mood_composite": 0.5864384500000001,
+    "mood_music": 0.5864384500000001,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1983-01",
+    "year": 1983,
+    "month": 1,
+    "mood_composite": 0.5795052147239264,
+    "mood_music": 0.5795052147239264,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1983-02",
+    "year": 1983,
+    "month": 2,
+    "mood_composite": 0.5721198999999989,
+    "mood_music": 0.5721198999999989,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1983-03",
+    "year": 1983,
+    "month": 3,
+    "mood_composite": 0.5721198999999989,
+    "mood_music": 0.5721198999999989,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1983-04",
+    "year": 1983,
+    "month": 4,
+    "mood_composite": 0.5721198999999989,
+    "mood_music": 0.5721198999999989,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1983-05",
+    "year": 1983,
+    "month": 5,
+    "mood_composite": 0.5721198999999989,
+    "mood_music": 0.5721198999999989,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1983-06",
+    "year": 1983,
+    "month": 6,
+    "mood_composite": 0.5721198999999989,
+    "mood_music": 0.5721198999999989,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1983-07",
+    "year": 1983,
+    "month": 7,
+    "mood_composite": 0.5721198999999989,
+    "mood_music": 0.5721198999999989,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1983-08",
+    "year": 1983,
+    "month": 8,
+    "mood_composite": 0.5721198999999989,
+    "mood_music": 0.5721198999999989,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1983-09",
+    "year": 1983,
+    "month": 9,
+    "mood_composite": 0.5721198999999989,
+    "mood_music": 0.5721198999999989,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1983-10",
+    "year": 1983,
+    "month": 10,
+    "mood_composite": 0.5721198999999989,
+    "mood_music": 0.5721198999999989,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1983-11",
+    "year": 1983,
+    "month": 11,
+    "mood_composite": 0.5721198999999989,
+    "mood_music": 0.5721198999999989,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1983-12",
+    "year": 1983,
+    "month": 12,
+    "mood_composite": 0.5721198999999989,
+    "mood_music": 0.5721198999999989,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1984-01",
+    "year": 1984,
+    "month": 1,
+    "mood_composite": 0.5402397569444444,
+    "mood_music": 0.5402397569444444,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1984-02",
+    "year": 1984,
+    "month": 2,
+    "mood_composite": 0.5516387100000003,
+    "mood_music": 0.5516387100000003,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1984-03",
+    "year": 1984,
+    "month": 3,
+    "mood_composite": 0.5516387100000003,
+    "mood_music": 0.5516387100000003,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1984-04",
+    "year": 1984,
+    "month": 4,
+    "mood_composite": 0.5516387100000003,
+    "mood_music": 0.5516387100000003,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1984-05",
+    "year": 1984,
+    "month": 5,
+    "mood_composite": 0.5516387100000003,
+    "mood_music": 0.5516387100000003,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1984-06",
+    "year": 1984,
+    "month": 6,
+    "mood_composite": 0.5516387100000003,
+    "mood_music": 0.5516387100000003,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1984-07",
+    "year": 1984,
+    "month": 7,
+    "mood_composite": 0.5516387100000003,
+    "mood_music": 0.5516387100000003,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1984-08",
+    "year": 1984,
+    "month": 8,
+    "mood_composite": 0.5516387100000003,
+    "mood_music": 0.5516387100000003,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1984-09",
+    "year": 1984,
+    "month": 9,
+    "mood_composite": 0.5516387100000003,
+    "mood_music": 0.5516387100000003,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1984-10",
+    "year": 1984,
+    "month": 10,
+    "mood_composite": 0.5516387100000003,
+    "mood_music": 0.5516387100000003,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1984-11",
+    "year": 1984,
+    "month": 11,
+    "mood_composite": 0.5516387100000003,
+    "mood_music": 0.5516387100000003,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1984-12",
+    "year": 1984,
+    "month": 12,
+    "mood_composite": 0.5516387100000003,
+    "mood_music": 0.5516387100000003,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1985-01",
+    "year": 1985,
+    "month": 1,
+    "mood_composite": 0.5461327302631579,
+    "mood_music": 0.5461327302631579,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1985-02",
+    "year": 1985,
+    "month": 2,
+    "mood_composite": 0.5655964500000001,
+    "mood_music": 0.5655964500000001,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1985-03",
+    "year": 1985,
+    "month": 3,
+    "mood_composite": 0.5655964500000001,
+    "mood_music": 0.5655964500000001,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1985-04",
+    "year": 1985,
+    "month": 4,
+    "mood_composite": 0.5655964500000001,
+    "mood_music": 0.5655964500000001,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1985-05",
+    "year": 1985,
+    "month": 5,
+    "mood_composite": 0.5655964500000001,
+    "mood_music": 0.5655964500000001,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1985-06",
+    "year": 1985,
+    "month": 6,
+    "mood_composite": 0.5655964500000001,
+    "mood_music": 0.5655964500000001,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1985-07",
+    "year": 1985,
+    "month": 7,
+    "mood_composite": 0.5655964500000001,
+    "mood_music": 0.5655964500000001,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1985-08",
+    "year": 1985,
+    "month": 8,
+    "mood_composite": 0.5655964500000001,
+    "mood_music": 0.5655964500000001,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1985-09",
+    "year": 1985,
+    "month": 9,
+    "mood_composite": 0.5655964500000001,
+    "mood_music": 0.5655964500000001,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1985-10",
+    "year": 1985,
+    "month": 10,
+    "mood_composite": 0.5655964500000001,
+    "mood_music": 0.5655964500000001,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1985-11",
+    "year": 1985,
+    "month": 11,
+    "mood_composite": 0.5655964500000001,
+    "mood_music": 0.5655964500000001,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1985-12",
+    "year": 1985,
+    "month": 12,
+    "mood_composite": 0.5655964500000001,
+    "mood_music": 0.5655964500000001,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1986-01",
+    "year": 1986,
+    "month": 1,
+    "mood_composite": 0.5073553191489362,
+    "mood_music": 0.5073553191489362,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1986-02",
+    "year": 1986,
+    "month": 2,
+    "mood_composite": 0.5509485500000019,
+    "mood_music": 0.5509485500000019,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1986-03",
+    "year": 1986,
+    "month": 3,
+    "mood_composite": 0.5509485500000019,
+    "mood_music": 0.5509485500000019,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1986-04",
+    "year": 1986,
+    "month": 4,
+    "mood_composite": 0.5509485500000019,
+    "mood_music": 0.5509485500000019,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1986-05",
+    "year": 1986,
+    "month": 5,
+    "mood_composite": 0.5509485500000019,
+    "mood_music": 0.5509485500000019,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1986-06",
+    "year": 1986,
+    "month": 6,
+    "mood_composite": 0.5509485500000019,
+    "mood_music": 0.5509485500000019,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1986-07",
+    "year": 1986,
+    "month": 7,
+    "mood_composite": 0.5509485500000019,
+    "mood_music": 0.5509485500000019,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1986-08",
+    "year": 1986,
+    "month": 8,
+    "mood_composite": 0.5509485500000019,
+    "mood_music": 0.5509485500000019,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1986-09",
+    "year": 1986,
+    "month": 9,
+    "mood_composite": 0.5509485500000019,
+    "mood_music": 0.5509485500000019,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1986-10",
+    "year": 1986,
+    "month": 10,
+    "mood_composite": 0.5509485500000019,
+    "mood_music": 0.5509485500000019,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1986-11",
+    "year": 1986,
+    "month": 11,
+    "mood_composite": 0.5509485500000019,
+    "mood_music": 0.5509485500000019,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1986-12",
+    "year": 1986,
+    "month": 12,
+    "mood_composite": 0.5509485500000019,
+    "mood_music": 0.5509485500000019,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1987-01",
+    "year": 1987,
+    "month": 1,
+    "mood_composite": 0.5630561983471075,
+    "mood_music": 0.5630561983471075,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1987-02",
+    "year": 1987,
+    "month": 2,
+    "mood_composite": 0.5414511794871785,
+    "mood_music": 0.5414511794871785,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1987-03",
+    "year": 1987,
+    "month": 3,
+    "mood_composite": 0.5414511794871785,
+    "mood_music": 0.5414511794871785,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1987-04",
+    "year": 1987,
+    "month": 4,
+    "mood_composite": 0.5414511794871785,
+    "mood_music": 0.5414511794871785,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1987-05",
+    "year": 1987,
+    "month": 5,
+    "mood_composite": 0.5414511794871785,
+    "mood_music": 0.5414511794871785,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1987-06",
+    "year": 1987,
+    "month": 6,
+    "mood_composite": 0.5414511794871785,
+    "mood_music": 0.5414511794871785,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1987-07",
+    "year": 1987,
+    "month": 7,
+    "mood_composite": 0.5414511794871785,
+    "mood_music": 0.5414511794871785,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1987-08",
+    "year": 1987,
+    "month": 8,
+    "mood_composite": 0.5414511794871785,
+    "mood_music": 0.5414511794871785,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1987-09",
+    "year": 1987,
+    "month": 9,
+    "mood_composite": 0.5414511794871785,
+    "mood_music": 0.5414511794871785,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1987-10",
+    "year": 1987,
+    "month": 10,
+    "mood_composite": 0.5414511794871785,
+    "mood_music": 0.5414511794871785,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1987-11",
+    "year": 1987,
+    "month": 11,
+    "mood_composite": 0.5414511794871785,
+    "mood_music": 0.5414511794871785,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1987-12",
+    "year": 1987,
+    "month": 12,
+    "mood_composite": 0.5414511794871785,
+    "mood_music": 0.5414511794871785,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1988-01",
+    "year": 1988,
+    "month": 1,
+    "mood_composite": 0.5374967346938776,
+    "mood_music": 0.5374967346938776,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1988-02",
+    "year": 1988,
+    "month": 2,
+    "mood_composite": 0.5464853897435901,
+    "mood_music": 0.5464853897435901,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1988-03",
+    "year": 1988,
+    "month": 3,
+    "mood_composite": 0.5464853897435901,
+    "mood_music": 0.5464853897435901,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1988-04",
+    "year": 1988,
+    "month": 4,
+    "mood_composite": 0.5464853897435901,
+    "mood_music": 0.5464853897435901,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1988-05",
+    "year": 1988,
+    "month": 5,
+    "mood_composite": 0.5464853897435901,
+    "mood_music": 0.5464853897435901,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1988-06",
+    "year": 1988,
+    "month": 6,
+    "mood_composite": 0.5464853897435901,
+    "mood_music": 0.5464853897435901,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1988-07",
+    "year": 1988,
+    "month": 7,
+    "mood_composite": 0.5464853897435901,
+    "mood_music": 0.5464853897435901,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1988-08",
+    "year": 1988,
+    "month": 8,
+    "mood_composite": 0.5464853897435901,
+    "mood_music": 0.5464853897435901,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1988-09",
+    "year": 1988,
+    "month": 9,
+    "mood_composite": 0.5464853897435901,
+    "mood_music": 0.5464853897435901,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1988-10",
+    "year": 1988,
+    "month": 10,
+    "mood_composite": 0.5464853897435901,
+    "mood_music": 0.5464853897435901,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1988-11",
+    "year": 1988,
+    "month": 11,
+    "mood_composite": 0.5464853897435901,
+    "mood_music": 0.5464853897435901,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1988-12",
+    "year": 1988,
+    "month": 12,
+    "mood_composite": 0.5464853897435901,
+    "mood_music": 0.5464853897435901,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1989-01",
+    "year": 1989,
+    "month": 1,
+    "mood_composite": 0.5485587703435805,
+    "mood_music": 0.5485587703435805,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1989-02",
+    "year": 1989,
+    "month": 2,
+    "mood_composite": 0.5483329000000007,
+    "mood_music": 0.5483329000000007,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1989-03",
+    "year": 1989,
+    "month": 3,
+    "mood_composite": 0.5483329000000007,
+    "mood_music": 0.5483329000000007,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1989-04",
+    "year": 1989,
+    "month": 4,
+    "mood_composite": 0.5483329000000007,
+    "mood_music": 0.5483329000000007,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1989-05",
+    "year": 1989,
+    "month": 5,
+    "mood_composite": 0.5483329000000007,
+    "mood_music": 0.5483329000000007,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1989-06",
+    "year": 1989,
+    "month": 6,
+    "mood_composite": 0.5483329000000007,
+    "mood_music": 0.5483329000000007,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1989-07",
+    "year": 1989,
+    "month": 7,
+    "mood_composite": 0.5483329000000007,
+    "mood_music": 0.5483329000000007,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1989-08",
+    "year": 1989,
+    "month": 8,
+    "mood_composite": 0.5483329000000007,
+    "mood_music": 0.5483329000000007,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1989-09",
+    "year": 1989,
+    "month": 9,
+    "mood_composite": 0.5483329000000007,
+    "mood_music": 0.5483329000000007,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1989-10",
+    "year": 1989,
+    "month": 10,
+    "mood_composite": 0.5483329000000007,
+    "mood_music": 0.5483329000000007,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1989-11",
+    "year": 1989,
+    "month": 11,
+    "mood_composite": 0.5483329000000007,
+    "mood_music": 0.5483329000000007,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1989-12",
+    "year": 1989,
+    "month": 12,
+    "mood_composite": 0.5483329000000007,
+    "mood_music": 0.5483329000000007,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1990-01",
+    "year": 1990,
+    "month": 1,
+    "mood_composite": 0.5265710629921261,
+    "mood_music": 0.5265710629921261,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1990-02",
+    "year": 1990,
+    "month": 2,
+    "mood_composite": 0.5265268499999999,
+    "mood_music": 0.5265268499999999,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1990-03",
+    "year": 1990,
+    "month": 3,
+    "mood_composite": 0.5265268499999999,
+    "mood_music": 0.5265268499999999,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1990-04",
+    "year": 1990,
+    "month": 4,
+    "mood_composite": 0.5265268499999999,
+    "mood_music": 0.5265268499999999,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1990-05",
+    "year": 1990,
+    "month": 5,
+    "mood_composite": 0.5265268499999999,
+    "mood_music": 0.5265268499999999,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1990-06",
+    "year": 1990,
+    "month": 6,
+    "mood_composite": 0.5265268499999999,
+    "mood_music": 0.5265268499999999,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1990-07",
+    "year": 1990,
+    "month": 7,
+    "mood_composite": 0.5265268499999999,
+    "mood_music": 0.5265268499999999,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1990-08",
+    "year": 1990,
+    "month": 8,
+    "mood_composite": 0.5265268499999999,
+    "mood_music": 0.5265268499999999,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1990-09",
+    "year": 1990,
+    "month": 9,
+    "mood_composite": 0.5265268499999999,
+    "mood_music": 0.5265268499999999,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1990-10",
+    "year": 1990,
+    "month": 10,
+    "mood_composite": 0.5265268499999999,
+    "mood_music": 0.5265268499999999,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1990-11",
+    "year": 1990,
+    "month": 11,
+    "mood_composite": 0.5265268499999999,
+    "mood_music": 0.5265268499999999,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1990-12",
+    "year": 1990,
+    "month": 12,
+    "mood_composite": 0.5265268499999999,
+    "mood_music": 0.5265268499999999,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1991-01",
+    "year": 1991,
+    "month": 1,
+    "mood_composite": 0.5760989664082687,
+    "mood_music": 0.5760989664082687,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1991-02",
+    "year": 1991,
+    "month": 2,
+    "mood_composite": 0.5486552307692295,
+    "mood_music": 0.5486552307692295,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1991-03",
+    "year": 1991,
+    "month": 3,
+    "mood_composite": 0.5486552307692295,
+    "mood_music": 0.5486552307692295,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1991-04",
+    "year": 1991,
+    "month": 4,
+    "mood_composite": 0.5486552307692295,
+    "mood_music": 0.5486552307692295,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1991-05",
+    "year": 1991,
+    "month": 5,
+    "mood_composite": 0.5486552307692295,
+    "mood_music": 0.5486552307692295,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1991-06",
+    "year": 1991,
+    "month": 6,
+    "mood_composite": 0.5486552307692295,
+    "mood_music": 0.5486552307692295,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1991-07",
+    "year": 1991,
+    "month": 7,
+    "mood_composite": 0.5486552307692295,
+    "mood_music": 0.5486552307692295,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1991-08",
+    "year": 1991,
+    "month": 8,
+    "mood_composite": 0.5486552307692295,
+    "mood_music": 0.5486552307692295,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1991-09",
+    "year": 1991,
+    "month": 9,
+    "mood_composite": 0.5486552307692295,
+    "mood_music": 0.5486552307692295,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1991-10",
+    "year": 1991,
+    "month": 10,
+    "mood_composite": 0.5486552307692295,
+    "mood_music": 0.5486552307692295,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1991-11",
+    "year": 1991,
+    "month": 11,
+    "mood_composite": 0.5486552307692295,
+    "mood_music": 0.5486552307692295,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1991-12",
+    "year": 1991,
+    "month": 12,
+    "mood_composite": 0.5486552307692295,
+    "mood_music": 0.5486552307692295,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1992-01",
+    "year": 1992,
+    "month": 1,
+    "mood_composite": 0.5404811965811965,
+    "mood_music": 0.5404811965811965,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1992-02",
+    "year": 1992,
+    "month": 2,
+    "mood_composite": 0.5590983000000014,
+    "mood_music": 0.5590983000000014,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1992-03",
+    "year": 1992,
+    "month": 3,
+    "mood_composite": 0.5590983000000014,
+    "mood_music": 0.5590983000000014,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1992-04",
+    "year": 1992,
+    "month": 4,
+    "mood_composite": 0.5590983000000014,
+    "mood_music": 0.5590983000000014,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1992-05",
+    "year": 1992,
+    "month": 5,
+    "mood_composite": 0.5590983000000014,
+    "mood_music": 0.5590983000000014,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1992-06",
+    "year": 1992,
+    "month": 6,
+    "mood_composite": 0.5590983000000014,
+    "mood_music": 0.5590983000000014,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1992-07",
+    "year": 1992,
+    "month": 7,
+    "mood_composite": 0.5590983000000014,
+    "mood_music": 0.5590983000000014,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1992-08",
+    "year": 1992,
+    "month": 8,
+    "mood_composite": 0.5590983000000014,
+    "mood_music": 0.5590983000000014,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1992-09",
+    "year": 1992,
+    "month": 9,
+    "mood_composite": 0.5590983000000014,
+    "mood_music": 0.5590983000000014,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1992-10",
+    "year": 1992,
+    "month": 10,
+    "mood_composite": 0.5590983000000014,
+    "mood_music": 0.5590983000000014,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1992-11",
+    "year": 1992,
+    "month": 11,
+    "mood_composite": 0.5590983000000014,
+    "mood_music": 0.5590983000000014,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1992-12",
+    "year": 1992,
+    "month": 12,
+    "mood_composite": 0.5590983000000014,
+    "mood_music": 0.5590983000000014,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1993-01",
+    "year": 1993,
+    "month": 1,
+    "mood_composite": 0.5344268472906404,
+    "mood_music": 0.5344268472906404,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1993-02",
+    "year": 1993,
+    "month": 2,
+    "mood_composite": 0.5555684500000001,
+    "mood_music": 0.5555684500000001,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1993-03",
+    "year": 1993,
+    "month": 3,
+    "mood_composite": 0.5555684500000001,
+    "mood_music": 0.5555684500000001,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1993-04",
+    "year": 1993,
+    "month": 4,
+    "mood_composite": 0.5555684500000001,
+    "mood_music": 0.5555684500000001,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1993-05",
+    "year": 1993,
+    "month": 5,
+    "mood_composite": 0.5555684500000001,
+    "mood_music": 0.5555684500000001,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1993-06",
+    "year": 1993,
+    "month": 6,
+    "mood_composite": 0.5555684500000001,
+    "mood_music": 0.5555684500000001,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1993-07",
+    "year": 1993,
+    "month": 7,
+    "mood_composite": 0.5555684500000001,
+    "mood_music": 0.5555684500000001,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1993-08",
+    "year": 1993,
+    "month": 8,
+    "mood_composite": 0.5555684500000001,
+    "mood_music": 0.5555684500000001,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1993-09",
+    "year": 1993,
+    "month": 9,
+    "mood_composite": 0.5555684500000001,
+    "mood_music": 0.5555684500000001,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1993-10",
+    "year": 1993,
+    "month": 10,
+    "mood_composite": 0.5555684500000001,
+    "mood_music": 0.5555684500000001,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1993-11",
+    "year": 1993,
+    "month": 11,
+    "mood_composite": 0.5555684500000001,
+    "mood_music": 0.5555684500000001,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1993-12",
+    "year": 1993,
+    "month": 12,
+    "mood_composite": 0.5555684500000001,
+    "mood_music": 0.5555684500000001,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1994-01",
+    "year": 1994,
+    "month": 1,
+    "mood_composite": 0.5047447222222222,
+    "mood_music": 0.5047447222222222,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1994-02",
+    "year": 1994,
+    "month": 2,
+    "mood_composite": 0.5266491500000006,
+    "mood_music": 0.5266491500000006,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1994-03",
+    "year": 1994,
+    "month": 3,
+    "mood_composite": 0.5266491500000006,
+    "mood_music": 0.5266491500000006,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1994-04",
+    "year": 1994,
+    "month": 4,
+    "mood_composite": 0.5266491500000006,
+    "mood_music": 0.5266491500000006,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1994-05",
+    "year": 1994,
+    "month": 5,
+    "mood_composite": 0.5266491500000006,
+    "mood_music": 0.5266491500000006,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1994-06",
+    "year": 1994,
+    "month": 6,
+    "mood_composite": 0.5266491500000006,
+    "mood_music": 0.5266491500000006,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1994-07",
+    "year": 1994,
+    "month": 7,
+    "mood_composite": 0.5266491500000006,
+    "mood_music": 0.5266491500000006,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1994-08",
+    "year": 1994,
+    "month": 8,
+    "mood_composite": 0.5266491500000006,
+    "mood_music": 0.5266491500000006,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1994-09",
+    "year": 1994,
+    "month": 9,
+    "mood_composite": 0.5266491500000006,
+    "mood_music": 0.5266491500000006,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1994-10",
+    "year": 1994,
+    "month": 10,
+    "mood_composite": 0.5266491500000006,
+    "mood_music": 0.5266491500000006,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1994-11",
+    "year": 1994,
+    "month": 11,
+    "mood_composite": 0.5266491500000006,
+    "mood_music": 0.5266491500000006,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1994-12",
+    "year": 1994,
+    "month": 12,
+    "mood_composite": 0.5266491500000006,
+    "mood_music": 0.5266491500000006,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1995-01",
+    "year": 1995,
+    "month": 1,
+    "mood_composite": 0.5217156177156177,
+    "mood_music": 0.5217156177156177,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1995-02",
+    "year": 1995,
+    "month": 2,
+    "mood_composite": 0.5302466999999994,
+    "mood_music": 0.5302466999999994,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1995-03",
+    "year": 1995,
+    "month": 3,
+    "mood_composite": 0.5302466999999994,
+    "mood_music": 0.5302466999999994,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1995-04",
+    "year": 1995,
+    "month": 4,
+    "mood_composite": 0.5302466999999994,
+    "mood_music": 0.5302466999999994,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1995-05",
+    "year": 1995,
+    "month": 5,
+    "mood_composite": 0.5302466999999994,
+    "mood_music": 0.5302466999999994,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1995-06",
+    "year": 1995,
+    "month": 6,
+    "mood_composite": 0.5302466999999994,
+    "mood_music": 0.5302466999999994,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1995-07",
+    "year": 1995,
+    "month": 7,
+    "mood_composite": 0.5302466999999994,
+    "mood_music": 0.5302466999999994,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1995-08",
+    "year": 1995,
+    "month": 8,
+    "mood_composite": 0.5302466999999994,
+    "mood_music": 0.5302466999999994,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1995-09",
+    "year": 1995,
+    "month": 9,
+    "mood_composite": 0.5302466999999994,
+    "mood_music": 0.5302466999999994,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1995-10",
+    "year": 1995,
+    "month": 10,
+    "mood_composite": 0.5302466999999994,
+    "mood_music": 0.5302466999999994,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1995-11",
+    "year": 1995,
+    "month": 11,
+    "mood_composite": 0.5302466999999994,
+    "mood_music": 0.5302466999999994,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1995-12",
+    "year": 1995,
+    "month": 12,
+    "mood_composite": 0.5302466999999994,
+    "mood_music": 0.5302466999999994,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1996-01",
+    "year": 1996,
+    "month": 1,
+    "mood_composite": 0.5928921282798834,
+    "mood_music": 0.5928921282798834,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1996-02",
+    "year": 1996,
+    "month": 2,
+    "mood_composite": 0.5608732500000001,
+    "mood_music": 0.5608732500000001,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1996-03",
+    "year": 1996,
+    "month": 3,
+    "mood_composite": 0.5608732500000001,
+    "mood_music": 0.5608732500000001,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1996-04",
+    "year": 1996,
+    "month": 4,
+    "mood_composite": 0.5608732500000001,
+    "mood_music": 0.5608732500000001,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1996-05",
+    "year": 1996,
+    "month": 5,
+    "mood_composite": 0.5608732500000001,
+    "mood_music": 0.5608732500000001,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1996-06",
+    "year": 1996,
+    "month": 6,
+    "mood_composite": 0.5608732500000001,
+    "mood_music": 0.5608732500000001,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1996-07",
+    "year": 1996,
+    "month": 7,
+    "mood_composite": 0.5608732500000001,
+    "mood_music": 0.5608732500000001,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1996-08",
+    "year": 1996,
+    "month": 8,
+    "mood_composite": 0.5608732500000001,
+    "mood_music": 0.5608732500000001,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1996-09",
+    "year": 1996,
+    "month": 9,
+    "mood_composite": 0.5608732500000001,
+    "mood_music": 0.5608732500000001,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1996-10",
+    "year": 1996,
+    "month": 10,
+    "mood_composite": 0.5608732500000001,
+    "mood_music": 0.5608732500000001,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1996-11",
+    "year": 1996,
+    "month": 11,
+    "mood_composite": 0.5608732500000001,
+    "mood_music": 0.5608732500000001,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1996-12",
+    "year": 1996,
+    "month": 12,
+    "mood_composite": 0.5608732500000001,
+    "mood_music": 0.5608732500000001,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1997-01",
+    "year": 1997,
+    "month": 1,
+    "mood_composite": 0.539875075075075,
+    "mood_music": 0.539875075075075,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1997-02",
+    "year": 1997,
+    "month": 2,
+    "mood_composite": 0.5485525000000002,
+    "mood_music": 0.5485525000000002,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1997-03",
+    "year": 1997,
+    "month": 3,
+    "mood_composite": 0.5485525000000002,
+    "mood_music": 0.5485525000000002,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1997-04",
+    "year": 1997,
+    "month": 4,
+    "mood_composite": 0.5485525000000002,
+    "mood_music": 0.5485525000000002,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1997-05",
+    "year": 1997,
+    "month": 5,
+    "mood_composite": 0.5485525000000002,
+    "mood_music": 0.5485525000000002,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1997-06",
+    "year": 1997,
+    "month": 6,
+    "mood_composite": 0.5485525000000002,
+    "mood_music": 0.5485525000000002,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1997-07",
+    "year": 1997,
+    "month": 7,
+    "mood_composite": 0.5485525000000002,
+    "mood_music": 0.5485525000000002,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1997-08",
+    "year": 1997,
+    "month": 8,
+    "mood_composite": 0.5485525000000002,
+    "mood_music": 0.5485525000000002,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1997-09",
+    "year": 1997,
+    "month": 9,
+    "mood_composite": 0.5485525000000002,
+    "mood_music": 0.5485525000000002,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1997-10",
+    "year": 1997,
+    "month": 10,
+    "mood_composite": 0.5485525000000002,
+    "mood_music": 0.5485525000000002,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1997-11",
+    "year": 1997,
+    "month": 11,
+    "mood_composite": 0.5485525000000002,
+    "mood_music": 0.5485525000000002,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1997-12",
+    "year": 1997,
+    "month": 12,
+    "mood_composite": 0.5485525000000002,
+    "mood_music": 0.5485525000000002,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1998-01",
+    "year": 1998,
+    "month": 1,
+    "mood_composite": 0.5335709150326797,
+    "mood_music": 0.5335709150326797,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1998-02",
+    "year": 1998,
+    "month": 2,
+    "mood_composite": 0.5377209,
+    "mood_music": 0.5377209,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1998-03",
+    "year": 1998,
+    "month": 3,
+    "mood_composite": 0.5377209,
+    "mood_music": 0.5377209,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1998-04",
+    "year": 1998,
+    "month": 4,
+    "mood_composite": 0.5377209,
+    "mood_music": 0.5377209,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1998-05",
+    "year": 1998,
+    "month": 5,
+    "mood_composite": 0.5377209,
+    "mood_music": 0.5377209,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1998-06",
+    "year": 1998,
+    "month": 6,
+    "mood_composite": 0.5377209,
+    "mood_music": 0.5377209,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1998-07",
+    "year": 1998,
+    "month": 7,
+    "mood_composite": 0.5377209,
+    "mood_music": 0.5377209,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1998-08",
+    "year": 1998,
+    "month": 8,
+    "mood_composite": 0.5377209,
+    "mood_music": 0.5377209,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1998-09",
+    "year": 1998,
+    "month": 9,
+    "mood_composite": 0.5377209,
+    "mood_music": 0.5377209,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1998-10",
+    "year": 1998,
+    "month": 10,
+    "mood_composite": 0.5377209,
+    "mood_music": 0.5377209,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1998-11",
+    "year": 1998,
+    "month": 11,
+    "mood_composite": 0.5377209,
+    "mood_music": 0.5377209,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1998-12",
+    "year": 1998,
+    "month": 12,
+    "mood_composite": 0.5377209,
+    "mood_music": 0.5377209,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1999-01",
+    "year": 1999,
+    "month": 1,
+    "mood_composite": 0.5962645901639344,
+    "mood_music": 0.5962645901639344,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1999-02",
+    "year": 1999,
+    "month": 2,
+    "mood_composite": 0.5564528446950284,
+    "mood_music": 0.5564528446950284,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1999-03",
+    "year": 1999,
+    "month": 3,
+    "mood_composite": 0.5564528446950284,
+    "mood_music": 0.5564528446950284,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1999-04",
+    "year": 1999,
+    "month": 4,
+    "mood_composite": 0.5564528446950284,
+    "mood_music": 0.5564528446950284,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1999-05",
+    "year": 1999,
+    "month": 5,
+    "mood_composite": 0.5564528446950284,
+    "mood_music": 0.5564528446950284,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1999-06",
+    "year": 1999,
+    "month": 6,
+    "mood_composite": 0.5564528446950284,
+    "mood_music": 0.5564528446950284,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1999-07",
+    "year": 1999,
+    "month": 7,
+    "mood_composite": 0.5564528446950284,
+    "mood_music": 0.5564528446950284,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1999-08",
+    "year": 1999,
+    "month": 8,
+    "mood_composite": 0.5564528446950284,
+    "mood_music": 0.5564528446950284,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1999-09",
+    "year": 1999,
+    "month": 9,
+    "mood_composite": 0.5564528446950284,
+    "mood_music": 0.5564528446950284,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1999-10",
+    "year": 1999,
+    "month": 10,
+    "mood_composite": 0.5564528446950284,
+    "mood_music": 0.5564528446950284,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1999-11",
+    "year": 1999,
+    "month": 11,
+    "mood_composite": 0.5564528446950284,
+    "mood_music": 0.5564528446950284,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "1999-12",
+    "year": 1999,
+    "month": 12,
+    "mood_composite": 0.5564528446950284,
+    "mood_music": 0.5564528446950284,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "2000-01",
+    "year": 2000,
+    "month": 1,
+    "mood_composite": 0.5688432692307692,
+    "mood_music": 0.5688432692307692,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "2000-02",
+    "year": 2000,
+    "month": 2,
+    "mood_composite": 0.5594754601226991,
+    "mood_music": 0.5594754601226991,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "2000-03",
+    "year": 2000,
+    "month": 3,
+    "mood_composite": 0.5594754601226991,
+    "mood_music": 0.5594754601226991,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "2000-04",
+    "year": 2000,
+    "month": 4,
+    "mood_composite": 0.5594754601226991,
+    "mood_music": 0.5594754601226991,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "2000-05",
+    "year": 2000,
+    "month": 5,
+    "mood_composite": 0.5594754601226991,
+    "mood_music": 0.5594754601226991,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "2000-06",
+    "year": 2000,
+    "month": 6,
+    "mood_composite": 0.5594754601226991,
+    "mood_music": 0.5594754601226991,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "2000-07",
+    "year": 2000,
+    "month": 7,
+    "mood_composite": 0.5594754601226991,
+    "mood_music": 0.5594754601226991,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "2000-08",
+    "year": 2000,
+    "month": 8,
+    "mood_composite": 0.5594754601226991,
+    "mood_music": 0.5594754601226991,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "2000-09",
+    "year": 2000,
+    "month": 9,
+    "mood_composite": 0.5594754601226991,
+    "mood_music": 0.5594754601226991,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "2000-10",
+    "year": 2000,
+    "month": 10,
+    "mood_composite": 0.5594754601226991,
+    "mood_music": 0.5594754601226991,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "2000-11",
+    "year": 2000,
+    "month": 11,
+    "mood_composite": 0.5594754601226991,
+    "mood_music": 0.5594754601226991,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "2000-12",
+    "year": 2000,
+    "month": 12,
+    "mood_composite": 0.5594754601226991,
+    "mood_music": 0.5594754601226991,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "2001-01",
+    "year": 2001,
+    "month": 1,
+    "mood_composite": 0.5012123123123123,
+    "mood_music": 0.5012123123123123,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "2001-02",
+    "year": 2001,
+    "month": 2,
+    "mood_composite": 0.541479107231919,
+    "mood_music": 0.541479107231919,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "2001-03",
+    "year": 2001,
+    "month": 3,
+    "mood_composite": 0.541479107231919,
+    "mood_music": 0.541479107231919,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "2001-04",
+    "year": 2001,
+    "month": 4,
+    "mood_composite": 0.541479107231919,
+    "mood_music": 0.541479107231919,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "2001-05",
+    "year": 2001,
+    "month": 5,
+    "mood_composite": 0.541479107231919,
+    "mood_music": 0.541479107231919,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "2001-06",
+    "year": 2001,
+    "month": 6,
+    "mood_composite": 0.541479107231919,
+    "mood_music": 0.541479107231919,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "2001-07",
+    "year": 2001,
+    "month": 7,
+    "mood_composite": 0.541479107231919,
+    "mood_music": 0.541479107231919,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "2001-08",
+    "year": 2001,
+    "month": 8,
+    "mood_composite": 0.541479107231919,
+    "mood_music": 0.541479107231919,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "2001-09",
+    "year": 2001,
+    "month": 9,
+    "mood_composite": 0.541479107231919,
+    "mood_music": 0.541479107231919,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "2001-10",
+    "year": 2001,
+    "month": 10,
+    "mood_composite": 0.541479107231919,
+    "mood_music": 0.541479107231919,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "2001-11",
+    "year": 2001,
+    "month": 11,
+    "mood_composite": 0.541479107231919,
+    "mood_music": 0.541479107231919,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "2001-12",
+    "year": 2001,
+    "month": 12,
+    "mood_composite": 0.541479107231919,
+    "mood_music": 0.541479107231919,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "2002-01",
+    "year": 2002,
+    "month": 1,
+    "mood_composite": 0.5578909395973154,
+    "mood_music": 0.5578909395973154,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "2002-02",
+    "year": 2002,
+    "month": 2,
+    "mood_composite": 0.5423971500000008,
+    "mood_music": 0.5423971500000008,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "2002-03",
+    "year": 2002,
+    "month": 3,
+    "mood_composite": 0.5423971500000008,
+    "mood_music": 0.5423971500000008,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "2002-04",
+    "year": 2002,
+    "month": 4,
+    "mood_composite": 0.5423971500000008,
+    "mood_music": 0.5423971500000008,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "2002-05",
+    "year": 2002,
+    "month": 5,
+    "mood_composite": 0.5423971500000008,
+    "mood_music": 0.5423971500000008,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "2002-06",
+    "year": 2002,
+    "month": 6,
+    "mood_composite": 0.5423971500000008,
+    "mood_music": 0.5423971500000008,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "2002-07",
+    "year": 2002,
+    "month": 7,
+    "mood_composite": 0.5423971500000008,
+    "mood_music": 0.5423971500000008,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "2002-08",
+    "year": 2002,
+    "month": 8,
+    "mood_composite": 0.5423971500000008,
+    "mood_music": 0.5423971500000008,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "2002-09",
+    "year": 2002,
+    "month": 9,
+    "mood_composite": 0.5423971500000008,
+    "mood_music": 0.5423971500000008,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "2002-10",
+    "year": 2002,
+    "month": 10,
+    "mood_composite": 0.5423971500000008,
+    "mood_music": 0.5423971500000008,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "2002-11",
+    "year": 2002,
+    "month": 11,
+    "mood_composite": 0.5423971500000008,
+    "mood_music": 0.5423971500000008,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "2002-12",
+    "year": 2002,
+    "month": 12,
+    "mood_composite": 0.5423971500000008,
+    "mood_music": 0.5423971500000008,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "2003-01",
+    "year": 2003,
+    "month": 1,
+    "mood_composite": 0.5339678445229682,
+    "mood_music": 0.5339678445229682,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "2003-02",
+    "year": 2003,
+    "month": 2,
+    "mood_composite": 0.5305042476970324,
+    "mood_music": 0.5305042476970324,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "2003-03",
+    "year": 2003,
+    "month": 3,
+    "mood_composite": 0.5305042476970324,
+    "mood_music": 0.5305042476970324,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "2003-04",
+    "year": 2003,
+    "month": 4,
+    "mood_composite": 0.5305042476970324,
+    "mood_music": 0.5305042476970324,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "2003-05",
+    "year": 2003,
+    "month": 5,
+    "mood_composite": 0.5305042476970324,
+    "mood_music": 0.5305042476970324,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "2003-06",
+    "year": 2003,
+    "month": 6,
+    "mood_composite": 0.5305042476970324,
+    "mood_music": 0.5305042476970324,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "2003-07",
+    "year": 2003,
+    "month": 7,
+    "mood_composite": 0.5305042476970324,
+    "mood_music": 0.5305042476970324,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "2003-08",
+    "year": 2003,
+    "month": 8,
+    "mood_composite": 0.5305042476970324,
+    "mood_music": 0.5305042476970324,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "2003-09",
+    "year": 2003,
+    "month": 9,
+    "mood_composite": 0.5305042476970324,
+    "mood_music": 0.5305042476970324,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "2003-10",
+    "year": 2003,
+    "month": 10,
+    "mood_composite": 0.5305042476970324,
+    "mood_music": 0.5305042476970324,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "2003-11",
+    "year": 2003,
+    "month": 11,
+    "mood_composite": 0.5305042476970324,
+    "mood_music": 0.5305042476970324,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "2003-12",
+    "year": 2003,
+    "month": 12,
+    "mood_composite": 0.5305042476970324,
+    "mood_music": 0.5305042476970324,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "2004-01",
+    "year": 2004,
+    "month": 1,
+    "mood_composite": 0.5205596774193549,
+    "mood_music": 0.5205596774193549,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "2004-02",
+    "year": 2004,
+    "month": 2,
+    "mood_composite": 0.5244885554425227,
+    "mood_music": 0.5244885554425227,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "2004-03",
+    "year": 2004,
+    "month": 3,
+    "mood_composite": 0.5244885554425227,
+    "mood_music": 0.5244885554425227,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "2004-04",
+    "year": 2004,
+    "month": 4,
+    "mood_composite": 0.5244885554425227,
+    "mood_music": 0.5244885554425227,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "2004-05",
+    "year": 2004,
+    "month": 5,
+    "mood_composite": 0.5244885554425227,
+    "mood_music": 0.5244885554425227,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "2004-06",
+    "year": 2004,
+    "month": 6,
+    "mood_composite": 0.5244885554425227,
+    "mood_music": 0.5244885554425227,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "2004-07",
+    "year": 2004,
+    "month": 7,
+    "mood_composite": 0.5244885554425227,
+    "mood_music": 0.5244885554425227,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "2004-08",
+    "year": 2004,
+    "month": 8,
+    "mood_composite": 0.5244885554425227,
+    "mood_music": 0.5244885554425227,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "2004-09",
+    "year": 2004,
+    "month": 9,
+    "mood_composite": 0.5244885554425227,
+    "mood_music": 0.5244885554425227,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "2004-10",
+    "year": 2004,
+    "month": 10,
+    "mood_composite": 0.5244885554425227,
+    "mood_music": 0.5244885554425227,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "2004-11",
+    "year": 2004,
+    "month": 11,
+    "mood_composite": 0.5244885554425227,
+    "mood_music": 0.5244885554425227,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "2004-12",
+    "year": 2004,
+    "month": 12,
+    "mood_composite": 0.5244885554425227,
+    "mood_music": 0.5244885554425227,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "2005-01",
+    "year": 2005,
+    "month": 1,
+    "mood_composite": 0.5197953667953669,
+    "mood_music": 0.5197953667953669,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "2005-02",
+    "year": 2005,
+    "month": 2,
+    "mood_composite": 0.5325309230769236,
+    "mood_music": 0.5325309230769236,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "2005-03",
+    "year": 2005,
+    "month": 3,
+    "mood_composite": 0.5325309230769236,
+    "mood_music": 0.5325309230769236,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "2005-04",
+    "year": 2005,
+    "month": 4,
+    "mood_composite": 0.5325309230769236,
+    "mood_music": 0.5325309230769236,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "2005-05",
+    "year": 2005,
+    "month": 5,
+    "mood_composite": 0.5325309230769236,
+    "mood_music": 0.5325309230769236,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "2005-06",
+    "year": 2005,
+    "month": 6,
+    "mood_composite": 0.5325309230769236,
+    "mood_music": 0.5325309230769236,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "2005-07",
+    "year": 2005,
+    "month": 7,
+    "mood_composite": 0.5325309230769236,
+    "mood_music": 0.5325309230769236,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "2005-08",
+    "year": 2005,
+    "month": 8,
+    "mood_composite": 0.5325309230769236,
+    "mood_music": 0.5325309230769236,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "2005-09",
+    "year": 2005,
+    "month": 9,
+    "mood_composite": 0.5325309230769236,
+    "mood_music": 0.5325309230769236,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "2005-10",
+    "year": 2005,
+    "month": 10,
+    "mood_composite": 0.5325309230769236,
+    "mood_music": 0.5325309230769236,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "2005-11",
+    "year": 2005,
+    "month": 11,
+    "mood_composite": 0.5325309230769236,
+    "mood_music": 0.5325309230769236,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "2005-12",
+    "year": 2005,
+    "month": 12,
+    "mood_composite": 0.5325309230769236,
+    "mood_music": 0.5325309230769236,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "2006-01",
+    "year": 2006,
+    "month": 1,
+    "mood_composite": 0.5255917808219178,
+    "mood_music": 0.5255917808219178,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "2006-02",
+    "year": 2006,
+    "month": 2,
+    "mood_composite": 0.5200283076923078,
+    "mood_music": 0.5200283076923078,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "2006-03",
+    "year": 2006,
+    "month": 3,
+    "mood_composite": 0.5200283076923078,
+    "mood_music": 0.5200283076923078,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "2006-04",
+    "year": 2006,
+    "month": 4,
+    "mood_composite": 0.5200283076923078,
+    "mood_music": 0.5200283076923078,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "2006-05",
+    "year": 2006,
+    "month": 5,
+    "mood_composite": 0.5200283076923078,
+    "mood_music": 0.5200283076923078,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "2006-06",
+    "year": 2006,
+    "month": 6,
+    "mood_composite": 0.5200283076923078,
+    "mood_music": 0.5200283076923078,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "2006-07",
+    "year": 2006,
+    "month": 7,
+    "mood_composite": 0.5200283076923078,
+    "mood_music": 0.5200283076923078,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "2006-08",
+    "year": 2006,
+    "month": 8,
+    "mood_composite": 0.5200283076923078,
+    "mood_music": 0.5200283076923078,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "2006-09",
+    "year": 2006,
+    "month": 9,
+    "mood_composite": 0.5200283076923078,
+    "mood_music": 0.5200283076923078,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "2006-10",
+    "year": 2006,
+    "month": 10,
+    "mood_composite": 0.5200283076923078,
+    "mood_music": 0.5200283076923078,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "2006-11",
+    "year": 2006,
+    "month": 11,
+    "mood_composite": 0.5200283076923078,
+    "mood_music": 0.5200283076923078,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "2006-12",
+    "year": 2006,
+    "month": 12,
+    "mood_composite": 0.5200283076923078,
+    "mood_music": 0.5200283076923078,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "2007-01",
+    "year": 2007,
+    "month": 1,
+    "mood_composite": 0.4620139393939393,
+    "mood_music": 0.4620139393939393,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "2007-02",
+    "year": 2007,
+    "month": 2,
+    "mood_composite": 0.5167938461538473,
+    "mood_music": 0.5167938461538473,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "2007-03",
+    "year": 2007,
+    "month": 3,
+    "mood_composite": 0.5167938461538473,
+    "mood_music": 0.5167938461538473,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "2007-04",
+    "year": 2007,
+    "month": 4,
+    "mood_composite": 0.5167938461538473,
+    "mood_music": 0.5167938461538473,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "2007-05",
+    "year": 2007,
+    "month": 5,
+    "mood_composite": 0.5167938461538473,
+    "mood_music": 0.5167938461538473,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "2007-06",
+    "year": 2007,
+    "month": 6,
+    "mood_composite": 0.5167938461538473,
+    "mood_music": 0.5167938461538473,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "2007-07",
+    "year": 2007,
+    "month": 7,
+    "mood_composite": 0.5167938461538473,
+    "mood_music": 0.5167938461538473,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "2007-08",
+    "year": 2007,
+    "month": 8,
+    "mood_composite": 0.5167938461538473,
+    "mood_music": 0.5167938461538473,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "2007-09",
+    "year": 2007,
+    "month": 9,
+    "mood_composite": 0.5167938461538473,
+    "mood_music": 0.5167938461538473,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "2007-10",
+    "year": 2007,
+    "month": 10,
+    "mood_composite": 0.5167938461538473,
+    "mood_music": 0.5167938461538473,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "2007-11",
+    "year": 2007,
+    "month": 11,
+    "mood_composite": 0.5167938461538473,
+    "mood_music": 0.5167938461538473,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "2007-12",
+    "year": 2007,
+    "month": 12,
+    "mood_composite": 0.5167938461538473,
+    "mood_music": 0.5167938461538473,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "2008-01",
+    "year": 2008,
+    "month": 1,
+    "mood_composite": 0.5398742857142856,
+    "mood_music": 0.5398742857142856,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "2008-02",
+    "year": 2008,
+    "month": 2,
+    "mood_composite": 0.5275418925831203,
+    "mood_music": 0.5275418925831203,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "2008-03",
+    "year": 2008,
+    "month": 3,
+    "mood_composite": 0.5275418925831203,
+    "mood_music": 0.5275418925831203,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "2008-04",
+    "year": 2008,
+    "month": 4,
+    "mood_composite": 0.5275418925831203,
+    "mood_music": 0.5275418925831203,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "2008-05",
+    "year": 2008,
+    "month": 5,
+    "mood_composite": 0.5275418925831203,
+    "mood_music": 0.5275418925831203,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "2008-06",
+    "year": 2008,
+    "month": 6,
+    "mood_composite": 0.5275418925831203,
+    "mood_music": 0.5275418925831203,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "2008-07",
+    "year": 2008,
+    "month": 7,
+    "mood_composite": 0.5275418925831203,
+    "mood_music": 0.5275418925831203,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "2008-08",
+    "year": 2008,
+    "month": 8,
+    "mood_composite": 0.5275418925831203,
+    "mood_music": 0.5275418925831203,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "2008-09",
+    "year": 2008,
+    "month": 9,
+    "mood_composite": 0.5275418925831203,
+    "mood_music": 0.5275418925831203,
+    "mood_news": null,
+    "historical_event": "financial_crisis_2008",
+    "event_label": "Financial Crisis (Sep 2008 - Jun 2009)"
+  },
+  {
+    "year_month": "2008-10",
+    "year": 2008,
+    "month": 10,
+    "mood_composite": 0.5275418925831203,
+    "mood_music": 0.5275418925831203,
+    "mood_news": null,
+    "historical_event": "financial_crisis_2008",
+    "event_label": "Financial Crisis (Sep 2008 - Jun 2009)"
+  },
+  {
+    "year_month": "2008-11",
+    "year": 2008,
+    "month": 11,
+    "mood_composite": 0.5275418925831203,
+    "mood_music": 0.5275418925831203,
+    "mood_news": null,
+    "historical_event": "financial_crisis_2008",
+    "event_label": "Financial Crisis (Sep 2008 - Jun 2009)"
+  },
+  {
+    "year_month": "2008-12",
+    "year": 2008,
+    "month": 12,
+    "mood_composite": 0.5275418925831203,
+    "mood_music": 0.5275418925831203,
+    "mood_news": null,
+    "historical_event": "financial_crisis_2008",
+    "event_label": "Financial Crisis (Sep 2008 - Jun 2009)"
+  },
+  {
+    "year_month": "2009-01",
+    "year": 2009,
+    "month": 1,
+    "mood_composite": 0.4840387283236994,
+    "mood_music": 0.4840387283236994,
+    "mood_news": null,
+    "historical_event": "financial_crisis_2008",
+    "event_label": "Financial Crisis (Sep 2008 - Jun 2009)"
+  },
+  {
+    "year_month": "2009-02",
+    "year": 2009,
+    "month": 2,
+    "mood_composite": 0.5071696617346935,
+    "mood_music": 0.5071696617346935,
+    "mood_news": null,
+    "historical_event": "financial_crisis_2008",
+    "event_label": "Financial Crisis (Sep 2008 - Jun 2009)"
+  },
+  {
+    "year_month": "2009-03",
+    "year": 2009,
+    "month": 3,
+    "mood_composite": 0.5071696617346935,
+    "mood_music": 0.5071696617346935,
+    "mood_news": null,
+    "historical_event": "financial_crisis_2008",
+    "event_label": "Financial Crisis (Sep 2008 - Jun 2009)"
+  },
+  {
+    "year_month": "2009-04",
+    "year": 2009,
+    "month": 4,
+    "mood_composite": 0.5071696617346935,
+    "mood_music": 0.5071696617346935,
+    "mood_news": null,
+    "historical_event": "financial_crisis_2008",
+    "event_label": "Financial Crisis (Sep 2008 - Jun 2009)"
+  },
+  {
+    "year_month": "2009-05",
+    "year": 2009,
+    "month": 5,
+    "mood_composite": 0.5071696617346935,
+    "mood_music": 0.5071696617346935,
+    "mood_news": null,
+    "historical_event": "financial_crisis_2008",
+    "event_label": "Financial Crisis (Sep 2008 - Jun 2009)"
+  },
+  {
+    "year_month": "2009-06",
+    "year": 2009,
+    "month": 6,
+    "mood_composite": 0.5071696617346935,
+    "mood_music": 0.5071696617346935,
+    "mood_news": null,
+    "historical_event": "financial_crisis_2008",
+    "event_label": "Financial Crisis (Sep 2008 - Jun 2009)"
+  },
+  {
+    "year_month": "2009-07",
+    "year": 2009,
+    "month": 7,
+    "mood_composite": 0.5071696617346935,
+    "mood_music": 0.5071696617346935,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "2009-08",
+    "year": 2009,
+    "month": 8,
+    "mood_composite": 0.5071696617346935,
+    "mood_music": 0.5071696617346935,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "2009-09",
+    "year": 2009,
+    "month": 9,
+    "mood_composite": 0.5071696617346935,
+    "mood_music": 0.5071696617346935,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "2009-10",
+    "year": 2009,
+    "month": 10,
+    "mood_composite": 0.5071696617346935,
+    "mood_music": 0.5071696617346935,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "2009-11",
+    "year": 2009,
+    "month": 11,
+    "mood_composite": 0.5071696617346935,
+    "mood_music": 0.5071696617346935,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "2009-12",
+    "year": 2009,
+    "month": 12,
+    "mood_composite": 0.5071696617346935,
+    "mood_music": 0.5071696617346935,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "2010-01",
+    "year": 2010,
+    "month": 1,
+    "mood_composite": 0.5574113333333334,
+    "mood_music": 0.5574113333333334,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "2010-02",
+    "year": 2010,
+    "month": 2,
+    "mood_composite": 0.5208951587301589,
+    "mood_music": 0.5208951587301589,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "2010-03",
+    "year": 2010,
+    "month": 3,
+    "mood_composite": 0.5208951587301589,
+    "mood_music": 0.5208951587301589,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "2010-04",
+    "year": 2010,
+    "month": 4,
+    "mood_composite": 0.5208951587301589,
+    "mood_music": 0.5208951587301589,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "2010-05",
+    "year": 2010,
+    "month": 5,
+    "mood_composite": 0.5208951587301589,
+    "mood_music": 0.5208951587301589,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "2010-06",
+    "year": 2010,
+    "month": 6,
+    "mood_composite": 0.5208951587301589,
+    "mood_music": 0.5208951587301589,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "2010-07",
+    "year": 2010,
+    "month": 7,
+    "mood_composite": 0.5208951587301589,
+    "mood_music": 0.5208951587301589,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "2010-08",
+    "year": 2010,
+    "month": 8,
+    "mood_composite": 0.5208951587301589,
+    "mood_music": 0.5208951587301589,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "2010-09",
+    "year": 2010,
+    "month": 9,
+    "mood_composite": 0.5208951587301589,
+    "mood_music": 0.5208951587301589,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "2010-10",
+    "year": 2010,
+    "month": 10,
+    "mood_composite": 0.5208951587301589,
+    "mood_music": 0.5208951587301589,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "2010-11",
+    "year": 2010,
+    "month": 11,
+    "mood_composite": 0.5208951587301589,
+    "mood_music": 0.5208951587301589,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "2010-12",
+    "year": 2010,
+    "month": 12,
+    "mood_composite": 0.5208951587301589,
+    "mood_music": 0.5208951587301589,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "2011-01",
+    "year": 2011,
+    "month": 1,
+    "mood_composite": 0.4849248120300752,
+    "mood_music": 0.4849248120300752,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "2011-02",
+    "year": 2011,
+    "month": 2,
+    "mood_composite": 0.4724536787307882,
+    "mood_music": 0.4724536787307882,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "2011-03",
+    "year": 2011,
+    "month": 3,
+    "mood_composite": 0.4724536787307882,
+    "mood_music": 0.4724536787307882,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "2011-04",
+    "year": 2011,
+    "month": 4,
+    "mood_composite": 0.4724536787307882,
+    "mood_music": 0.4724536787307882,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "2011-05",
+    "year": 2011,
+    "month": 5,
+    "mood_composite": 0.4724536787307882,
+    "mood_music": 0.4724536787307882,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "2011-06",
+    "year": 2011,
+    "month": 6,
+    "mood_composite": 0.4724536787307882,
+    "mood_music": 0.4724536787307882,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "2011-07",
+    "year": 2011,
+    "month": 7,
+    "mood_composite": 0.4724536787307882,
+    "mood_music": 0.4724536787307882,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "2011-08",
+    "year": 2011,
+    "month": 8,
+    "mood_composite": 0.4724536787307882,
+    "mood_music": 0.4724536787307882,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "2011-09",
+    "year": 2011,
+    "month": 9,
+    "mood_composite": 0.4724536787307882,
+    "mood_music": 0.4724536787307882,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "2011-10",
+    "year": 2011,
+    "month": 10,
+    "mood_composite": 0.4724536787307882,
+    "mood_music": 0.4724536787307882,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "2011-11",
+    "year": 2011,
+    "month": 11,
+    "mood_composite": 0.4724536787307882,
+    "mood_music": 0.4724536787307882,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "2011-12",
+    "year": 2011,
+    "month": 12,
+    "mood_composite": 0.4724536787307882,
+    "mood_music": 0.4724536787307882,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "2012-01",
+    "year": 2012,
+    "month": 1,
+    "mood_composite": 0.4454898824619049,
+    "mood_music": 0.427478102189781,
+    "mood_news": 0.4725075528700906,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "2012-02",
+    "year": 2012,
+    "month": 2,
+    "mood_composite": 0.4656684823500325,
+    "mood_music": 0.4627090128534706,
+    "mood_news": 0.4701076865948756,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "2012-03",
+    "year": 2012,
+    "month": 3,
+    "mood_composite": 0.4612781854898601,
+    "mood_music": 0.4627090128534706,
+    "mood_news": 0.4591319444444444,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "2012-04",
+    "year": 2012,
+    "month": 4,
+    "mood_composite": 0.4601172820349425,
+    "mood_music": 0.4627090128534706,
+    "mood_news": 0.4562296858071505,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "2012-05",
+    "year": 2012,
+    "month": 5,
+    "mood_composite": 0.4598813580397816,
+    "mood_music": 0.4627090128534706,
+    "mood_news": 0.455639875819248,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "2012-06",
+    "year": 2012,
+    "month": 6,
+    "mood_composite": 0.4576540610072113,
+    "mood_music": 0.4627090128534706,
+    "mood_news": 0.4500716332378223,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "2012-07",
+    "year": 2012,
+    "month": 7,
+    "mood_composite": 0.4643897033885119,
+    "mood_music": 0.4627090128534706,
+    "mood_news": 0.4669107391910739,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "2012-08",
+    "year": 2012,
+    "month": 8,
+    "mood_composite": 0.4639658481175349,
+    "mood_music": 0.4627090128534706,
+    "mood_news": 0.4658511010136316,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "2012-09",
+    "year": 2012,
+    "month": 9,
+    "mood_composite": 0.4650893846573273,
+    "mood_music": 0.4627090128534706,
+    "mood_news": 0.4686599423631123,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "2012-10",
+    "year": 2012,
+    "month": 10,
+    "mood_composite": 0.4649670055082255,
+    "mood_music": 0.4627090128534706,
+    "mood_news": 0.4683539944903581,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "2012-11",
+    "year": 2012,
+    "month": 11,
+    "mood_composite": 0.4637587410454157,
+    "mood_music": 0.4627090128534706,
+    "mood_news": 0.4653333333333333,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "2012-12",
+    "year": 2012,
+    "month": 12,
+    "mood_composite": 0.4609955537754952,
+    "mood_music": 0.4627090128534706,
+    "mood_news": 0.4584253651585322,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "2013-01",
+    "year": 2013,
+    "month": 1,
+    "mood_composite": 0.4731766192016938,
+    "mood_music": 0.4841274725274725,
+    "mood_news": 0.4567503392130257,
+    "historical_event": "post_crisis_recovery",
+    "event_label": "Post-Crisis Recovery (2013-2014)"
+  },
+  {
+    "year_month": "2013-02",
+    "year": 2013,
+    "month": 2,
+    "mood_composite": 0.4593922026327096,
+    "mood_music": 0.4547411943319834,
+    "mood_news": 0.4663687150837989,
+    "historical_event": "post_crisis_recovery",
+    "event_label": "Post-Crisis Recovery (2013-2014)"
+  },
+  {
+    "year_month": "2013-03",
+    "year": 2013,
+    "month": 3,
+    "mood_composite": 0.460866619405487,
+    "mood_music": 0.4547411943319834,
+    "mood_news": 0.4700547570157426,
+    "historical_event": "post_crisis_recovery",
+    "event_label": "Post-Crisis Recovery (2013-2014)"
+  },
+  {
+    "year_month": "2013-04",
+    "year": 2013,
+    "month": 4,
+    "mood_composite": 0.4570934212624025,
+    "mood_music": 0.4547411943319834,
+    "mood_news": 0.4606217616580311,
+    "historical_event": "post_crisis_recovery",
+    "event_label": "Post-Crisis Recovery (2013-2014)"
+  },
+  {
+    "year_month": "2013-05",
+    "year": 2013,
+    "month": 5,
+    "mood_composite": 0.4589281347070232,
+    "mood_music": 0.4547411943319834,
+    "mood_news": 0.4652085452695829,
+    "historical_event": "post_crisis_recovery",
+    "event_label": "Post-Crisis Recovery (2013-2014)"
+  },
+  {
+    "year_month": "2013-06",
+    "year": 2013,
+    "month": 6,
+    "mood_composite": 0.4576658897036249,
+    "mood_music": 0.4547411943319834,
+    "mood_news": 0.4620529327610873,
+    "historical_event": "post_crisis_recovery",
+    "event_label": "Post-Crisis Recovery (2013-2014)"
+  },
+  {
+    "year_month": "2013-07",
+    "year": 2013,
+    "month": 7,
+    "mood_composite": 0.4585133113593125,
+    "mood_music": 0.4547411943319834,
+    "mood_news": 0.4641714869003062,
+    "historical_event": "post_crisis_recovery",
+    "event_label": "Post-Crisis Recovery (2013-2014)"
+  },
+  {
+    "year_month": "2013-08",
+    "year": 2013,
+    "month": 8,
+    "mood_composite": 0.4600204991929292,
+    "mood_music": 0.4547411943319834,
+    "mood_news": 0.4679394564843481,
+    "historical_event": "post_crisis_recovery",
+    "event_label": "Post-Crisis Recovery (2013-2014)"
+  },
+  {
+    "year_month": "2013-09",
+    "year": 2013,
+    "month": 9,
+    "mood_composite": 0.4570623075564489,
+    "mood_music": 0.4547411943319834,
+    "mood_news": 0.4605439773931473,
+    "historical_event": "post_crisis_recovery",
+    "event_label": "Post-Crisis Recovery (2013-2014)"
+  },
+  {
+    "year_month": "2013-10",
+    "year": 2013,
+    "month": 10,
+    "mood_composite": 0.459868082667595,
+    "mood_music": 0.4547411943319834,
+    "mood_news": 0.4675584151710125,
+    "historical_event": "post_crisis_recovery",
+    "event_label": "Post-Crisis Recovery (2013-2014)"
+  },
+  {
+    "year_month": "2013-11",
+    "year": 2013,
+    "month": 11,
+    "mood_composite": 0.4572157636828161,
+    "mood_music": 0.4547411943319834,
+    "mood_news": 0.4609276177090653,
+    "historical_event": "post_crisis_recovery",
+    "event_label": "Post-Crisis Recovery (2013-2014)"
+  },
+  {
+    "year_month": "2013-12",
+    "year": 2013,
+    "month": 12,
+    "mood_composite": 0.4584765847310582,
+    "mood_music": 0.4547411943319834,
+    "mood_news": 0.4640796703296703,
+    "historical_event": "post_crisis_recovery",
+    "event_label": "Post-Crisis Recovery (2013-2014)"
+  },
+  {
+    "year_month": "2014-01",
+    "year": 2014,
+    "month": 1,
+    "mood_composite": 0.4544670088211708,
+    "mood_music": 0.4509162790697675,
+    "mood_news": 0.4597931034482759,
+    "historical_event": "post_crisis_recovery",
+    "event_label": "Post-Crisis Recovery (2013-2014)"
+  },
+  {
+    "year_month": "2014-02",
+    "year": 2014,
+    "month": 2,
+    "mood_composite": 0.4609807819844328,
+    "mood_music": 0.4630487780548628,
+    "mood_news": 0.4578787878787879,
+    "historical_event": "post_crisis_recovery",
+    "event_label": "Post-Crisis Recovery (2013-2014)"
+  },
+  {
+    "year_month": "2014-03",
+    "year": 2014,
+    "month": 3,
+    "mood_composite": 0.4613712298485649,
+    "mood_music": 0.4630487780548628,
+    "mood_news": 0.458854907539118,
+    "historical_event": "post_crisis_recovery",
+    "event_label": "Post-Crisis Recovery (2013-2014)"
+  },
+  {
+    "year_month": "2014-04",
+    "year": 2014,
+    "month": 4,
+    "mood_composite": 0.4488376064841686,
+    "mood_music": 0.4630487780548628,
+    "mood_news": 0.4275208491281274,
+    "historical_event": "post_crisis_recovery",
+    "event_label": "Post-Crisis Recovery (2013-2014)"
+  },
+  {
+    "year_month": "2014-05",
+    "year": 2014,
+    "month": 5,
+    "mood_composite": 0.4297638717375498,
+    "mood_music": 0.4630487780548628,
+    "mood_news": 0.3798365122615804,
+    "historical_event": "post_crisis_recovery",
+    "event_label": "Post-Crisis Recovery (2013-2014)"
+  },
+  {
+    "year_month": "2014-06",
+    "year": 2014,
+    "month": 6,
+    "mood_composite": 0.4328501396981928,
+    "mood_music": 0.4630487780548628,
+    "mood_news": 0.3875521821631879,
+    "historical_event": "post_crisis_recovery",
+    "event_label": "Post-Crisis Recovery (2013-2014)"
+  },
+  {
+    "year_month": "2014-07",
+    "year": 2014,
+    "month": 7,
+    "mood_composite": 0.4323859081648032,
+    "mood_music": 0.4630487780548628,
+    "mood_news": 0.386391603329714,
+    "historical_event": "post_crisis_recovery",
+    "event_label": "Post-Crisis Recovery (2013-2014)"
+  },
+  {
+    "year_month": "2014-08",
+    "year": 2014,
+    "month": 8,
+    "mood_composite": 0.4317704219364411,
+    "mood_music": 0.4630487780548628,
+    "mood_news": 0.3848528877588085,
+    "historical_event": "post_crisis_recovery",
+    "event_label": "Post-Crisis Recovery (2013-2014)"
+  },
+  {
+    "year_month": "2014-09",
+    "year": 2014,
+    "month": 9,
+    "mood_composite": 0.4322262133978031,
+    "mood_music": 0.4630487780548628,
+    "mood_news": 0.3859923664122137,
+    "historical_event": "post_crisis_recovery",
+    "event_label": "Post-Crisis Recovery (2013-2014)"
+  },
+  {
+    "year_month": "2014-10",
+    "year": 2014,
+    "month": 10,
+    "mood_composite": 0.4303981424844441,
+    "mood_music": 0.4630487780548628,
+    "mood_news": 0.3814221891288161,
+    "historical_event": "post_crisis_recovery",
+    "event_label": "Post-Crisis Recovery (2013-2014)"
+  },
+  {
+    "year_month": "2014-11",
+    "year": 2014,
+    "month": 11,
+    "mood_composite": 0.4280974660666341,
+    "mood_music": 0.4630487780548628,
+    "mood_news": 0.3756704980842912,
+    "historical_event": "post_crisis_recovery",
+    "event_label": "Post-Crisis Recovery (2013-2014)"
+  },
+  {
+    "year_month": "2014-12",
+    "year": 2014,
+    "month": 12,
+    "mood_composite": 0.4323887950304849,
+    "mood_music": 0.4630487780548628,
+    "mood_news": 0.3863988204939181,
+    "historical_event": "post_crisis_recovery",
+    "event_label": "Post-Crisis Recovery (2013-2014)"
+  },
+  {
+    "year_month": "2015-01",
+    "year": 2015,
+    "month": 1,
+    "mood_composite": 0.4151527998586822,
+    "mood_music": 0.4426470588235294,
+    "mood_news": 0.3739114114114114,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "2015-02",
+    "year": 2015,
+    "month": 2,
+    "mood_composite": 0.411549752187171,
+    "mood_music": 0.4320983687943254,
+    "mood_news": 0.3807268272764393,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "2015-03",
+    "year": 2015,
+    "month": 3,
+    "mood_composite": 0.4109206979233018,
+    "mood_music": 0.4320983687943254,
+    "mood_news": 0.3791541916167665,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "2015-04",
+    "year": 2015,
+    "month": 4,
+    "mood_composite": 0.4114704476271588,
+    "mood_music": 0.4320983687943254,
+    "mood_news": 0.3805285658764089,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "2015-05",
+    "year": 2015,
+    "month": 5,
+    "mood_composite": 0.4103471806273883,
+    "mood_music": 0.4320983687943254,
+    "mood_news": 0.3777203983769827,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "2015-06",
+    "year": 2015,
+    "month": 6,
+    "mood_composite": 0.4102272512312094,
+    "mood_music": 0.4320983687943254,
+    "mood_news": 0.3774205748865355,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "2015-07",
+    "year": 2015,
+    "month": 7,
+    "mood_composite": 0.4208836096410299,
+    "mood_music": 0.4320983687943254,
+    "mood_news": 0.4040614709110867,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "2015-08",
+    "year": 2015,
+    "month": 8,
+    "mood_composite": 0.41055504484066,
+    "mood_music": 0.4320983687943254,
+    "mood_news": 0.378240058910162,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "2015-09",
+    "year": 2015,
+    "month": 9,
+    "mood_composite": 0.4091349144695249,
+    "mood_music": 0.4320983687943254,
+    "mood_news": 0.3746897329823241,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "2015-10",
+    "year": 2015,
+    "month": 10,
+    "mood_composite": 0.4063988367485611,
+    "mood_music": 0.4320983687943254,
+    "mood_news": 0.3678495386799148,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "2015-11",
+    "year": 2015,
+    "month": 11,
+    "mood_composite": 0.4110427238676579,
+    "mood_music": 0.4320983687943254,
+    "mood_news": 0.3794592564776567,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "2015-12",
+    "year": 2015,
+    "month": 12,
+    "mood_composite": 0.406640678081329,
+    "mood_music": 0.4320983687943254,
+    "mood_news": 0.3684541420118343,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "2016-01",
+    "year": 2016,
+    "month": 1,
+    "mood_composite": 0.463428030859662,
+    "mood_music": 0.52925,
+    "mood_news": 0.364695077149155,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "2016-02",
+    "year": 2016,
+    "month": 2,
+    "mood_composite": 0.3992230920343153,
+    "mood_music": 0.4315320589872012,
+    "mood_news": 0.3507596416049863,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "2016-03",
+    "year": 2016,
+    "month": 3,
+    "mood_composite": 0.4025549258773262,
+    "mood_music": 0.4315320589872012,
+    "mood_news": 0.3590892262125139,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "2016-04",
+    "year": 2016,
+    "month": 4,
+    "mood_composite": 0.4042922543331788,
+    "mood_music": 0.4315320589872012,
+    "mood_news": 0.3634325473521453,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "2016-05",
+    "year": 2016,
+    "month": 5,
+    "mood_composite": 0.4015343914101513,
+    "mood_music": 0.4315320589872012,
+    "mood_news": 0.3565378900445765,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "2016-06",
+    "year": 2016,
+    "month": 6,
+    "mood_composite": 0.40054326208865,
+    "mood_music": 0.4315320589872012,
+    "mood_news": 0.3540600667408231,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "2016-07",
+    "year": 2016,
+    "month": 7,
+    "mood_composite": 0.3997765894204064,
+    "mood_music": 0.4315320589872012,
+    "mood_news": 0.3521433850702143,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "2016-08",
+    "year": 2016,
+    "month": 8,
+    "mood_composite": 0.4081673283817867,
+    "mood_music": 0.4315320589872012,
+    "mood_news": 0.3731202324736651,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "2016-09",
+    "year": 2016,
+    "month": 9,
+    "mood_composite": 0.3995387382603895,
+    "mood_music": 0.4315320589872012,
+    "mood_news": 0.3515487571701721,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "2016-10",
+    "year": 2016,
+    "month": 10,
+    "mood_composite": 0.3989119811304418,
+    "mood_music": 0.4315320589872012,
+    "mood_news": 0.3499818643453029,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "2016-11",
+    "year": 2016,
+    "month": 11,
+    "mood_composite": 0.3933645184111886,
+    "mood_music": 0.4315320589872012,
+    "mood_news": 0.3361132075471698,
+    "historical_event": "election_2016",
+    "event_label": "US Election 2016 (Nov 2016 - Jan 2017)"
+  },
+  {
+    "year_month": "2016-12",
+    "year": 2016,
+    "month": 12,
+    "mood_composite": 0.3992285526310985,
+    "mood_music": 0.4315320589872012,
+    "mood_news": 0.3507732930969445,
+    "historical_event": "election_2016",
+    "event_label": "US Election 2016 (Nov 2016 - Jan 2017)"
+  },
+  {
+    "year_month": "2017-01",
+    "year": 2017,
+    "month": 1,
+    "mood_composite": 0.313596887159533,
+    "mood_music": 0.2956363636363636,
+    "mood_news": 0.3405376724442872,
+    "historical_event": "election_2016",
+    "event_label": "US Election 2016 (Nov 2016 - Jan 2017)"
+  },
+  {
+    "year_month": "2017-02",
+    "year": 2017,
+    "month": 2,
+    "mood_composite": 0.3893443979670739,
+    "mood_music": 0.4164763112449793,
+    "mood_news": 0.3486465280502158,
+    "historical_event": "trump_rally",
+    "event_label": "Trump Market Rally (2017)"
+  },
+  {
+    "year_month": "2017-03",
+    "year": 2017,
+    "month": 3,
+    "mood_composite": 0.3876635645247653,
+    "mood_music": 0.4164763112449793,
+    "mood_news": 0.3444444444444445,
+    "historical_event": "trump_rally",
+    "event_label": "Trump Market Rally (2017)"
+  },
+  {
+    "year_month": "2017-04",
+    "year": 2017,
+    "month": 4,
+    "mood_composite": 0.3853050414053727,
+    "mood_music": 0.4164763112449793,
+    "mood_news": 0.3385481366459627,
+    "historical_event": "trump_rally",
+    "event_label": "Trump Market Rally (2017)"
+  },
+  {
+    "year_month": "2017-05",
+    "year": 2017,
+    "month": 5,
+    "mood_composite": 0.3800445169057177,
+    "mood_music": 0.4164763112449793,
+    "mood_news": 0.3253968253968254,
+    "historical_event": "trump_rally",
+    "event_label": "Trump Market Rally (2017)"
+  },
+  {
+    "year_month": "2017-06",
+    "year": 2017,
+    "month": 6,
+    "mood_composite": 0.3757658936580224,
+    "mood_music": 0.4164763112449793,
+    "mood_news": 0.3147002672775869,
+    "historical_event": "trump_rally",
+    "event_label": "Trump Market Rally (2017)"
+  },
+  {
+    "year_month": "2017-07",
+    "year": 2017,
+    "month": 7,
+    "mood_composite": 0.3804505977994053,
+    "mood_music": 0.4164763112449793,
+    "mood_news": 0.3264120276310443,
+    "historical_event": "trump_rally",
+    "event_label": "Trump Market Rally (2017)"
+  },
+  {
+    "year_month": "2017-08",
+    "year": 2017,
+    "month": 8,
+    "mood_composite": 0.3816568617663224,
+    "mood_music": 0.4164763112449793,
+    "mood_news": 0.3294276875483372,
+    "historical_event": "trump_rally",
+    "event_label": "Trump Market Rally (2017)"
+  },
+  {
+    "year_month": "2017-09",
+    "year": 2017,
+    "month": 9,
+    "mood_composite": 0.381640249089173,
+    "mood_music": 0.4164763112449793,
+    "mood_news": 0.3293861558554636,
+    "historical_event": "trump_rally",
+    "event_label": "Trump Market Rally (2017)"
+  },
+  {
+    "year_month": "2017-10",
+    "year": 2017,
+    "month": 10,
+    "mood_composite": 0.3872800054315288,
+    "mood_music": 0.4164763112449793,
+    "mood_news": 0.3434855467113532,
+    "historical_event": "trump_rally",
+    "event_label": "Trump Market Rally (2017)"
+  },
+  {
+    "year_month": "2017-11",
+    "year": 2017,
+    "month": 11,
+    "mood_composite": 0.3875892225516892,
+    "mood_music": 0.4164763112449793,
+    "mood_news": 0.3442585895117541,
+    "historical_event": "trump_rally",
+    "event_label": "Trump Market Rally (2017)"
+  },
+  {
+    "year_month": "2017-12",
+    "year": 2017,
+    "month": 12,
+    "mood_composite": 0.3851445348987865,
+    "mood_music": 0.4164763112449793,
+    "mood_news": 0.3381468703794973,
+    "historical_event": "trump_rally",
+    "event_label": "Trump Market Rally (2017)"
+  },
+  {
+    "year_month": "2018-01",
+    "year": 2018,
+    "month": 1,
+    "mood_composite": 0.4130840354453858,
+    "mood_music": 0.4479212743699474,
+    "mood_news": 0.3608281770585436,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "2018-02",
+    "year": 2018,
+    "month": 2,
+    "mood_composite": 0.415716945479279,
+    "mood_music": 0.4479212743699474,
+    "mood_news": 0.3674104521432766,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "2018-03",
+    "year": 2018,
+    "month": 3,
+    "mood_composite": 0.4113391637301066,
+    "mood_music": 0.4479212743699474,
+    "mood_news": 0.3564659977703456,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "2018-04",
+    "year": 2018,
+    "month": 4,
+    "mood_composite": 0.4153776863502089,
+    "mood_music": 0.4479212743699474,
+    "mood_news": 0.3665623043206011,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "2018-05",
+    "year": 2018,
+    "month": 5,
+    "mood_composite": 0.4175266838282051,
+    "mood_music": 0.4479212743699474,
+    "mood_news": 0.3719347980155917,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "2018-06",
+    "year": 2018,
+    "month": 6,
+    "mood_composite": 0.3867947226639264,
+    "mood_music": 0.4479212743699474,
+    "mood_news": 0.2951048951048951,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "2018-07",
+    "year": 2018,
+    "month": 7,
+    "mood_composite": 0.3747527646219684,
+    "mood_music": 0.4479212743699474,
+    "mood_news": 0.265,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "2018-08",
+    "year": 2018,
+    "month": 8,
+    "mood_composite": 0.3739835338527376,
+    "mood_music": 0.4479212743699474,
+    "mood_news": 0.2630769230769231,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "2018-09",
+    "year": 2018,
+    "month": 9,
+    "mood_composite": 0.4009820639850257,
+    "mood_music": 0.4479212743699474,
+    "mood_news": 0.3305732484076433,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "2018-10",
+    "year": 2018,
+    "month": 10,
+    "mood_composite": 0.4072143030835068,
+    "mood_music": 0.4479212743699474,
+    "mood_news": 0.3461538461538461,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "2018-11",
+    "year": 2018,
+    "month": 11,
+    "mood_composite": 0.4292099074791112,
+    "mood_music": 0.4479212743699474,
+    "mood_news": 0.4011428571428571,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "2018-12",
+    "year": 2018,
+    "month": 12,
+    "mood_composite": 0.4141671292628524,
+    "mood_music": 0.4479212743699474,
+    "mood_news": 0.3635359116022099,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "2019-01",
+    "year": 2019,
+    "month": 1,
+    "mood_composite": 0.433522621931065,
+    "mood_music": 0.4588176295536167,
+    "mood_news": 0.3955801104972375,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "2019-02",
+    "year": 2019,
+    "month": 2,
+    "mood_composite": 0.4360048634464557,
+    "mood_music": 0.4588176295536167,
+    "mood_news": 0.4017857142857143,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "2019-03",
+    "year": 2019,
+    "month": 3,
+    "mood_composite": 0.402217952033846,
+    "mood_music": 0.4588176295536167,
+    "mood_news": 0.3173184357541899,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "2019-04",
+    "year": 2019,
+    "month": 4,
+    "mood_composite": 0.3795082648069999,
+    "mood_music": 0.4588176295536167,
+    "mood_news": 0.2605442176870748,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "2019-05",
+    "year": 2019,
+    "month": 5,
+    "mood_composite": 0.3955537356269069,
+    "mood_music": 0.4588176295536167,
+    "mood_news": 0.3006578947368421,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "2019-06",
+    "year": 2019,
+    "month": 6,
+    "mood_composite": 0.377774237862889,
+    "mood_music": 0.4588176295536167,
+    "mood_news": 0.2562091503267974,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "2019-07",
+    "year": 2019,
+    "month": 7,
+    "mood_composite": 0.3869886909397172,
+    "mood_music": 0.4588176295536167,
+    "mood_news": 0.2792452830188679,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "2019-08",
+    "year": 2019,
+    "month": 8,
+    "mood_composite": 0.3777597135346391,
+    "mood_music": 0.4588176295536167,
+    "mood_news": 0.2561728395061728,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "2019-09",
+    "year": 2019,
+    "month": 9,
+    "mood_composite": 0.3940784565200488,
+    "mood_music": 0.4588176295536167,
+    "mood_news": 0.296969696969697,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "2019-10",
+    "year": 2019,
+    "month": 10,
+    "mood_composite": 0.4250173536884541,
+    "mood_music": 0.4588176295536167,
+    "mood_news": 0.3743169398907104,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "2019-11",
+    "year": 2019,
+    "month": 11,
+    "mood_composite": 0.42729057773217,
+    "mood_music": 0.4588176295536167,
+    "mood_news": 0.38,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "2019-12",
+    "year": 2019,
+    "month": 12,
+    "mood_composite": 0.4074452738647667,
+    "mood_music": 0.4588176295536167,
+    "mood_news": 0.3303867403314917,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "2020-01",
+    "year": 2020,
+    "month": 1,
+    "mood_composite": 0.4006286847290637,
+    "mood_music": 0.5010478078817729,
+    "mood_news": 0.25,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "2020-02",
+    "year": 2020,
+    "month": 2,
+    "mood_composite": 0.4069923210927001,
+    "mood_music": 0.5010478078817729,
+    "mood_news": 0.2659090909090909,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "2020-03",
+    "year": 2020,
+    "month": 3,
+    "mood_composite": 0.4459047583486956,
+    "mood_music": 0.5010478078817729,
+    "mood_news": 0.3631901840490797,
+    "historical_event": "covid_pandemic_peak",
+    "event_label": "COVID-19 Pandemic Peak (Mar - Dec 2020)"
+  },
+  {
+    "year_month": "2020-04",
+    "year": 2020,
+    "month": 4,
+    "mood_composite": 0.4669077544965056,
+    "mood_music": 0.5010478078817729,
+    "mood_news": 0.4156976744186046,
+    "historical_event": "covid_pandemic_peak",
+    "event_label": "COVID-19 Pandemic Peak (Mar - Dec 2020)"
+  },
+  {
+    "year_month": "2020-05",
+    "year": 2020,
+    "month": 5,
+    "mood_composite": 0.450572818807276,
+    "mood_music": 0.5010478078817729,
+    "mood_news": 0.3748603351955307,
+    "historical_event": "covid_pandemic_peak",
+    "event_label": "COVID-19 Pandemic Peak (Mar - Dec 2020)"
+  },
+  {
+    "year_month": "2020-06",
+    "year": 2020,
+    "month": 6,
+    "mood_composite": 0.4508559574563364,
+    "mood_music": 0.5010478078817729,
+    "mood_news": 0.3755681818181818,
+    "historical_event": "blm_protests",
+    "event_label": "BLM Protests (Jun - Aug 2020)"
+  },
+  {
+    "year_month": "2020-07",
+    "year": 2020,
+    "month": 7,
+    "mood_composite": 0.4442845987075583,
+    "mood_music": 0.5010478078817729,
+    "mood_news": 0.3591397849462365,
+    "historical_event": "blm_protests",
+    "event_label": "BLM Protests (Jun - Aug 2020)"
+  },
+  {
+    "year_month": "2020-08",
+    "year": 2020,
+    "month": 8,
+    "mood_composite": 0.4270731291735081,
+    "mood_music": 0.5010478078817729,
+    "mood_news": 0.3161111111111111,
+    "historical_event": "blm_protests",
+    "event_label": "BLM Protests (Jun - Aug 2020)"
+  },
+  {
+    "year_month": "2020-09",
+    "year": 2020,
+    "month": 9,
+    "mood_composite": 0.4358010985221672,
+    "mood_music": 0.5010478078817729,
+    "mood_news": 0.3379310344827586,
+    "historical_event": "covid_pandemic_peak",
+    "event_label": "COVID-19 Pandemic Peak (Mar - Dec 2020)"
+  },
+  {
+    "year_month": "2020-10",
+    "year": 2020,
+    "month": 10,
+    "mood_composite": 0.4436795321866909,
+    "mood_music": 0.5010478078817729,
+    "mood_news": 0.3576271186440677,
+    "historical_event": "covid_pandemic_peak",
+    "event_label": "COVID-19 Pandemic Peak (Mar - Dec 2020)"
+  },
+  {
+    "year_month": "2020-11",
+    "year": 2020,
+    "month": 11,
+    "mood_composite": 0.4318646397852435,
+    "mood_music": 0.5010478078817729,
+    "mood_news": 0.3280898876404494,
+    "historical_event": "election_2020",
+    "event_label": "US Election 2020 (Nov 2020 - Jan 2021)"
+  },
+  {
+    "year_month": "2020-12",
+    "year": 2020,
+    "month": 12,
+    "mood_composite": 0.4383336027618506,
+    "mood_music": 0.5010478078817729,
+    "mood_news": 0.3442622950819672,
+    "historical_event": "election_2020",
+    "event_label": "US Election 2020 (Nov 2020 - Jan 2021)"
+  },
+  {
+    "year_month": "2021-01",
+    "year": 2021,
+    "month": 1,
+    "mood_composite": 0.2798913043478261,
+    "mood_music": null,
+    "mood_news": 0.2798913043478261,
+    "historical_event": "election_2020",
+    "event_label": "US Election 2020 (Nov 2020 - Jan 2021)"
+  },
+  {
+    "year_month": "2021-02",
+    "year": 2021,
+    "month": 2,
+    "mood_composite": 0.2673758865248227,
+    "mood_music": null,
+    "mood_news": 0.2673758865248227,
+    "historical_event": "covid_vaccine_rollout",
+    "event_label": "COVID Vaccine Rollout (2021)"
+  },
+  {
+    "year_month": "2021-03",
+    "year": 2021,
+    "month": 3,
+    "mood_composite": 0.2781818181818182,
+    "mood_music": null,
+    "mood_news": 0.2781818181818182,
+    "historical_event": "covid_vaccine_rollout",
+    "event_label": "COVID Vaccine Rollout (2021)"
+  },
+  {
+    "year_month": "2021-04",
+    "year": 2021,
+    "month": 4,
+    "mood_composite": 0.3209039548022598,
+    "mood_music": null,
+    "mood_news": 0.3209039548022598,
+    "historical_event": "covid_vaccine_rollout",
+    "event_label": "COVID Vaccine Rollout (2021)"
+  },
+  {
+    "year_month": "2021-05",
+    "year": 2021,
+    "month": 5,
+    "mood_composite": 0.3065217391304348,
+    "mood_music": null,
+    "mood_news": 0.3065217391304348,
+    "historical_event": "covid_vaccine_rollout",
+    "event_label": "COVID Vaccine Rollout (2021)"
+  },
+  {
+    "year_month": "2021-06",
+    "year": 2021,
+    "month": 6,
+    "mood_composite": 0.3210227272727273,
+    "mood_music": null,
+    "mood_news": 0.3210227272727273,
+    "historical_event": "covid_vaccine_rollout",
+    "event_label": "COVID Vaccine Rollout (2021)"
+  },
+  {
+    "year_month": "2021-07",
+    "year": 2021,
+    "month": 7,
+    "mood_composite": 0.3288888888888889,
+    "mood_music": null,
+    "mood_news": 0.3288888888888889,
+    "historical_event": "covid_vaccine_rollout",
+    "event_label": "COVID Vaccine Rollout (2021)"
+  },
+  {
+    "year_month": "2021-08",
+    "year": 2021,
+    "month": 8,
+    "mood_composite": 0.3710227272727273,
+    "mood_music": null,
+    "mood_news": 0.3710227272727273,
+    "historical_event": "covid_vaccine_rollout",
+    "event_label": "COVID Vaccine Rollout (2021)"
+  },
+  {
+    "year_month": "2021-09",
+    "year": 2021,
+    "month": 9,
+    "mood_composite": 0.3550295857988165,
+    "mood_music": null,
+    "mood_news": 0.3550295857988165,
+    "historical_event": "covid_vaccine_rollout",
+    "event_label": "COVID Vaccine Rollout (2021)"
+  },
+  {
+    "year_month": "2021-10",
+    "year": 2021,
+    "month": 10,
+    "mood_composite": 0.3873563218390805,
+    "mood_music": null,
+    "mood_news": 0.3873563218390805,
+    "historical_event": "covid_vaccine_rollout",
+    "event_label": "COVID Vaccine Rollout (2021)"
+  },
+  {
+    "year_month": "2021-11",
+    "year": 2021,
+    "month": 11,
+    "mood_composite": 0.3076470588235294,
+    "mood_music": null,
+    "mood_news": 0.3076470588235294,
+    "historical_event": "covid_vaccine_rollout",
+    "event_label": "COVID Vaccine Rollout (2021)"
+  },
+  {
+    "year_month": "2021-12",
+    "year": 2021,
+    "month": 12,
+    "mood_composite": 0.3441176470588235,
+    "mood_music": null,
+    "mood_news": 0.3441176470588235,
+    "historical_event": "covid_vaccine_rollout",
+    "event_label": "COVID Vaccine Rollout (2021)"
+  },
+  {
+    "year_month": "2022-01",
+    "year": 2022,
+    "month": 1,
+    "mood_composite": 0.348,
+    "mood_music": null,
+    "mood_news": 0.348,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "2022-02",
+    "year": 2022,
+    "month": 2,
+    "mood_composite": 0.3131578947368421,
+    "mood_music": null,
+    "mood_news": 0.3131578947368421,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "2022-03",
+    "year": 2022,
+    "month": 3,
+    "mood_composite": 0.2982758620689655,
+    "mood_music": null,
+    "mood_news": 0.2982758620689655,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "2022-04",
+    "year": 2022,
+    "month": 4,
+    "mood_composite": 0.3358024691358025,
+    "mood_music": null,
+    "mood_news": 0.3358024691358025,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "2022-05",
+    "year": 2022,
+    "month": 5,
+    "mood_composite": 0.3133720930232558,
+    "mood_music": null,
+    "mood_news": 0.3133720930232558,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "2022-06",
+    "year": 2022,
+    "month": 6,
+    "mood_composite": 0.3808219178082191,
+    "mood_music": null,
+    "mood_news": 0.3808219178082191,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "2022-07",
+    "year": 2022,
+    "month": 7,
+    "mood_composite": 0.352112676056338,
+    "mood_music": null,
+    "mood_news": 0.352112676056338,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "2022-08",
+    "year": 2022,
+    "month": 8,
+    "mood_composite": 0.3289017341040462,
+    "mood_music": null,
+    "mood_news": 0.3289017341040462,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "2022-09",
+    "year": 2022,
+    "month": 9,
+    "mood_composite": 0.3377952755905511,
+    "mood_music": null,
+    "mood_news": 0.3377952755905511,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "2022-10",
+    "year": 2022,
+    "month": 10,
+    "mood_composite": null,
+    "mood_music": null,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "2022-11",
+    "year": 2022,
+    "month": 11,
+    "mood_composite": null,
+    "mood_music": null,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "2022-12",
+    "year": 2022,
+    "month": 12,
+    "mood_composite": null,
+    "mood_music": null,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "2023-01",
+    "year": 2023,
+    "month": 1,
+    "mood_composite": null,
+    "mood_music": null,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "2023-02",
+    "year": 2023,
+    "month": 2,
+    "mood_composite": null,
+    "mood_music": null,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "2023-03",
+    "year": 2023,
+    "month": 3,
+    "mood_composite": null,
+    "mood_music": null,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "2023-04",
+    "year": 2023,
+    "month": 4,
+    "mood_composite": null,
+    "mood_music": null,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "2023-05",
+    "year": 2023,
+    "month": 5,
+    "mood_composite": null,
+    "mood_music": null,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "2023-06",
+    "year": 2023,
+    "month": 6,
+    "mood_composite": null,
+    "mood_music": null,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "2023-07",
+    "year": 2023,
+    "month": 7,
+    "mood_composite": null,
+    "mood_music": null,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "2023-08",
+    "year": 2023,
+    "month": 8,
+    "mood_composite": null,
+    "mood_music": null,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "2023-09",
+    "year": 2023,
+    "month": 9,
+    "mood_composite": null,
+    "mood_music": null,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "2023-10",
+    "year": 2023,
+    "month": 10,
+    "mood_composite": null,
+    "mood_music": null,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "2023-11",
+    "year": 2023,
+    "month": 11,
+    "mood_composite": null,
+    "mood_music": null,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "2023-12",
+    "year": 2023,
+    "month": 12,
+    "mood_composite": null,
+    "mood_music": null,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "2024-01",
+    "year": 2024,
+    "month": 1,
+    "mood_composite": null,
+    "mood_music": null,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "2024-02",
+    "year": 2024,
+    "month": 2,
+    "mood_composite": null,
+    "mood_music": null,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "2024-03",
+    "year": 2024,
+    "month": 3,
+    "mood_composite": null,
+    "mood_music": null,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "2024-04",
+    "year": 2024,
+    "month": 4,
+    "mood_composite": null,
+    "mood_music": null,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "2024-05",
+    "year": 2024,
+    "month": 5,
+    "mood_composite": null,
+    "mood_music": null,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "2024-06",
+    "year": 2024,
+    "month": 6,
+    "mood_composite": null,
+    "mood_music": null,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "2024-07",
+    "year": 2024,
+    "month": 7,
+    "mood_composite": null,
+    "mood_music": null,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "2024-08",
+    "year": 2024,
+    "month": 8,
+    "mood_composite": null,
+    "mood_music": null,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "2024-09",
+    "year": 2024,
+    "month": 9,
+    "mood_composite": null,
+    "mood_music": null,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "2024-10",
+    "year": 2024,
+    "month": 10,
+    "mood_composite": null,
+    "mood_music": null,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "2024-11",
+    "year": 2024,
+    "month": 11,
+    "mood_composite": null,
+    "mood_music": null,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "2024-12",
+    "year": 2024,
+    "month": 12,
+    "mood_composite": null,
+    "mood_music": null,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "2025-01",
+    "year": 2025,
+    "month": 1,
+    "mood_composite": null,
+    "mood_music": null,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "2025-02",
+    "year": 2025,
+    "month": 2,
+    "mood_composite": null,
+    "mood_music": null,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "2025-03",
+    "year": 2025,
+    "month": 3,
+    "mood_composite": null,
+    "mood_music": null,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "2025-04",
+    "year": 2025,
+    "month": 4,
+    "mood_composite": null,
+    "mood_music": null,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "2025-05",
+    "year": 2025,
+    "month": 5,
+    "mood_composite": null,
+    "mood_music": null,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "2025-06",
+    "year": 2025,
+    "month": 6,
+    "mood_composite": null,
+    "mood_music": null,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "2025-07",
+    "year": 2025,
+    "month": 7,
+    "mood_composite": null,
+    "mood_music": null,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "2025-08",
+    "year": 2025,
+    "month": 8,
+    "mood_composite": null,
+    "mood_music": null,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "2025-09",
+    "year": 2025,
+    "month": 9,
+    "mood_composite": null,
+    "mood_music": null,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "2025-10",
+    "year": 2025,
+    "month": 10,
+    "mood_composite": null,
+    "mood_music": null,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "2025-11",
+    "year": 2025,
+    "month": 11,
+    "mood_composite": null,
+    "mood_music": null,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  },
+  {
+    "year_month": "2025-12",
+    "year": 2025,
+    "month": 12,
+    "mood_composite": null,
+    "mood_music": null,
+    "mood_news": null,
+    "historical_event": null,
+    "event_label": null
+  }
+]

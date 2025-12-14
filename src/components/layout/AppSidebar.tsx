@@ -1,15 +1,13 @@
 import { useLocation, Link } from "react-router-dom"
 import {
   Database,
-  FileText,
   Settings,
   HelpCircle,
-  Plus,
-  Sun,
-  Moon,
   LogOut,
-  Beaker,
-  Clock,
+  LayoutDashboard,
+  Music,
+  Newspaper,
+  Calendar,
 } from "lucide-react"
 
 import {
@@ -23,31 +21,17 @@ import {
   SidebarMenu,
   SidebarMenuButton,
   SidebarMenuItem,
-  SidebarSeparator,
 } from "@/components/ui/sidebar"
 import { Avatar, AvatarFallback } from "@/components/ui/avatar"
 import { Button } from "@/components/ui/button"
-import { useTheme } from "@/components/ThemeProvider"
+import { ThemeMenu } from "@/components/theme/ThemeMenu"
 
-// Sample analyses data
-const sampleAnalyses = [
-  {
-    id: "sample-sales-analysis",
-    title: "Q4 Sales Performance",
-    icon: FileText,
-  },
-  {
-    id: "sample-inventory-analysis",
-    title: "Inventory Optimization",
-    icon: FileText,
-  },
-]
-
-// Previous analyses - placeholder data (will be fetched from API later)
-const previousAnalyses = [
-  { id: "analysis-001", title: "Customer Segmentation", date: "Dec 10" },
-  { id: "analysis-002", title: "Revenue Trends", date: "Dec 8" },
-  { id: "analysis-003", title: "Product Performance", date: "Dec 5" },
+// Dashboard navigation items
+const dashboardItems = [
+  { title: "Overview", icon: LayoutDashboard, path: "/" },
+  { title: "Music Insights", icon: Music, path: "/music" },
+  { title: "News Analysis", icon: Newspaper, path: "/news" },
+  { title: "Events", icon: Calendar, path: "/events" },
 ]
 
 const bottomItems = [
@@ -64,7 +48,6 @@ interface AppSidebarProps {
 }
 
 export function AppSidebar({ user, onSignOut }: AppSidebarProps) {
-  const { theme, setTheme } = useTheme()
   const location = useLocation()
 
   return (
@@ -75,67 +58,34 @@ export function AppSidebar({ user, onSignOut }: AppSidebarProps) {
             <div className="flex h-8 w-8 shrink-0 items-center justify-center rounded-lg bg-primary text-primary-foreground">
               <Database className="h-4 w-4" />
             </div>
-            <span className="font-semibold">Data Weaver</span>
+            <span className="font-semibold">Cultural Pulse</span>
           </div>
-          <span className="text-xs text-muted-foreground">
-            Application that mashes up two unrelated data sources to show something interesting
+          <span className="text-xs text-muted-foreground leading-relaxed">
+            Analyzing America's mood through 67 years of Billboard Hot 100 charts,
+            Spotify audio features like valence and energy,
+            and HuffPost news sentiment from 1958-2025.
           </span>
-        </div>
-        <div className="px-2">
-          <Button variant="secondary" className="w-full justify-start gap-2">
-            <Plus className="h-4 w-4" />
-            New Analysis
-          </Button>
         </div>
       </SidebarHeader>
 
       <SidebarContent>
-        {/* Sample Analyses Section */}
+        {/* Dashboard Navigation */}
         <SidebarGroup>
           <SidebarGroupLabel>
-            <Beaker className="mr-2 h-4 w-4" />
-            Sample Analyses
+            Dashboard
           </SidebarGroupLabel>
           <SidebarGroupContent>
             <SidebarMenu>
-              {sampleAnalyses.map((analysis) => (
-                <SidebarMenuItem key={analysis.id}>
+              {dashboardItems.map((item) => (
+                <SidebarMenuItem key={item.path}>
                   <SidebarMenuButton
                     asChild
-                    isActive={location.pathname === `/${analysis.id}`}
-                    tooltip={analysis.title}
+                    isActive={location.pathname === item.path}
+                    tooltip={item.title}
                   >
-                    <Link to={`/${analysis.id}`}>
-                      <analysis.icon className="h-4 w-4" />
-                      <span>{analysis.title}</span>
-                    </Link>
-                  </SidebarMenuButton>
-                </SidebarMenuItem>
-              ))}
-            </SidebarMenu>
-          </SidebarGroupContent>
-        </SidebarGroup>
-
-        <SidebarSeparator />
-
-        {/* Previous Analyses Section */}
-        <SidebarGroup>
-          <SidebarGroupLabel>
-            <Clock className="mr-2 h-4 w-4" />
-            Previous Analyses
-          </SidebarGroupLabel>
-          <SidebarGroupContent>
-            <SidebarMenu>
-              {previousAnalyses.map((analysis) => (
-                <SidebarMenuItem key={analysis.id}>
-                  <SidebarMenuButton
-                    asChild
-                    isActive={location.pathname === `/${analysis.id}`}
-                    tooltip={`${analysis.title} - ${analysis.date}`}
-                  >
-                    <Link to={`/${analysis.id}`}>
-                      <FileText className="h-4 w-4" />
-                      <span>{analysis.title}</span>
+                    <Link to={item.path}>
+                      <item.icon className="h-4 w-4" />
+                      <span>{item.title}</span>
                     </Link>
                   </SidebarMenuButton>
                 </SidebarMenuItem>
@@ -147,7 +97,18 @@ export function AppSidebar({ user, onSignOut }: AppSidebarProps) {
 
       <SidebarFooter>
         <SidebarMenu>
-          {bottomItems.map((item) => (
+          <SidebarMenuItem>
+            <ThemeMenu
+              asChild
+              trigger={
+                <SidebarMenuButton tooltip="Appearance settings">
+                  <Settings className="h-4 w-4" />
+                  <span>Settings</span>
+                </SidebarMenuButton>
+              }
+            />
+          </SidebarMenuItem>
+          {bottomItems.slice(1).map((item) => (
             <SidebarMenuItem key={item.title}>
               <SidebarMenuButton tooltip={item.title}>
                 <item.icon className="h-4 w-4" />
@@ -155,28 +116,7 @@ export function AppSidebar({ user, onSignOut }: AppSidebarProps) {
               </SidebarMenuButton>
             </SidebarMenuItem>
           ))}
-          <SidebarMenuItem>
-            <SidebarMenuButton
-              tooltip="Light theme"
-              isActive={theme === "light"}
-              onClick={() => setTheme("light")}
-            >
-              <Sun className="h-4 w-4" />
-              <span>Light</span>
-            </SidebarMenuButton>
-          </SidebarMenuItem>
-          <SidebarMenuItem>
-            <SidebarMenuButton
-              tooltip="Dark theme"
-              isActive={theme === "dark"}
-              onClick={() => setTheme("dark")}
-            >
-              <Moon className="h-4 w-4" />
-              <span>Dark</span>
-            </SidebarMenuButton>
-          </SidebarMenuItem>
         </SidebarMenu>
-        <SidebarSeparator />
         <div className="flex items-center gap-2 p-2">
           <Avatar className="h-8 w-8 shrink-0">
             <AvatarFallback>
