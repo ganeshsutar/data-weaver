@@ -41,12 +41,9 @@ A data analysis and storytelling application that allows users to upload two CSV
 |-------|-------------|--------|
 | 1. Upload | Files uploaded to S3 | S3 URIs |
 | 2. Schema Analysis | LLM describes columns, data types, value distributions | Schema metadata JSON |
-| 3. Join Key Detection | LLM auto-detects matching columns between datasets | Join configuration |
-| 3b. Column Mapping | If no direct match, attempt semantic column mapping | Mapped columns or failure |
-| 4. Data Cleaning | Handle nulls, normalize formats, type coercion | Cleaned datasets |
-| 5. Combine | Map-reduce style merge using detected join keys | Combined dataset |
-| 6. Store Combined | Save merged dataset to S3 | S3 URI |
-| 7. Analysis | Generate all analytical outputs (see below) | Analysis results |
+| 3. Join & Store | Detect join keys, combine datasets into SQLite, save to S3 | SQLite .db file in S3 |
+| 4. Discover Operations | LLM iteratively suggests SQL queries to explore data (max 3 rounds) | Operation history + derived tables |
+| 5. Generate Insights | Final insights with graph specifications | Insights array + narrative |
 
 ---
 
@@ -85,8 +82,9 @@ LLM generates a narrative explaining:
 
 ### 5.2 Progress Display
 - Real-time stage updates via WebSocket or AppSync subscriptions
-- Visual pipeline showing: Upload -> Analyze -> Clean -> Combine -> Insights
+- Visual pipeline showing: Upload -> Analyze -> Join & Store -> Discover -> Insights
 - Each stage shows: pending, in-progress, completed, or error state
+- Discover stage shows current iteration (e.g., "Iteration 2/3")
 
 ### 5.3 Historical Analyses
 - List of user's past analyses with timestamps
@@ -183,10 +181,10 @@ ChatMessage
 
 ### Dataset Join Failure
 When datasets cannot be combined:
-1. **Step 1**: Attempt automatic join key detection based on column names
-2. **Step 2**: If no match, attempt semantic column mapping (e.g., "customer_id" <-> "client_id")
+1. **Step 1**: Attempt automatic join key detection based on column names (direct match)
+2. **Step 2**: If no direct match, use LLM for semantic column mapping (e.g., "customer_id" <-> "client_id")
 3. **Step 3**: If mapping fails, display user-friendly error:
-   > "Unable to combine or correlate the datasets. Please modify your data or add a common column that exists in both files to enable analysis."
+   > "Unable to combine the datasets. No matching columns were found between the files. Please ensure both files have at least one column with related data (e.g., customer ID, order number, date) to enable analysis."
 
 ---
 
@@ -208,10 +206,10 @@ When datasets cannot be combined:
 │   ├── data/             # AppSync schema & resolvers
 │   ├── storage/          # S3 bucket configuration
 │   └── functions/        # Lambda functions
+│       ├── presignedUrl/
 │       ├── analyzeSchema/
-│       ├── detectJoinKeys/
-│       ├── cleanData/
-│       ├── combineDatasets/
+│       ├── joinAndStore/
+│       ├── discoverOperations/
 │       ├── generateInsights/
 │       └── chatHandler/
 ├── src/
