@@ -1,5 +1,4 @@
 import { useState, FormEvent } from "react"
-import { useAuthenticator } from "@aws-amplify/ui-react"
 import { signUp } from "aws-amplify/auth"
 import { Database } from "lucide-react"
 import { Button } from "@/components/ui/button"
@@ -13,9 +12,10 @@ import {
   CardTitle,
   CardDescription,
 } from "@/components/ui/card"
+import { useAuthNavigation } from "./AuthPages"
 
 export function SignUpPage() {
-  const { toSignIn } = useAuthenticator()
+  const { toSignIn, toConfirmSignUp } = useAuthNavigation()
   const [email, setEmail] = useState("")
   const [password, setPassword] = useState("")
   const [confirmPassword, setConfirmPassword] = useState("")
@@ -43,6 +43,8 @@ export function SignUpPage() {
           },
         },
       })
+      // Navigate to confirmation page on success
+      toConfirmSignUp(email)
     } catch (err) {
       const message = err instanceof Error ? err.message : "Sign up failed"
       setError(message)

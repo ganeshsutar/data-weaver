@@ -1,5 +1,4 @@
 import { useState, FormEvent } from "react"
-import { useAuthenticator } from "@aws-amplify/ui-react"
 import { confirmSignUp, resendSignUpCode } from "aws-amplify/auth"
 import { Database } from "lucide-react"
 import { Button } from "@/components/ui/button"
@@ -13,15 +12,14 @@ import {
   CardTitle,
   CardDescription,
 } from "@/components/ui/card"
+import { useAuthNavigation } from "./AuthPages"
 
 export function ConfirmSignUpPage() {
-  const { toSignIn, user } = useAuthenticator()
+  const { toSignIn, email: username } = useAuthNavigation()
   const [code, setCode] = useState("")
   const [error, setError] = useState("")
   const [isLoading, setIsLoading] = useState(false)
   const [resendMessage, setResendMessage] = useState("")
-
-  const username = user?.username || ""
 
   async function handleSubmit(e: FormEvent) {
     e.preventDefault()

@@ -1,6 +1,6 @@
 import { useState, FormEvent } from "react"
-import { useAuthenticator } from "@aws-amplify/ui-react"
 import { confirmResetPassword } from "aws-amplify/auth"
+import { useAuthNavigation } from "./AuthPages"
 import { Database } from "lucide-react"
 import { Button } from "@/components/ui/button"
 import { Input } from "@/components/ui/input"
@@ -15,14 +15,12 @@ import {
 } from "@/components/ui/card"
 
 export function ConfirmResetPage() {
-  const { toSignIn, user } = useAuthenticator()
+  const { toSignIn, email: username } = useAuthNavigation()
   const [code, setCode] = useState("")
   const [newPassword, setNewPassword] = useState("")
   const [confirmPassword, setConfirmPassword] = useState("")
   const [error, setError] = useState("")
   const [isLoading, setIsLoading] = useState(false)
-
-  const username = user?.username || ""
 
   async function handleSubmit(e: FormEvent) {
     e.preventDefault()

@@ -1,6 +1,6 @@
 import { useState, FormEvent } from "react"
-import { useAuthenticator } from "@aws-amplify/ui-react"
 import { resetPassword, confirmResetPassword } from "aws-amplify/auth"
+import { useAuthNavigation } from "./AuthPages"
 import { Database } from "lucide-react"
 import { Button } from "@/components/ui/button"
 import { Input } from "@/components/ui/input"
@@ -141,7 +141,7 @@ function ConfirmResetWithEmail({
 }
 
 export function ForgotPasswordPage() {
-  const { toSignIn } = useAuthenticator()
+  const { toSignIn } = useAuthNavigation()
   const [email, setEmail] = useState("")
   const [error, setError] = useState("")
   const [isLoading, setIsLoading] = useState(false)

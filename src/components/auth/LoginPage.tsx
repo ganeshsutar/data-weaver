@@ -1,5 +1,4 @@
 import { useState, FormEvent } from "react"
-import { useAuthenticator } from "@aws-amplify/ui-react"
 import { signIn } from "aws-amplify/auth"
 import { Database } from "lucide-react"
 import { Button } from "@/components/ui/button"
@@ -12,9 +11,10 @@ import {
   CardHeader,
   CardTitle,
 } from "@/components/ui/card"
+import { useAuthNavigation } from "./AuthPages"
 
 export function LoginPage() {
-  const { toSignUp, toForgotPassword } = useAuthenticator()
+  const { toSignUp, toForgotPassword } = useAuthNavigation()
   const [email, setEmail] = useState("")
   const [password, setPassword] = useState("")
   const [error, setError] = useState("")
